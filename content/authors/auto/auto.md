@@ -2,7 +2,15 @@
 avatar = ""
 bio = "auto"
 featured = true
-social = []
 title = "auto"
+[[social]]
+title = ""
+url = ""
+[[social]]
+title = ""
+url = ""
+[[social]]
+title = ""
+url = ""
 
 +++
