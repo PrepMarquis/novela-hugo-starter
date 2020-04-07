@@ -2,7 +2,7 @@
 authors = []
 date = 2020-04-07T23:16:41Z
 excerpt = "Just start writing"
-hero = "/images/ian-schneider-TamMbr4okv4-unsplash.jpg"
+hero = "/images/james-pond-Z0uzZSM5i4M-unsplash.jpg"
 timeToRead = 2
 title = "Persistence For Starters ✍️"
 
