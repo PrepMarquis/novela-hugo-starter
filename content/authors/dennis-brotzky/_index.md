@@ -1,6 +1,6 @@
 ---
 title: Yiğit Aşkan
-bio: 9to5 magician
+bio: Yiğit Aşkan - 9to5 Magician - Full Time Student
 avatar: "/images/heroreal.jpg"
 featured: true
 social: []
