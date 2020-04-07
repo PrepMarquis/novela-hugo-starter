@@ -41,5 +41,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/deneme.md
