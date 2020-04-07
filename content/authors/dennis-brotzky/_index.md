@@ -1,19 +1,16 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: Yiğit Aşkan
+bio: '9to5 magician
+
+'
+avatar: "/images/heroreal.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: Instagram
+  url: https://instagram.com/yig.do
+- title: Twitter
+  url: https://twitter.com/yig_do
+- title: LinkedIn
+  url: https://linkedin.com/in/yigitaskan
+
 ---
