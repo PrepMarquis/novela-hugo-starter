@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-07T23:16:41Z
-draft = true
 excerpt = "Just start writing"
 hero = "/images/ian-schneider-TamMbr4okv4-unsplash.jpg"
 timeToRead = 2
