@@ -1,16 +1,16 @@
-baseURL: "https://example.com"
+baseURL: "https://askan.me"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Yigit's Blog"
 pygmentsstyle: 'monokai'
 
 # Theme settings
 theme: novela
 paginate: 6
 social:
-  twitter: "#"
+  twitter: "https://twitter.com/yig_do"
   github: "#"
-  instagram: "#"
-  linkedin: "#"
+  instagram: "https://instagram.com/yig.do"
+  linkedin: "https://linkedin.com/in/yigitaskan"
   dribbble: "#"
   youtube: "#"
 taxonomies:
