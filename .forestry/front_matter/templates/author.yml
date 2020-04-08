@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/yigit-askan/yigit-askan.md
 - content/authors/yiğit-aşkan.md
