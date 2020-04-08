@@ -9,3 +9,5 @@ title = "Sustainability Factor in Gen-Z Startups and Social Enterprises."
 
 +++
 ### Gotta love the classic classification of generations! It's everywhere.
+
+I have been working exclusively with young entrepreneurs since the spring of 2018 @ [uretkenakademi.com](https://uretkenakademi.com)
