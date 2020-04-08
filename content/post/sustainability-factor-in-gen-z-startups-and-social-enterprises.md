@@ -58,4 +58,4 @@ Okay this is where the scene gets a little awkward.
 
 Before 2007 and after maybe to 2010's society considered geeks arguably lesser than what it is today. Nowadays and especially in 2015-2019 we regarded gift-bearing-geeks of Silicon Valley as cyber-black-boxes inexplicable but somewhat good and beneficial. All of those wows about making world more democratic, open, connected and safe really flown until **privacy scandals (Facebook)**, **IPO crashes (Uber, WeWork)**, and **product failures (Basically any "smart" home appliance or plug-and-play there is.)** came along but the savvy geek demi-god image stayed the same. And some people are just carried away with it.
 
-If you've ever been to an incubator floor 
+If you've ever been to an incubator floor you can see various products developed with Z'ers that are overtly "**niche**" "**copypasta**" 
