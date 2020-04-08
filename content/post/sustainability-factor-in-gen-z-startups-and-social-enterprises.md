@@ -70,7 +70,9 @@ In a sense those "cycles" as I call it are somewhat unavoidable.
 
 Have you ever volunteered or worked in a startup before? Maybe you can recall the canned experience with me. You heard about a cool project and wondered about how to participate in it. Or maybe it was the concept you drawn upon and you see some young and yet big names looking at you at the landing page of the project. John Doe - TEDx Speaker - Alumni of Magnificent Incubator - CEO @ amazingstuff.co etc.
 
-Feels uncanny yet similar right? 
+Feels uncanny yet similar right?
+
+It's relatively easy to form as successful persona in Z'er age because in high school age people are relatively dormant on business scene and rather invest their time and energy into schoolwork, family or other concerns they really think about their resume once they sit down to prepare it in college. Most people does not have it prepared in high school and it's totally cool! That is what makes a shiny young leader so brilliant in internet having acomplished something in their early life compared to their counterparts when we generally see just people with other concerns, issues and priorities at that time. I am not saying entrepreneurs all have it easier because they came from affluent background I am saying people's priorities differ.
 
 I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
 
