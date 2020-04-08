@@ -31,8 +31,6 @@ Bu konseptleri test etmek için netlify ve hugo kullanan bir deneme yapalım. Bu
 
 [https://jamstackthemes.dev](https://jamstackthemes.dev/ "https://jamstackthemes.dev/") ve [https://themes.gohugo.io](https://themes.gohugo.io/ "https://themes.gohugo.io/") adreslerini inceleyerek bir tema seçebilir veya alternatif olarak tema seçiminizi [forestry.io](https://forestry.io/starters/) üzerinden yapabilirsiniz. Tema seçiminizi nereden yaptığınızdan bağımsız olarak indirdiğiniz tema klasörünü ayrı bir git reposu açarak commit etmeniz gerekmektedir. Sürece forestry üzerinden devam ettiğimizi farz edersek karşımıza forestry.io tarafından açılmış içinde tema ayarları be yazılar bulunan bir klasör dizisi çıkacaktır.
 
-![](/images/Screenshot from 2020-04-08 14.37.50.png)
-
 **Forestry.io** üzerinden Wordpress üzerinde yaptığınız gibi siteniz hakkında meta içerikleri değiştirebilir görsel ayarlamaları yapabilir yazar ekleyebilir ve çıkartabilirsiniz.
 
 Bir sonraki adım siteyi **netlify.com**'a deploy etmek
