@@ -20,6 +20,12 @@ Anyways, from the moment I set my mind up to become an entrepreneur. (_circa 201
 
 It is typical that with the surge of internet usage among young people, we consider working in small, independent projects more than ever. Digital hustles have lower entry tresholds, most of the resources and guides to launch an MVP are free. And with the startup bloom in the recent 4 years conventional education facilities really giving tech education a push for youngsters completing their secondary education. Some traditionalist education structures consider early entrepreneurship as a significant boost in Z'ers resume in Turkey (my ecosystem) or in USA and Europe alike.
 
+Let's have a look at a standart Z'er startup shall we? Most probably we'd find a mobile app made exclusively redundant in modern aesthetics and about a similarly hip subject such as a fitness tracker or a learning companion. You'd find tons of alternatives to that template take a look at producthunt there are tons of Z'er made apps sprawling around. Many of them are maintained singlehandedly with a tech savvy founder or a bunch of tech savvy people from different focuses.
+
+And we have our non-profit, we'd have a leader who'd form a triangle shaped management structure and singlehandedly sets the vision goals and metrics etc. Trying to recruit savvy people into the cause faster than they lose interest.
+
+While the coating is different let's look at what's inside underneath.
+
 * Most of the work done in Gen-Z startups are **pro-bono**, it hurts the ownership and continuity.
 * There is generally little effort ensuring **efficiency in for-profit** or **accountability in non-profits**.
 * Some people are doing it because it is somewhat cool
