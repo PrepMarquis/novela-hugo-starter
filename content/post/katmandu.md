@@ -335,7 +335,7 @@ Dünyanın en fotojenik ülkesi seçilen Nepal'e giderken en iyi kameranızı ve
 
 #### Iyi yolculuklar!
 
-PS. Ayhan Sicimoğlu'nun Renkler adlı programında Nepal 2 bölüm olarak yayınlanmıştı Nepal'i bir de onun ağzından ve görüşünden dinleyip izlemenizi tavsiye ederim
+PS. Ayhan Sicimoğlu'nun Renkler adlı programında Nepal 2 bölüm olarak yayınlanmıştı Nepal'i bir de onun ağzından ve görüşünden dinleyip izlemenizi tavsiye ederim.
 
 ![](/images/featured-500.jpg)
 
