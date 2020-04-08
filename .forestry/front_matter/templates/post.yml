@@ -42,6 +42,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/i̇ki-kerede-barselona.md
 - content/post/katmandu.md
 - content/post/persistence-for-starters-✍️.md
 - content/post/seattle-washington.md
