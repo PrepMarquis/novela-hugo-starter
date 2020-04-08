@@ -64,7 +64,7 @@ As much as we are enamored with gift-bearing-geeks and we wouldn't want to deny 
 
 #### Gen-Z entrepreneurs and founders work in cycles.
 
-In a sense those "cycles" as I call it are somewhat unavoidable. 
+In a sense those "cycles" as I call it are somewhat unavoidable. Because of the young ages and social occasions young founders who still continue to formal education sometimes encouraged to take a step down to focus on other priorities. Which in return harms the whole process of creation if you are cramming for a year-long period to sit for a 2-day long test to get into university as I did you may come back and find everything you strived for is decaying.
 
 #### With little to no formal education or experience on management, Z'ers often form initiatives around a **halo-effect-leader**.
 
