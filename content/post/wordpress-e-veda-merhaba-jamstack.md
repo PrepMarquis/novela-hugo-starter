@@ -43,6 +43,6 @@ Hesabınızda yeni bir proje başlatıp git hesabınızı bağladıktan sonra si
 
 Siteniz yayına girdikten sonra **forestry.io** veya git hesabınızda yapılacak her türlü değişiklik ve güncelleme netlify tarafından otomatik olarak yayınlanacaktır.
 
-Bu yazıyı okuduğunuz web sitesi **forestry.io CMS** üzerinde [**Nuvela**](https://github.com/forestryio/hugo-theme-novela) teması kullanılarak yapılmıştır ve **netlify** tarafından sunulmaktadır.
+Bu yazıyı okuduğunuz web sitesi **forestry.io CMS** üzerinde [**Novela**](https://github.com/forestryio/hugo-theme-novela) teması kullanılarak yapılmıştır ve **netlify** tarafından sunulmaktadır.
 
 Kolay Gelsin!
