@@ -49,3 +49,5 @@ This point actually adheres to the previous one: If there is an ownership proble
 As for the accountability, try to be aware of your foot and handprints in the work you do. I know hand and footprint smells "**non-profit**" but believe me in the age of consent marketing knowing your audience is a better boost than a 10.000$ adsense credit.
 
 A footprint is something you consume and feed upon to fuel your cause while handprint is something you catalyise in regards to your values and drives the impact you are making as a collective.
+
+Focus on understanding both of these aspects.
