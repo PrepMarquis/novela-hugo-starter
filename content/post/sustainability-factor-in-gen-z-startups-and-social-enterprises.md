@@ -51,3 +51,7 @@ As for the accountability, try to be aware of your foot and handprints in the wo
 A footprint is something you consume and feed upon to fuel your cause while handprint is something you catalyise in regards to your values and drives the impact you are making as a collective.
 
 Focus on understanding both of these aspects.
+
+#### Some people are doing it because it is somewhat cool
+
+Okay this is where the scene gets a little awkward
