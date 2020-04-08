@@ -4,7 +4,7 @@ date = 2020-04-08T06:51:15Z
 excerpt = "2018'in Ocak Ayında Nepal'in Başkenti Katmandu ve İkinci En Büyük Turizm Merkezi Pokhara'daydım."
 hero = "/images/prasesh-shiwakoti-lomash-NHh19i0IhO8-unsplash.jpg"
 timeToRead = 14
-title = "Katmandu ✍️"
+title = "Katmandu, Nepal 🇳🇵️"
 
 +++
 ### **_Dünyanın Çatısı_**
