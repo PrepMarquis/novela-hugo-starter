@@ -74,7 +74,9 @@ Feels uncanny yet similar right?
 
 It's relatively easy to form as successful persona in Z'er age because in high school age people are relatively dormant on business scene and rather invest their time and energy into schoolwork, family or other concerns they really think about their resume once they sit down to prepare it in college. Most people does not have it prepared in high school and it's totally cool! That is what makes a shiny young leader so brilliant in internet having accomplished something in their early life compared to their counterparts when we generally see just people with other concerns, issues and priorities at that time. I am not saying entrepreneurs all have it easier because they came from affluent background I am saying people's priorities differ.
 
-When you form a project entirely dependent on a shiny young leader you forbid people from accomplishing themselves by using the project and the resources out there as their vehicle. You set the goals and visions tied to that shiny persona, thus commiting to the biggest sins ever conceived in Z'er startups: limiting your team's ability to self-accomplish
+When you form a project entirely dependent on a shiny young leader you forbid people from accomplishing themselves by using the project and the resources out there as their vehicle. You set the goals and visions tied to that shiny persona, thus commiting to the biggest sins ever conceived in Z'er startups: limiting your team's ability to self-accomplish.
+
+Again take a look at formal essays on management and systemic design to craft a medium for self-discovery and fullfilment regardless of the focus and the radius of the work that you put in. It is always assuring that you make a positive impack both inwards and outwards.
 
 I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
 
