@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = - Yiğit Aşkan
 date = 2020-04-07T23:16:41Z
 excerpt = "Just start writing"
 hero = "/images/james-pond-Z0uzZSM5i4M-unsplash.jpg"
