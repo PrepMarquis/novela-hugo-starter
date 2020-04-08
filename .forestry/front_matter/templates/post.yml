@@ -42,4 +42,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/katmandu.md
 - content/post/persistence-for-starters-✍️.md
