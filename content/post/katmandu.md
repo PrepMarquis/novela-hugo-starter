@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-08T06:51:15Z
-draft = true
 excerpt = "2018'in Ocak Ayında Nepal'in Başkenti Katmandu ve İkinci En Büyük Turizm Merkezi Pokhara'daydım."
 hero = "/images/prasesh-shiwakoti-lomash-NHh19i0IhO8-unsplash.jpg"
 timeToRead = 0
