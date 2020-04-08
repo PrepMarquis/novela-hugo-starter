@@ -1,7 +1,6 @@
 +++
 avatar = "/images/heroreal.jpg"
 bio = "Yiğit Aşkan - 9to5 Magician - Full Time Student"
-draft = true
 featured = true
 title = "Yiğit Aşkan"
 [[social]]
