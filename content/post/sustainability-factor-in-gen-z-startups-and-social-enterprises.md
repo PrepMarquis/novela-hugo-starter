@@ -60,4 +60,4 @@ Before 2007 and after maybe to 2010's society considered geeks arguably lesser t
 
 If you've ever been to an incubator floor you can see various products developed with Z'ers that are overtly "**niche**" "**copypasta**" or "**overly promising"** without the groundwork.
 
-As much as we are enamored with gift-bearing-geeks and we wouldn't want to deny a team that is going to build the next best thing
+As much as we are enamored with gift-bearing-geeks and we wouldn't want to deny a team that is going to build the next best thing we should embrace the trend among young people who are doing it because of the coolness factor of it.
