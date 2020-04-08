@@ -68,6 +68,8 @@ In a sense those "cycles" as I call it are somewhat unavoidable.
 
 #### With little to no formal education or experience on management, Z'ers often form initiatives around a **halo-effect-leader**.
 
+Have you ever volunteered or worked in a startup before? Maybe you can recall the canned experience with me. You heard about a cool project and wondered about how to participate in it. Or maybe it was the concept you drawn upon and you see some young and yet big names looking at you at the landing page of the project. John Doe - TEDx Speaker - Alumni of Magnificent Incubator - CEO @ amazingstuff.co etc.
+
 I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
 
 Yigit Askan - 2020 - COO @ Uretken Akademi
