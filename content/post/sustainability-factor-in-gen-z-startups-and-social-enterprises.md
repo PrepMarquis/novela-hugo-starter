@@ -45,3 +45,7 @@ Seriously, as you value your idea to actually act on it you should take a look a
 #### There is generally little effort ensuring **efficiency in for-profit** or **accountability in non-profits**.
 
 This point actually adheres to the previous one: If there is an ownership problem and people are not commiting to your product or your cause in general you'd spend large amounts of energy in new recruits and training them only to lose them afterwards. Formal structures drive people to seek gains for the best of it. If people benefit from your collective work they'd be inclined to give back more than ever regardless of you are doing non-profit or for-profit works as long as you value their commitment. Understand the motives behind their drive Y'ers and Z'ers are considered to be value driven and have other strong motivations other than formal business and CV fillers.
+
+As for the accountability, try to be aware of your foot and handprints in the work you do. I know hand and footprint smells "**non-profit**" but believe me in the age of consent marketing knowing your audience is a better boost than a 10.000$ adsense credit.
+
+A footprint is something you consume and feed upon to fuel your cause while handprint is something you catalyise in regards to your values and drives the impact you are making as a collective.
