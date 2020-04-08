@@ -65,3 +65,9 @@ As much as we are enamored with gift-bearing-geeks and we wouldn't want to deny 
 #### Gen-Z entrepreneurs and founders work in cycles.
 
 In a sense those "cycles" as I call it are somewhat unavoidable. 
+
+#### With little to no formal education or experience on management, Z'ers often form initiatives around a **halo-effect-leader**.
+
+I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
+
+Yigit Askan - 2020 - COO @ Uretken Akademi
