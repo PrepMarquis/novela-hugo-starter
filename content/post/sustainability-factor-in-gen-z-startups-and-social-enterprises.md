@@ -8,10 +8,14 @@ timeToRead = 0
 title = "Sustainability Factor in Gen-Z Startups and Social Enterprises."
 
 +++
-### Gotta love the classic classification of generations! It's everywhere.
+### Gotta love the classic-classification of generations! It's everywhere.
+
+Yeah I totally get it by now. And chances are you do too. Gen X, Y and Z play or have played different roles in their respective stages of life. 
 
 [Here is an extensive report on that matter](https://www.visualcapitalist.com/meet-generation-z-the-newest-member-to-the-workforce/). Don't forget to check out Visual Capitalist every once in a while.
 
 I have been working exclusively with young entrepreneurs and founders since the spring of 2018 @ [uretkenakademi.com](https://uretkenakademi.com) we run a fully online incubator program targeted exclusively to solve preexisting problems at certain vertical sectors. So you don't actually worry about thinking on product-market fit. While you should be working on your **actual product**.
 
 Anyways, from the moment I set my mind up to become an entrepreneur. I'd spend times to get to know young entrepreneurs in the ecosystem. 
+
+It is typical that with the surge of internet usage among young people, we consider working in small, independent projects more than ever
