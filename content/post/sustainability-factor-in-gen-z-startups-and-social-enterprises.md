@@ -66,6 +66,8 @@ As much as we are enamored with gift-bearing-geeks and we wouldn't want to deny 
 
 In a sense those "cycles" as I call it are somewhat unavoidable. Because of the young ages and social occasions young founders who still continue to formal education sometimes encouraged to take a step down to focus on other priorities. Which in return harms the whole process of creation if you are cramming for a year-long period to sit for a 2-day long test to get into university as I did you may come back and find everything you strived for is decaying.
 
+Best way to minimize those cycles is to make sure you are directing your own life regarding to your priorities if the self-realization and the process of creation that you worked to enrich is a top priority to you you should strive to keep that. Conventional education has erected strong and competitive walls ahead of most of us. Many choose to simply go through. Go figure what you can do with a wall then!
+
 #### With little to no formal education or experience on management, Z'ers often form initiatives around a **halo-effect-leader**.
 
 Have you ever volunteered or worked in a startup before? Maybe you can recall the canned experience with me. You heard about a cool project and wondered about how to participate in it. Or maybe it was the concept you drawn upon and you see some young and yet big names looking at you at the landing page of the project. John Doe - TEDx Speaker - Alumni of Magnificent Incubator - CEO @ amazingstuff.co etc.
