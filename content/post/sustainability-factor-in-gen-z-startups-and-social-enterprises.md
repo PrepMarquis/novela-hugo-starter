@@ -26,8 +26,14 @@ And we have our non-profit, we'd have a leader who'd form a triangle shaped mana
 
 While the coating is different let's look at what's inside underneath.
 
+##### These are the general problems of all of these Z'er run programs.
+
 * Most of the work done in Gen-Z startups are **pro-bono**, it hurts the ownership and continuity.
 * There is generally little effort ensuring **efficiency in for-profit** or **accountability in non-profits**.
 * Some people are doing it because it is somewhat cool
 * Gen-Z entrepreneurs and founders work in cycles.
 * With little to no formal education or experience on management, Z'ers often form initiatives around a **halo-effect-leader**.
+
+#### Most of the work done in Gen-Z startups are **pro-bono**, it hurts the ownership and continuity.
+
+So when we discuss ownership and sustainability in Z'er startups 
