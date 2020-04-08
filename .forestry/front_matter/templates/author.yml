@@ -43,5 +43,9 @@ fields:
   type: boolean
   label: Featured Author
   description: Feature this author on the home page
+  default: true
+  showOnly:
+    field: featured
+    value: true
 pages:
 - content/authors/yigit-askan/yigit-askan.md
