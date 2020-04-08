@@ -40,4 +40,4 @@ So when we discuss ownership and sustainability in Z'er startups we generally me
 
 Although, if you run a Z'er company or a collective who call themselves a "**company**" it's always better to regard your team's work. Form a structure around the problems of ownership who does the work and outcomes belongs to whom? Could it be the main reasons that Z'er startups disappear as fast as they grew out of nowhere? 
 
-Seriously, as you value your idea to actually act on it you should take a look at management structure theories and best practices to take something out of it to apply it in your own scenario. It'll do wonders for you continuity.
+Seriously, as you value your idea to actually act on it you should take a look at management structure theories and best practices to take something out of it to apply it in your own scenario. It'll do wonders for you continuity and would push the right buttons for employee and volunteer satisfaction. People need to see their work gets the big picture somewhere and in particular to Gen-Z they want their work to get them to somewhere they believe in!
