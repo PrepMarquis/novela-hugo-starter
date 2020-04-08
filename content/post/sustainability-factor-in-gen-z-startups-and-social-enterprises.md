@@ -54,4 +54,6 @@ Focus on understanding both of these aspects.
 
 #### Some people are doing it because it is somewhat cool
 
-Okay this is where the scene gets a little awkward
+Okay this is where the scene gets a little awkward.
+
+Before 2007 and after maybe to 2010's society considered geeks 
