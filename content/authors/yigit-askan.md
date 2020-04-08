@@ -1,7 +1,6 @@
 +++
 avatar = "/images/heroreal.jpg"
 bio = "Yigit Askan - 9to5 Magician - Full Time Student"
-draft = true
 featured = true
 title = "Yigit Askan"
 [[social]]
