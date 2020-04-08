@@ -36,4 +36,4 @@ While the coating is different let's look at what's inside underneath.
 
 #### Most of the work done in Gen-Z startups are **pro-bono**, it hurts the ownership and continuity.
 
-So when we discuss ownership and sustainability in Z'er startups 
+So when we discuss ownership and sustainability in Z'er startups we generally mean lack of **formal structures** such as legal entities like businesses and employment records, paper trails etc. While there are very exceptional compaines in that matter such as [JUV](https://juvconsulting.com) your ordinary Z'er startup wouldn't have a formal structure because guess what in most of the jurisdictions they are not old enough to form the entity yet! Or the paperwork is another cost-bearing side of things or they just don't register **formal structures** as a priority. They are digital natives after all(!) who needs to be swarmed with adult busy work.
