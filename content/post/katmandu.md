@@ -11,7 +11,6 @@ title = "Katmandu ✍️"
 
 Nepal'e dünyanın çatısı denmesinin mantıklı sebepleri var dünyanın en yüksek 10 zirvesinden 8'inin Nepal'de bulunması ve elbette en yükseği Everest
 
-  
 Başkent Katmandu 5 Milyona yaklaşan nüfusu ve 1000 yıldan daha önceye dayanan tarihi ile 1960'larda hippi gençliğinin akınına uğramış olan kent hala Kuzey Amerika'nın da aralarında olduğu birçok coğrafyadan turist çekmektedir
 
 Katmandu vadisi içine Katmandu Patan ve Bhaktapur şehirlerini almakla beraber Asya'nın en eski kültürlerinin buluştuğu yerdir hindular ve budistlerin hac alanlarının da bulunduğu bölgede 7 dünya mirası yer alır
@@ -22,14 +21,14 @@ Bayrağı dünyada dikdörtgen olmayan sayılı bayraklardan biridir farklı bi�
 
 Nepal hakkında yazıma başlamadan önce yaşadıklarımı kısaca özetlemem gerekirse
 
-  
 **_Farklı ve Güzel_**
 
 Veya bu özeti şahsen tanıma imkanı bulduğum Nepalli film yıldızı Rajesh Hamal'dan alırsam
 
 Katmandu hakkında şöyle demişti
 
-#####   
+##### 
+
 **_Chaotic Paradise_**
 
 Asya kültürünün tam ortasına dalmayı farklılıkları ve dünya insanı olmanın ne olduğunu tam anlamıyla kavratan bir yolculuk, bir tecrübe
@@ -66,12 +65,10 @@ Qatar Airways hakkında değerlendirmeler internette bolca var hizmet kalitesi g
 
 #### Katar
 
-  
 Aktarmamız Doha'da
 
 Doha'da yapacağınız aktarmanız süresi size kalmış durumda Nepal yolcusu olarak havaalanı tercihinize göre değişmekle beraber 12-14 saate kadar aktarma bekleme süreniz olabiliyor Doha'da
 
-  
 Örneğin Ankara çıkışlı uçuş seçtiyseniz aktarma bekleme süreniz sabit 9 saat Istanbul çıkışlılar 2 saat 14 saat arası değişme gösteriyor
 
 Nepal'e gidişte Doha'yı gezmek için havaalanından çıktım dönüşte ise havaalanında kaldım zaten dönüşte gece yarısına denk geldiğimden dışarı çıkmam pek mantıklı değildi her iki seçeneği de gerçekleştirmiş olmam bu rehberi güçlendirdi diye düşünüyorum sırayla bahsedeceğim yolculuğun Katar kısmından da
@@ -120,15 +117,14 @@ Nepal kişi başına düşen gelirin 800 Dolarlarda gezindiği bir ülke olarak 
 
 Ilk bakışta büyük bir meblağ gibi gelmese de 300 dolar Nepal'den kol gücü ile hayatını kazanmaya gelmiş biri için çok şey ifade etmektedir Nepal Rupisi kurunu düşününce
 
-####   
+#### 
+
 Nepal'e Varış
 
-  
 Katar'dan kalkıştan yaklaşık 4.30 saat sonra Katmandu Tribhuvan Havaalanındayız
 
 Tribhuvan Nepal'i 50 yıla yakın bir süre yönetmiş kralın ismi bu mekana verilmiş
 
-  
 Havaalanında ve genel olarak dikkat etmeniz gerekenler
 
 Yeşil bordo siyah gri farketmeksizin Nepal bütün Türk pasaportlarına vize uygulamaktadır vize kapıda 25$ karşılığında kredi kartı veya nakit ödenerek yatırılır vize alacağınız yerde vize formu makineleri bulunur bu makinelerle kalacağınız yer kaç gün kalacağınız kişisel bilgilerininiz gibi bilgilerin bulunduğu bir form doldurursunuz vize alırken bu formu memura iletirsiniz ancak makineler oldukça hantal olduğundan bu formu online olarak Nepal'e gitmeden doldurabilirsiniz yanınızda her duruma karşı biyometrik vesikalık bulundurun
@@ -159,7 +155,7 @@ Ayrıca Nepal'in telefon kodu +997 Türkiye'yi ya da başka bir ülkeyi arayacak
 
 Telefonunuz için top-up kart aldığınızda (bu kartları bakkallardan mağazalardan birçok noktadan alabilirsiniz, ancak Ncell veya Nepal Telecom carrier ismi belirterek alın)
 
-\*400# tuşlayarak bakiyenizi öğrenebilir *412*16 haneli kod# aldığınız top-up karttan çıkan 16 haneli kodu yazarak bakiyenizi artırabilirsiniz geri kalan USSD kodlarını hatırlamıyorum mutlaka bir yerlerden bu kısa yol kodlarını bulabilirsiniz
+\*400# tuşlayarak bakiyenizi öğrenebilir _412_16 haneli kod# aldığınız top-up karttan çıkan 16 haneli kodu yazarak bakiyenizi artırabilirsiniz geri kalan USSD kodlarını hatırlamıyorum mutlaka bir yerlerden bu kısa yol kodlarını bulabilirsiniz
 
 Elektrikli cihazlarınız için adaptör kullanmanız gerekiyor Nepal büyük çoğunluklar Type I soket kullanır prizlerde ve 230 V
 
@@ -213,10 +209,10 @@ Gıda hariç her konuda pazarlık yapabilirsiniz zincir mağazaların az olması
 
 ATM ve kredi&banka kartı kullanabilirsiniz ancak ATM'den para çekim sırasında alınacak komisyonların çekeceğiniz miktardan bile fazla olabileceğiniz göz önünde bulundurun ayrıca sık sık yaşanan elektrik kesintileri ATM işlemi gerçekleştirirken sizi yakalarsa kartınız ile ilgili problemler yaşayabilirsiniz
 
-#####   
+##### 
+
 Sağlık Koşulları Hakkında
 
-  
 Nepal'e seyahat edeceklerin aklına ilk gelen konu başlıklarından birisi
 
 Seyahat Sağlığı (Sağlık Bakanlığı) ve CDC (ABD) tarafından verilen bilgiler önem arz etmektedir
@@ -301,7 +297,6 @@ Boudhanath Stupa önemli bir budist tapınağı
 
 ##### Ne Kadar Harcanır?
 
-  
 Yani Nepalin ucuzluğu aslında gelen turistin dolara erişiminin kolaylığı ile alakalı gelirinin büyük bölümünü turizmden elde eden sanayisi yetersiz bir ülkeden bahsediyoruz
 
 Her şey dolara endeksli şekilde yürümekte turizm temel geçim kaynağı
@@ -318,20 +313,20 @@ Bana bir gelecek sağlayabilecek bir ülke değil burası
 
 Katmandu dışında hiçbir şey yok her şey Katmandu'da yürüyor üniversite sınavına girmek için 10 saatlik yolu kendi imkanların ile gitmek zorundasın ki üniversiteler dünya çapında rekabet edebilecek durumda değiller
 
-#####   
+##### 
+
 Ne Alınır?
 
-  
 Nepal'in ulusal içkisi Khukri Rum
 
 Yak yünü tekstil ürünleri (Ki Thamel bunlarla dolu)
 
 Bunun dışında her kırtasiye kupalar magnetler anahtarlıklar not defterleri gibi küçük şeylerle dolu fiyatlar en fazla 5 dolar bu küçük hediyeliklerde
 
-#####   
+##### 
+
 Neler Hissedilebilir?
 
-  
 Kendi adıma ilk günlerde sadece kargaşayı hissetmiş ve durumumu sorgulamıştım Nepal ile karşılaştırıldığında düzen gurusu bir coğrafyadan geldiğimizi söyleyebilirim bu düzensizlikler örneğin elektrik kesintileri düzensiz trafik toz ve gürültü sizi de sıkabilir ancak insanın uyum sağlama yeteneği zamanla bunları önemsiz ayrıntılara çeviriyor
 
 En küçük ayrıntıyla bile sizi şaşırtabilecek bir coğrafya burası Stupalarda bulunan dua çarklarının arabaların ön konsolunda minyatürlerinin olması hatta bunların çalar saat versiyonlarının yapılıp satılması maske almak için girdiğiniz bakkalda forbes india bulmak gibi
@@ -340,12 +335,6 @@ Dünyanın en fotojenik ülkesi seçilen Nepal'e giderken en iyi kameranızı ve
 
 #### Iyi yolculuklar!
 
-  
-  
 PS. Ayhan Sicimoğlu'nun Renkler adlı programında Nepal 2 bölüm olarak yayınlanmıştı Nepal'i bir de onun ağzından ve görüşünden dinleyip izlemenizi tavsiye ederim
 
-![](/images/featured.jpg)
-
-![](/images/nepal3.jpg)![](/images/nepal2.jpg)![](/images/nepal5.jpg)![](/images/nepal8.jpg)![](/images/nepal9.jpg)![](/images/nepal4.jpg)![](/images/nepal7.jpg)![](/images/nepal6.jpg)![](/images/nepal10.jpg)
-
-![](/images/nepal11.jpg)![](/images/nepal14.jpg)![](/images/nepal13.jpg)![](/images/nepal20.jpg)![](/images/nepal12.jpg)![](/images/nepal17.jpg)![](/images/nepal16.jpg)![](/images/nepal15.jpg)![](/images/nepalek.jpg)![](/images/nepal18.jpg)![](/images/nepal19.jpg)
+![](/images/featured-500.jpg)
