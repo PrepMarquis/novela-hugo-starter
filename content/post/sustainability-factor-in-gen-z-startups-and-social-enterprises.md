@@ -16,6 +16,6 @@ Yeah I totally get it by now. And chances are, you do too. Gen X, Y and Z play o
 
 I have been working exclusively with young entrepreneurs and founders since the spring of 2018 @ [uretkenakademi.com](https://uretkenakademi.com) we run a fully online incubator program targeted exclusively to solve preexisting problems at certain vertical sectors. So you don't actually worry about thinking on product-market fit. While you should be working on your **actual product**.
 
-Anyways, from the moment I set my mind up to become an entrepreneur. (_circa 2017_) I'd spend times to get to know young entrepreneurs in the ecosystem. 
+Anyways, from the moment I set my mind up to become an entrepreneur. (_circa 2017_) I'd spend times to get to know young entrepreneurs in the ecosystem. What they do and what is that with their background so that they carried themselves (or carried by others) to actually launch a product in such early ages. Often times this age scale drops to 14-15 even into the first years of middle school if we look at the individual small projects and recognize them as an "_initiative_"
 
 It is typical that with the surge of internet usage among young people, we consider working in small, independent projects more than ever
