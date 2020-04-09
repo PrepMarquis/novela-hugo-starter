@@ -14,13 +14,9 @@ title = "Berlin, Almanya 🇩🇪️"
 
 Zirve çağrısını kısa süre önce almış ve yurt dışına gitme planlarını yapmak için hızlı hareket etmesi gereken bir üniversite öğrencisinin başına gelebilecek en güzel şey nedir? Şu aralar bu soruya cevabım kesinlikle **Corendon Airlines** ve [ucuzaucak.net](https://ucuzaucak.net) [ucuzgezi.info](https://ucuzgezi.info) bu üç sayfayı arada bir kontrol etmekten keyif alacağınızı düşünüyorum.
 
-Dediğim gibi Almanya hakkında herhangi bir ön hazırlık yapmaya zamanım olmadı ve Berlin şehir merkezinde gerçekten az zaman geçirdim. Ülkede bulunduğum zamanı çoğunda aynı eyalete bağlı bir banliyö olan Bad Belzig'deydim.
-
-Antalya havalimanında yaklaşık 4'te 1'i uykuyla geçen 8 saatlik bekleyiş sırasında günübirlik Berlin planımı tamamlama imkanı buldum. Rota aşağı yukarı şuna benziyordu:
-
-![](/images/Screenshot from 2020-04-09 17.38.37.png)
-
 Fark edeceğiniz üzere internette envai çeşit günübirlik Berlin makalelerinin tavsiye ettiği, hatta o ikonik aynı zamanda klişe hop-on-off otobüslerinin takip ettikleri rotayı takip ediyorum. Meydanda daireler çizerek yolda çeşitli ve genellikle halka açık binaları ziyaret ederek bu yolu tamamlayacağım. Elbette tek bir farkla! Yürüyerek gitmeye kadar verdim. Halka açık binaların yanına hızlıca DDR Museum turu da sıkıştırdım.
+
+Dediğim gibi Almanya hakkında herhangi bir ön hazırlık yapmaya zamanım olmadı ve Berlin şehir merkezinde gerçekten az zaman geçirdim. Ülkede bulunduğum zamanı çoğunda aynı eyalete bağlı bir banliyö olan Bad Belzig'deydim.
 
 Akışa geri dönecek olursak, Antalya'dan kalkan Corendon Airlines uçağı dünyanın herhangi bir yerinde bütçe odaklı havayollarından (budget-airline) beklenebileceği üzere Tegel Havalimanına çıkış ve girişlere en uzak terminal C'den giriş yapıyor. Havaalanından ayrılmak için toplu taşıma tercih ediyorsanız B terminaline asansörler ve koridorlar vasıtası ile ulaşmanız gerekiyor aksi durumda taksi kullanabilirsiniz.
 
@@ -32,7 +28,7 @@ Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimd
 
 Günübirlik plan yapanlara uyarı! Eğer buraya kadar elinizde bagajınız ile geldiyseniz merkez tren istasyonunda kilitli dolaplar mevcut. Benzer şekilde ben de izlediğim rota nedeniyle merkez tren istasyonunda iniyorum.
 
-![](/images/19-12-06 11-30-04 2067-500.jpg)
+Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimde bir otobüs hattı B terminalinin önünden 7-8 dakikada bir kalkıyor.
 
 ![](/images/IMG_2073-500.jpg)
 
@@ -68,19 +64,9 @@ Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğ
 
 ![](/images/IMG_2285-500.jpg)
 
-**Berliner Dom**
-
-![](/images/19-12-06 13-32-14 2257-500.jpg)
-
-Umarım tadilat bitmiştir.
-
 **DDR Museum**
 
-![](/images/19-12-06 14-04-10 2299-500.jpg)
-
 ![](/images/IMG_2292-500.jpg)
-
-![](/images/19-12-06 14-14-26 2348-500.jpg)
 
 ![](/images/IMG_2294-500.jpg)
 
@@ -117,8 +103,6 @@ DDR Museum Doğu Almanya tarihi ve kültürü hakkında interaktif bir deneyim y
 ![](/images/IMG_2525-500.jpg)
 
 ![](/images/IMG_2546-500.jpg)
-
-![](/images/19-12-06 15-32-17 2405-500.jpg)
 
 ![](/images/IMG_2557-500.jpg)
 
