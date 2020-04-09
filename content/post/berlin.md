@@ -10,6 +10,6 @@ title = "Berlin, Almanya 🇩🇪️"
 +++
 #### Çok Yaşa Corendon!
 
-2019'un Aralık ayının ilk haftasında Ashoka ChangemakerXchange Avrupa Zirvesi'ne katılmak amacıyla Berlin'de bulundum.
+2019'un Aralık ayının ilk haftasında Ashoka ChangemakerXChange Avrupa Zirvesi'ne katılmak amacıyla Berlin'de bulundum.
 
 Görüşmek Üzere!
