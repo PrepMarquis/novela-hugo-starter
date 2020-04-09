@@ -42,4 +42,12 @@ Ve **The Holocaust Memorial**
 
 Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğunlukla bir iş ve alışveriş alanından fazlası değil.
 
+**Berliner Dom**
+
+**DDR Museum**
+
+**East Side Gallery**
+
+**Alexanderplatz**
+
 **Görüşmek Üzere!**
