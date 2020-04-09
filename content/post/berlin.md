@@ -72,6 +72,8 @@ Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğ
 
 ![](/images/19-12-06 13-32-14 2257-500.jpg)
 
+Umarım tadilat bitmiştir.
+
 **DDR Museum**
 
 ![](/images/19-12-06 14-04-10 2299-500.jpg)
