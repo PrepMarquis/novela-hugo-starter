@@ -36,9 +36,9 @@ Günübirlik plan yapanlara uyarı! Eğer buraya kadar elinizde bagajınız ile 
 
 ![](/images/IMG_2073-500.jpg)
 
-İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... ![](/images/IMG_2074-500.jpg)
-
 ![](/images/IMG_2083-500.jpg)
+
+İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... 
 
 **Reichstag.**
 
