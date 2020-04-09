@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2020-04-08T22:09:31Z
-excerpt = "2019 Yılında Berlin'de Kısa Bir Süreliğine Bulundum, Ayrıca Bad Belzig'de Ashoka ChangemakerXChange Co-Creation zirvesinde bulundum."
+excerpt = "2019'un Aralık ayında Berlin ve Bad Belzig'de Ashoka ChangemakerXChange Co-Creation zirvesine katıldım."
 hero = "/images/claudio-schwarz-purzlbaum-pN684G33h_M-unsplash.jpg"
 timeToRead = 0
 title = "Berlin, Almanya 🇩🇪️"
