@@ -14,4 +14,12 @@ title = "Berlin, Almanya 🇩🇪️"
 
 Zirve çağrısını kısa süre önce almış ve yurt dışına gitme planlarını yapmak için hızlı hareket etmesi gereken bir üniversite öğrencisinin başına gelebilecek en güzel şey nedir? Şu aralar bu soruya cevabım kesinlikle **Corendon Airlines** ve [ucuzaucak.net](https://ucuzaucak.net) [ucuzgezi.info](https://ucuzgezi.info) bu üç sayfayı arada bir kontrol etmekten keyif alacağınızı düşünüyorum.
 
+Dediğim gibi Almanya hakkında herhangi bir ön hazırlık yapmaya zamanım olmadı ve Berlin şehir merkezinde gerçekten az zaman geçirdim. Ülkede bulunduğum zamanı çoğunda aynı eyalete bağlı bir banliyö olan Bad Belzig'deydim.
+
+Antalya havalimanında yaklaşık 4'te 1'i uykuyla geçen 8 saatlik bekleyiş sırasında günübirlik Berlin planımı tamamlama imkanı buldum. Rota aşağı yukarı şuna benziyordu:
+
+![](/images/Screenshot from 2020-04-09 17.38.37.png)
+
+![](/images/Screenshot from 2020-04-09 17.39.19.png)
+
 **Görüşmek Üzere!**
