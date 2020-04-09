@@ -26,6 +26,6 @@ Fark edeceğiniz üzere internette envai çeşit günübirlik Berlin makalelerin
 
 Akışa geri dönecek olursak, Antalya'dan kalkan Corendon Airlines uçağı dünyanın herhangi bir yerinde bütçe odaklı havayollarından (budget-airline) beklenebileceği üzere Tegel Havalimanına çıkış ve girişlere en uzak terminal C'den giriş yapıyor. Havaalanından ayrılmak için toplu taşıma tercih ediyorsanız B terminaline asansörler ve koridorlar vasıtası ile ulaşmanız gerekiyor aksi durumda taksi kullanabilirsiniz.
 
-Tegel (IATA:TXL) şu ana kadar gördüğüm en ilginç havalimanları arasında gerçekten Katmandu'yu geride bırakarak ilk sıraya oturuyor. Bir havalimanından çok 
+Tegel (IATA:TXL) şu ana kadar gördüğüm en ilginç havalimanları arasında gerçekten Katmandu'yu geride bırakarak ilk sıraya oturuyor. Bir havalimanından çok olabildiğince yer kazanmak için optimize edilmiş bir fuar alanını anımsatıyor. Havalimanı dendiğinde aklımıza gelen modellere tamamen ters dar ve inişli çıkışlı koridorlar, mağazalar ve bilet bankoları. İçerisi savaş zamanlarında kompozit malzemelerden yapılmış depoyu andırırken dışarısı brutalist mimarisi ile kendini açıklığa kavuşturmakta.
 
 **Görüşmek Üzere!**
