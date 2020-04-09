@@ -22,4 +22,6 @@ Antalya havalimanında yaklaşık 4'te 1'i uykuyla geçen 8 saatlik bekleyiş s�
 
 ![](/images/Screenshot from 2020-04-09 17.39.19.png)
 
+Fark edeceğiniz üzere internette envai çeşit günübirlik Berlin makakelerinin tavsiye ettiği hatta o ikonik aynı zamanda klişe hop-on-off otobüslerinin takip ettikleri rotayı takip ediyorum. Meydanda daireler çizerek yolda çeşitli ve genellikle halka açık binaları ziyaret ederek bu yolu tamamlayacağım. Tek bir farkla! Yürüyerek gitmeye kadar verdim.
+
 **Görüşmek Üzere!**
