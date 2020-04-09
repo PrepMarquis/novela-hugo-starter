@@ -76,6 +76,26 @@ Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğ
 
 **DDR Museum**
 
+![](/images/19-12-06 14-04-10 2299-500.jpg)
+
+![](/images/19-12-06 14-14-26 2348-500.jpg)
+
+![](/images/IMG_2292-500.jpg)
+
+![](/images/IMG_2294-500.jpg)
+
+![](/images/IMG_2298-500.jpg)
+
+![](/images/IMG_2300-500.jpg)
+
+![](/images/IMG_2302-500.jpg)
+
+![](/images/IMG_2303-500.jpg)
+
+![](/images/IMG_2305-500.jpg)
+
+![](/images/IMG_2349-500.jpg)
+
 **East Side Gallery**
 
 **Alexanderplatz**
