@@ -24,4 +24,6 @@ Antalya havalimanında yaklaşık 4'te 1'i uykuyla geçen 8 saatlik bekleyiş s�
 
 Fark edeceğiniz üzere internette envai çeşit günübirlik Berlin makalelerinin tavsiye ettiği, hatta o ikonik aynı zamanda klişe hop-on-off otobüslerinin takip ettikleri rotayı takip ediyorum. Meydanda daireler çizerek yolda çeşitli ve genellikle halka açık binaları ziyaret ederek bu yolu tamamlayacağım. Elbette tek bir farkla! Yürüyerek gitmeye kadar verdim. Halka açık binaların yanına hızlıca DDR Museum turu da sıkıştırdım.
 
+Akışa geri dönecek olursak, Antalya'dan kalkan Corendon Airlines uçağı dünyanın herhangi bir yerinde bütçe odaklı havayollarından (budget-airline) beklenebileceği üzere Tegel Havalimanına çıkış ve girişlere en uzak terminal C'den giriş yapıyor. 
+
 **Görüşmek Üzere!**
