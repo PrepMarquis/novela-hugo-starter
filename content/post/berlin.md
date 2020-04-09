@@ -78,8 +78,6 @@ Umarım tadilat bitmiştir.
 
 ![](/images/19-12-06 14-04-10 2299-500.jpg)
 
-![](/images/19-12-06 14-14-26 2348-500.jpg)
-
 ![](/images/IMG_2292-500.jpg)
 
 ![](/images/IMG_2294-500.jpg)
