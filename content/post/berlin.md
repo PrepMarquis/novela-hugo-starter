@@ -118,9 +118,9 @@ DDR Museum Doğu Almanya tarihi ve kültürü hakkında interaktif bir deneyim y
 
 ![](/images/IMG_2546-500.jpg)
 
-![](/images/IMG_2557-500.jpg)
-
 ![](/images/19-12-06 15-32-17 2405-500.jpg)
+
+![](/images/IMG_2557-500.jpg)
 
 ##### Ve Son olarak Ashoka Zirvesinden bir kaç fotoğraf
 
