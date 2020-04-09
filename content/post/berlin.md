@@ -7,7 +7,6 @@ timeToRead = 0
 title = "Berlin, Almanya 🇩🇪️"
 
 +++
-
 #### Çok Yaşa Corendon!
 
 2019'un Aralık ayının ilk haftasında [Ashoka ChangemakerXChange](https://changemakerxchange.org/) Avrupa Zirvesi'ne katılmak amacıyla Berlin'de bulundum. Yine aynı yılın Haziran ayında Barselona buluşmalarında büyük mutlulukla dahil olduğum bu inanılmaz komunite sadece girişimciliğe veya sosyal girişimciliğe dair dersler vermekle kalmadı henüz genç yaşımda bana değerli deneyimler kattı.
@@ -28,13 +27,11 @@ Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimd
 
 Günübirlik plan yapanlara uyarı! Eğer buraya kadar elinizde bagajınız ile geldiyseniz merkez tren istasyonunda kilitli dolaplar mevcut. Benzer şekilde ben de izlediğim rota nedeniyle merkez tren istasyonunda iniyorum.
 
-Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimde bir otobüs hattı B terminalinin önünden 7-8 dakikada bir kalkıyor.
-
 ![](/images/IMG_2073-500.jpg)
 
 ![](/images/IMG_2083-500.jpg)
 
-İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... 
+İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum...
 
 **Reichstag.**
 
