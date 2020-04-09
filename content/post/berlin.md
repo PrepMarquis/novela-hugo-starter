@@ -28,6 +28,8 @@ Akışa geri dönecek olursak, Antalya'dan kalkan Corendon Airlines uçağı dü
 
 Tegel (IATA:TXL) şu ana kadar gördüğüm en ilginç havalimanları arasında gerçekten Katmandu'yu geride bırakarak ilk sıraya oturuyor. Bir havalimanından çok olabildiğince yer kazanmak için optimize edilmiş bir fuar alanını anımsatıyor. Havalimanı dendiğinde aklımıza gelen modellere tamamen ters dar ve inişli çıkışlı koridorlar, mağazalar ve bilet bankoları. İçerisi savaş zamanlarında kompozit malzemelerden yapılmış depoyu andırırken dışarısı brutalist mimarisi ile kendini açıklığa kavuşturmakta.
 
-Almanya bulunduğum diğer Avrupa ülkeleri gibi kağıt toplu taşıma bileti sistemlerini halen şaşırtıcı derecede yaygın ve farklı kullanan ülkelerden bir tanesi. Otobüslere ve U ve S bahn adındaki trenlere binmek için geçerli biletiniz olması gerekmiyor. Turnikeler ve formal kontroller yok. Aynı zamanda bilet ücretleri sistemleri ne kadar uzağa gittiğinize ve bilet statünüze göre sürekli değişiyor. Bunları takip edip biletinizi toplu taşıma duraklarında damgalamak tamamen sizin sorumluluğunuzda. 
+Almanya bulunduğum diğer Avrupa ülkeleri gibi kağıt toplu taşıma bileti sistemlerini halen şaşırtıcı derecede yaygın ve farklı kullanan ülkelerden bir tanesi. Otobüslere ve U ve S bahn adındaki trenlere binmek için geçerli biletiniz olması gerekmiyor. Turnikeler ve formal kontroller yok. Aynı zamanda bilet ücretleri sistemleri ne kadar uzağa gittiğinize ve bilet statünüze göre sürekli değişiyor. Bunları takip edip biletinizi toplu taşıma duraklarında damgalamak tamamen sizin sorumluluğunuzda.
+
+Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimde bir otobüs hattı B terminalinin önünden 7-8 dakikada bir kalkıyor.
 
 **Görüşmek Üzere!**
