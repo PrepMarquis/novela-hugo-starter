@@ -100,6 +100,24 @@ DDR Museum Doğu Almanya tarihi ve kültürü hakkında interaktif bir deneyim y
 
 **East Side Gallery**
 
-**Alexanderplatz**
+![](/images/IMG_2395-500.jpg)
+
+![](/images/IMG_2399-500.jpg)
+
+![](/images/IMG_2403-500.jpg)
+
+![](/images/IMG_2416-500.jpg)
+
+![](/images/IMG_2427-500.JPG)
+
+![](/images/IMG_2448-500.JPG)
+
+![](/images/IMG_2520-500.jpg)
+
+![](/images/IMG_2525-500.jpg)
+
+![](/images/IMG_2546-500.jpg)
+
+![](/images/IMG_2557-500.jpg)
 
 **Görüşmek Üzere!**
