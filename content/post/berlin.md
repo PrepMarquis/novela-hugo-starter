@@ -34,15 +34,45 @@ Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimd
 
 Günübirlik plan yapanlara uyarı! Eğer buraya kadar elinizde bagajınız ile geldiyseniz merkez tren istasyonunda kilitli dolaplar mevcut. Benzer şekilde ben de izlediğim rota nedeniyle merkez tren istasyonunda iniyorum.
 
-İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... **Reichstag.**
+![](/images/19-12-06 11-30-04 2067-500.jpg)
+
+![](/images/IMG_2073-500.jpg)
+
+İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... ![](/images/IMG_2074-500.jpg)
+
+![](/images/IMG_2083-500.jpg)
+
+**Reichstag.**
+
+![](/images/IMG_2138-500.jpg)
 
 Yanı başında **Brandenburg Tor**
 
+![](/images/IMG_2193-500.jpg)
+
 Ve **The Holocaust Memorial**
+
+![](/images/IMG_2199-500.jpg)
 
 Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğunlukla bir iş ve alışveriş alanından fazlası değil.
 
+![](/images/IMG_2205-500.jpg)
+
+![](/images/IMG_2209-500.JPEG)
+
+![](/images/IMG_2214-500.jpg)
+
+![](/images/IMG_2216-500.jpg)
+
+![](/images/IMG_2245-500.jpg)
+
+![](/images/IMG_2251-500.jpg)
+
+![](/images/IMG_2285-500.jpg)
+
 **Berliner Dom**
+
+![](/images/19-12-06 13-32-14 2257-500.jpg)
 
 **DDR Museum**
 
