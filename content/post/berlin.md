@@ -96,6 +96,8 @@ Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğ
 
 ![](/images/IMG_2349-500.jpg)
 
+DDR Museum Doğu Almanya tarihi ve kültürü hakkında interaktif bir deneyim yaşamak isteyen herkesin ziyaret etmeyi düşünmesi gereken bir yer. Klasik müze deneyimini Doğu Almanya'da yaşamak nasıl bir histi? Sorusu ile gerçekten iyi birleştirebilmiş bu müzenin işletmesinde Türkler de görev alıyorlar.
+
 **East Side Gallery**
 
 **Alexanderplatz**
