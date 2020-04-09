@@ -32,4 +32,14 @@ Almanya bulunduğum diğer Avrupa ülkeleri gibi kağıt toplu taşıma bileti s
 
 Eğer TXL'de inip şehir merkezine en yakın yolu arıyorsanız yine aynı isimde bir otobüs hattı B terminalinin önünden 7-8 dakikada bir kalkıyor.
 
+Günübirlik plan yapanlara uyarı! Eğer buraya kadar elinizde bagajınız ile geldiyseniz merkez tren istasyonunda kilitli dolaplar mevcut. Benzer şekilde ben de izlediğim rota nedeniyle merkez tren istasyonunda iniyorum.
+
+İstasyonun hemen ilerisinde ilk yer işaretime yaklaşıyorum... **Reichstag.**
+
+Yanı başında **Brandenburg Tor**
+
+Ve **The Holocaust Memorial**
+
+Memorial'e girdiğiniz caddeyi takip ettiğinizde ise **Postdamer Platz.** Çoğunlukla bir iş ve alışveriş alanından fazlası değil.
+
 **Görüşmek Üzere!**
