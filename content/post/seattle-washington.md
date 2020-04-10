@@ -28,7 +28,7 @@ Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya toplulukla
 
 Akılda bulundurulması gerekenlerden biri ulaşımın Türkiye veya avrupa ülkelerinde olduğu gibi işlemeyeceğidir. Toplu taşımaya binerken her zaman bozuk para bulundurmalısınız zira para üstü vermek gibi bir uygulamaları yoktur. Alternatif olarak Avrupa'nın çoğundan daha yaygın e-scooter ve bisiklet kiralama ağı mevcuttur. En çok tercih edilenleri Lime ve Donkey Republic olmak üzere. Elbette Uber ve Lyft gibi alternatifleri de unutmamak gerek şehir içinde bulabileceğiniz transfer hizmetlerinden ve taksilerden çok daha ekonomik tercihler.
 
-Yapabileceğiniz en iyi etkinliklerden biri Downtown'da yapılan maçları takip etmek ve yine aynı bölgede gezintiler yapmaktır. Bu maçlar kentte en çok seyirci çeken etkinliklerden biridir. Zaman bulabilirseniz marina çevresinde bir bisiklet gezintisini de gerçekten değerlendirmelisiniz.
+Yapabileceğiniz en iyi etkinliklerden biri Downtown'da yapılan maçları takip etmek ve yine aynı bölgede gezintiler yapmaktır. Bu maçlar kentte en çok seyirci çeken etkinliklerden biridir. Zaman bulabilirseniz marina çevresinde bir bisiklet gezintisini de gerçekten değerlendirmelisiniz. Özel yapım bisiklet mağazaları ilginç bir şekilde marinanın her tarafında bulunuyor. Bisiklet günlük ulaşımın her noktasında kendine yer bulmuş durumda, en basit ve trafiksiz ara yollarda bile özel ayrılmış şeritlerde bisiklet yolları bulunuyor. Bu durumda bisiklet kiralama uygulamalarına başvurmak Seattle'da gerçekten iyi bir fikir.
 
 University of Washington kampüsünden birkaç fotoğraf
 
