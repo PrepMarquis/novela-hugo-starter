@@ -14,9 +14,9 @@ University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede te
 
 Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette karşılaşabileceğiniz önerilerden çok da farklı şeyler söylemeyeceğimi hatırlatmak isterim. Vize süreçlerinizi mümkün olduğu kadar bireysel yürütmeniz sizi hem süreç hakkında bilgi sahibi yapacak hem de (eğer varsa) katılacağınız vize mülakatında rahat olmanızı sağlayacaktır. Organizasyon için [Priceline](https://priceline.com) kullanmanızı önerebilirim. Türk Havayolları alternatifi olarak bir veya birden fazla aktarma ile transatlantik uçuşlar düzenleyen şirketleri listeleme konusunda gerçekten iyi performans sergileyen bir sistemleri var. Sunduğu fiyatlar skyscanner üzerinden denk geleceğiniz sıradan fiyatlara göre daha uygun.
 
-Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz.
+Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz. Ayrıca giriş prosedürleri sıklıkla gidilen diğer bir çok ülkede bulunmayan maddeler içeriyor. Örneğin varış uçuşunuzda bir gümrük formu dolduruyorsunuz. Her vize tipinden yolcu farklı farklı işlemlerden geçiyor.
 
-Ben priceline üzerinden bulduğum tek aktarmalı skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim.
+Ben Priceline üzerinden bulduğum tek aktarmalı Skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim.
 
 ![](/images/IMG_20180730_072354388_HDR-500.jpg)
 
@@ -24,7 +24,9 @@ Ben priceline üzerinden bulduğum tek aktarmalı skyteam paketinde karar kıld�
 
 University of Washington veya UDub (UW) açık kampüs düzeni ile şehirle kendisini gerçekten iyi bağdaştırıyor. Kampüs neredeyse Seattle'ın şehir merkezinin 8'de birini kaplaycak kadar büyük ve üniversite mensuplarına ait binalar haricinde kampüs herkesin girişine tamamen açık! Türkiye'de henüz oturtmayı başaramadığımız çok tatlı bir uygulama.
 
-Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya topluluklarından göçmen yoğunluğunun yüksek seviyede olduğu bir kent. Bu nedenle UDub'da göz ardı edilemeyecek bir Asyalı nüfusu mevcut.
+Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya topluluklarından göçmen yoğunluğunun yüksek seviyede olduğu bir kent. Bu nedenle UDub'da göz ardı edilemeyecek bir Asyalı nüfusu mevcut. Şehir aynı zamanda yükselen bir teknoloji merkezi olmasıyla biliniyor. Havalimanından şehir merkezine yapacağınız ortalama 45 dakikalık yolculukta Boeing'in ana üretim merkezlerini göreceksiniz. Öyle ki eyaletin ana sembollerinden biri havacılık endüstrisi! Bu durumun izleri kampüse kadar taşıyor Husky'lerin ana sponsoru, Alaska Airlines. 
+
+Akılda bulundurulması gerekenlerden biri
 
 University of Washington kampüsünden birkaç fotoğraf
 
