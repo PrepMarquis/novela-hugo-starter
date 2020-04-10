@@ -13,3 +13,9 @@ title = "The End of \"Selections\""
 Hey! maybe an automated reply bot would catch your message to follow-up on you. Then proceed to send you latest updates from the company/school/program you applied for. Who knows?
 
 It is pretty much evident that our world is a one piece of solid competition over scarce resources. 
+
+This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face to face setting.
+
+Most importantly, we believe that in our day and age we should not seek for people who can deliver you knowledge at demand, But rather turn it into a system.
+
+**Yigit Askan - COO @** [**uretkenakademi.com**](https://uretkenakademi.com)
