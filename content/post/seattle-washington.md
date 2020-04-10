@@ -10,7 +10,7 @@ title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 +++
 #### 2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim. 
 
-University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede tekrarlamayı istiyorum :)) fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim. 
+University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede tekrarlamayı istiyorum.) fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim. 
 
 Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette karşılaşabileceğiniz önerilerden çok da farklı şeyler söylemeyeceğimi hatırlatmak isterim. Vize süreçlerinizi mümkün olduğu kadar bireysel yürütmeniz sizi hem süreç hakkında bilgi sahibi yapacak hem de (eğer varsa) katılacağınız vize mülakatında rahat olmanızı sağlayacaktır. Organizasyon için [Priceline](https://priceline.com) kullanmanızı önerebilirim. Türk Havayolları alternatifi olarak bir veya birden fazla aktarma ile transatlantik uçuşlar düzenleyen şirketleri listeleme konusunda gerçekten iyi performans sergileyen bir sistemleri var. Sunduğu fiyatlar skyscanner üzerinden denk geleceğiniz sıradan fiyatlara göre daha uygun.
 
@@ -24,6 +24,8 @@ Ben priceline üzerinden bullduğum tek aktarmalı skyteam paketinde karar kıld
 
 University of Washington veya UDub (UW) açık kampüs düzeni ile şehirle kendisini gerçekten iyi bağdaştırıyor. Kampüs neredeyse Seattle'ın şehir merkezinin 8'de birini kaplaycak kadar büyük ve üniversite mensuplarına ait binalar haricinde kampüs herkesin girişine tamamen açık! Türkiye'de henüz oturtmayı başaramadığımız çok tatlı bir uygulama.
 
+Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya topluluklarından göçmen yoğunluğunun yüksek seviyede olduğu bir kent. Bu nedenle UDub'da göz ardı edilemeyecek bir Asyalı nüfusu mevcut.
+
 University of Washington kampüsünden birkaç fotoğraf...
 
 ![](/images/IMG_20180731_145606838_HDR-500.jpg)![](/images/IMG_20180731_161023897_HDR-500.jpg)![](/images/IMG_20180731_161100708-500.jpg)![](/images/IMG_20180731_161255236_HDR-500.jpg)
@@ -36,8 +38,10 @@ Fotoğrafta gördüğünüz gibi kampüs içinde UDub Huskies'in sahası var. Ay
 
 **Safeco Field**
 
-![](/images/IMG_20180802_185353250_HDR-500.jpg)
+![](/images/IMG_20180802_185353250_HDR-500.jpg)![](/images/IMG_20180802_194954169_HDR-500.jpg)
 
-![](/images/IMG_20180802_194954169_HDR-500.jpg)
+Şehrin Güneybatısındaki Discovery Park'a yakın kaldığım yerin çevresinde sık sık yürüyüşlere çıktım.
+
+![](/images/IMG_20180802_125250729_HDR-500.jpg)![](/images/IMG_20180801_171542493-500.jpg)![](/images/IMG_20180801_170504421_HDR-500.jpg)![](/images/IMG_20180801_173349673-500.jpg)![](/images/IMG_20180801_164507036_HDR-500.jpg)![](/images/IMG_20180801_163950229-500.jpg)
 
 eee
