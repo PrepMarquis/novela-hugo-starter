@@ -26,7 +26,7 @@ University of Washington veya UDub (UW) açık kampüs düzeni ile şehirle kend
 
 Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya topluluklarından göçmen yoğunluğunun yüksek seviyede olduğu bir kent. Bu nedenle UDub'da göz ardı edilemeyecek bir Asyalı nüfusu mevcut. Şehir aynı zamanda yükselen bir teknoloji merkezi olmasıyla biliniyor. Havalimanından şehir merkezine yapacağınız ortalama 45 dakikalık yolculukta Boeing'in ana üretim merkezlerini göreceksiniz. Öyle ki eyaletin ana sembollerinden biri havacılık endüstrisi! Bu durumun izleri kampüse kadar taşıyor Husky'lerin ana sponsoru, Alaska Airlines.
 
-Akılda bulundurulması gerekenlerden biri ulaşımın Türkiye veya avrupa ülkelerinde olduğu gibi işlemeyeceğidir. Toplu taşımaya binerken her zaman bozuk para bulundurmalısınız zira para üstü vermek gibi bir uygulamaları yoktur. Alternatif olarak Avrupa'nın çoğundan daha yaygın e-scooter ve bisiklet kiralama ağı mevcuttur. En çok tercih edilenleri Lime ve Donkey Republic olmak üzere.
+Akılda bulundurulması gerekenlerden biri ulaşımın Türkiye veya avrupa ülkelerinde olduğu gibi işlemeyeceğidir. Toplu taşımaya binerken her zaman bozuk para bulundurmalısınız zira para üstü vermek gibi bir uygulamaları yoktur. Alternatif olarak Avrupa'nın çoğundan daha yaygın e-scooter ve bisiklet kiralama ağı mevcuttur. En çok tercih edilenleri Lime ve Donkey Republic olmak üzere. Elbette Uber ve Lyft gibi alternatifleri de unutmamak gerek şehir içinde bulabileceğiniz transfer hizmetlerinden ve taksilerden çok daha ekonomik tercihler.
 
 University of Washington kampüsünden birkaç fotoğraf
 
