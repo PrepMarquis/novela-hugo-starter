@@ -8,4 +8,3 @@ timeToRead = 0
 title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 
 +++
-#### A/B mi bunun türü? Diye sordu yakından gelen belli belirsiz bir ses.
