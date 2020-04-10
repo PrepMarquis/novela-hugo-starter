@@ -10,7 +10,7 @@ title = "The End of \"Selections\""
 +++
 #### We live in a world of rejection letters, poor grades, disillusioning resumes and that cold silence after you hit send.
 
-But hey! Maybe an automated reply bot would catch your message to follow-up on you. Then proceed to send you latest updates from the company/school/program you applied for. Who knows?
+But hey! Maybe an automated reply bot would catch your message to follow-up on you. Then proceed to send you the **latest updates** from the company/school/program you applied for. Who knows?
 
 It is pretty much evident that our world is a one piece of solid competition over scarce resources. 
 
