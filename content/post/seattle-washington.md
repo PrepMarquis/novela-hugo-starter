@@ -20,4 +20,4 @@ Ben priceline üzerinden bullduğum tek aktarmalı skyteam paketinde karar kıld
 
 ![](/images/IMG_20180730_090533299-500.jpg)
 
-eee
+University of Washington veya UDub (UW) açık kampüs düzeni ile şehirle kendisini gerçekten iyi bağdaştırıyor. Kampüs neredeyse Seattle'ın şehir merkezinin 8'de birini kaplaycak kadar büyük ve üniversite mensuplarına ait binalar haricinde kampüs herkesin girişine tamamen açık! Türkiye'de henüz oturtmayı başaramadığımız çok tatlı bir uygulama.
