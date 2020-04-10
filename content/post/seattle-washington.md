@@ -34,7 +34,7 @@ University of Washington kampüsünden birkaç fotoğraf...
 
 Fotoğrafta gördüğünüz gibi kampüs içinde UDub Huskies'in sahası var. Ayrıca üniversitenin kütüphanesi koleksiyon olarak gerçekten çok geniş.
 
-Safeco Field
+**Safeco Field**
 
 ![](/images/IMG_20180802_185353250_HDR-500.jpg)
 
