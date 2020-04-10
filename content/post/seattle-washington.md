@@ -32,4 +32,6 @@ University of Washington kampüsünden birkaç fotoğraf...
 
 ![](/images/IMG_20180731_164036435_HDR-500.jpg)![](/images/IMG_20180731_174149477-500.jpg)![](/images/IMG_20180731_174215219_BURST033-500.jpg)![](/images/IMG_20180801_173012067-500.jpg)![](/images/IMG_20180801_174122057-500.jpg)
 
+Fotoğrafta gördüğünüz gibi kampüs içinde UDub huskies'in sahası var ayrıca üniversitenin kütüphanesi koleksiyon olarak gerçekten çok geniş.
+
 eee
