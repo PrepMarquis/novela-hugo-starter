@@ -81,4 +81,4 @@ Again take a look at formal essays on management and systemic design to craft a 
 
 I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
 
-Yigit Askan - 2020 - COO @ Uretken Akademi
+**Yigit Askan - 2020 - COO @ Uretken Akademi**
