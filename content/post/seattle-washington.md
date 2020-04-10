@@ -14,7 +14,7 @@ University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede te
 
 Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette karşılaşabileceğiniz önerilerden çok da farklı şeyler söylemeyeceğimi hatırlatmak isterim. Vize süreçlerinizi mümkün olduğu kadar bireysel yürütmeniz sizi hem süreç hakkında bilgi sahibi yapacak hem de (eğer varsa) katılacağınız vize mülakatında rahat olmanızı sağlayacaktır. Organizasyon için [Priceline](https://priceline.com) kullanmanızı önerebilirim. Türk Havayolları alternatifi olarak bir veya birden fazla aktarma ile transatlantik uçuşlar düzenleyen şirketleri listeleme konusunda gerçekten iyi performans sergileyen bir sistemleri var. Sunduğu fiyatlar skyscanner üzerinden denk geleceğiniz sıradan fiyatlara göre daha uygun.
 
-Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz.
+Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz. 
 
 Ben priceline üzerinden bullduğum tek aktarmalı skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim.
 
@@ -26,7 +26,7 @@ University of Washington veya UDub (UW) açık kampüs düzeni ile şehirle kend
 
 Kampüs ve şehir çok kültürlü bir yapıya sahip. Özellikle Asya topluluklarından göçmen yoğunluğunun yüksek seviyede olduğu bir kent. Bu nedenle UDub'da göz ardı edilemeyecek bir Asyalı nüfusu mevcut.
 
-University of Washington kampüsünden birkaç fotoğraf...
+University of Washington kampüsünden birkaç fotoğraf
 
 ![](/images/IMG_20180731_145606838_HDR-500.jpg)![](/images/IMG_20180731_161023897_HDR-500.jpg)![](/images/IMG_20180731_161100708-500.jpg)![](/images/IMG_20180731_161255236_HDR-500.jpg)
 
