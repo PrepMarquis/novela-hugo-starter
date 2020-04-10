@@ -43,5 +43,3 @@ Fotoğrafta gördüğünüz gibi kampüs içinde UDub Huskies'in sahası var. Ay
 Şehrin Güneybatısındaki Discovery Park'a yakın kaldığım yerin çevresinde sık sık yürüyüşlere çıktım.
 
 ![](/images/IMG_20180802_125250729_HDR-500.jpg)![](/images/IMG_20180801_171542493-500.jpg)![](/images/IMG_20180801_170504421_HDR-500.jpg)![](/images/IMG_20180801_173349673-500.jpg)![](/images/IMG_20180801_164507036_HDR-500.jpg)![](/images/IMG_20180801_163950229-500.jpg)
-
-eee
