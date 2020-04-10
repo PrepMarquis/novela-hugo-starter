@@ -12,6 +12,8 @@ title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 
 Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette karşılaşabileceğiniz önerilerden çok da farklı şeyler söylemeyeceğimi hatırlatmak isterim. Vize süreçlerinizi mümkün olduğu kadar bireysel yürütmeniz sizi hem süreç hakkında bilgi sahibi yapacak hem de (eğer varsa) katılacağınız vize mülakatında rahat olmanızı sağlayacaktır. Organizasyon için [Priceline](https://priceline.com) kullanmanızı önerebilirim. Türk Havayolları alternatifi olarak bir veya birden fazla aktarma ile transatlantik uçuşlar düzenleyen şirketleri listeleme konusunda gerçekten iyi performans sergileyen bir sistemleri var. Sunduğu fiyatlar skyscanner üzerinden denk geleceğiniz sıradan fiyatlara göre daha uygun.
 
+Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz.
+
 Ben priceline üzerinden bullduğum tek aktarmalı skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim.
 
 ![](/images/IMG_20180730_072354388_HDR-500.jpg)
