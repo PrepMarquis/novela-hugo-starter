@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-08T20:26:46Z
-draft = true
 excerpt = "2018 Yazında Amerika Birleşik Devletleri'nin Washington Eyaleyinde bulunan Seattle kentindeydim."
 hero = "/images/milkovi-skUTVJi8-jc-unsplash.jpg"
 timeToRead = 0
@@ -16,7 +15,7 @@ Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette kar�
 
 Ayrıca vize türünüzü ve seyahatiniz hakkında bilgileri aklınızda tutmanızı öneririm birden fazla yerde bu konuda sorgulanabilirsiniz. Ayrıca giriş prosedürleri sıklıkla gidilen diğer bir çok ülkede bulunmayan maddeler içeriyor. Örneğin varış uçuşunuzda bir gümrük formu dolduruyorsunuz. Her vize tipinden yolcu farklı farklı işlemlerden geçiyor. Ülkeden ayrılırken pasaportunuza çıkış damgası vurulmazsa meraka kapılmatın prosedürleri bu şekilde.
 
-Ben Priceline üzerinden bulduğum tek aktarmalı Skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim.
+Ben Priceline üzerinden bulduğum tek aktarmalı Skyteam paketinde karar kıldım. Şu anda faaliyetlerine son verilmiş İstanbul Atatürk Havalimanı'na son ziyaretimdi. Airfrance'ın yine faaliyetlerini durduran Joon adındaki budget taşıyıcısını kullanarak Paris CDG havalimanından Seattle'a giden başka bir Delta bağlantısına geçtim. Dönüşte ise rota Amsterdam havalimanından geçti.
 
 ![](/images/IMG_20180730_072354388_HDR-500.jpg)
 
