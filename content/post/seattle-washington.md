@@ -8,4 +8,4 @@ timeToRead = 0
 title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 
 +++
-2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim. University of Washington'da TA olarak bulunduğum dönemden fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim.
+2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim. University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede tekrarlamayı istiyorum :)) fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim.
