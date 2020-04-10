@@ -30,7 +30,7 @@ Akılda bulundurulması gerekenlerden biri ulaşımın Türkiye veya avrupa ülk
 
 Yapabileceğiniz en iyi etkinliklerden biri Downtown'da yapılan maçları takip etmek ve yine aynı bölgede gezintiler yapmaktır. Bu maçlar kentte en çok seyirci çeken etkinliklerden biridir. Zaman bulabilirseniz marina çevresinde bir bisiklet gezintisini de gerçekten değerlendirmelisiniz. Özel yapım bisiklet mağazaları ilginç bir şekilde marinanın her tarafında bulunuyor. Bisiklet günlük ulaşımın her noktasında kendine yer bulmuş durumda, en basit ve trafiksiz ara yollarda bile özel ayrılmış şeritlerde bisiklet yolları bulunuyor. Bu durumda bisiklet kiralama uygulamalarına başvurmak Seattle'da gerçekten iyi bir fikir.
 
-University of Washington kampüsünden birkaç fotoğraf
+**University of Washington kampüsünden birkaç fotoğraf**
 
 ![](/images/IMG_20180731_145606838_HDR-500.jpg)![](/images/IMG_20180731_161023897_HDR-500.jpg)![](/images/IMG_20180731_161100708-500.jpg)![](/images/IMG_20180731_161255236_HDR-500.jpg)
 
