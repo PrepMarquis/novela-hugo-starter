@@ -8,8 +8,9 @@ timeToRead = 0
 title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 
 +++
+#### 2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim. 
 
-2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim. University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede tekrarlamayı istiyorum :)) fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim.
+University of Washington'da TA olarak bulunduğum dönemden (En kısa sürede tekrarlamayı istiyorum :)) fotoğraf galerime düşenlerden ve aklımda kalanlardan oluşan bir yazı düzenlemeye karar verdim. 
 
 Benzer bir yolculuk öncesinde bu gönderiye denk gelenler için internette karşılaşabileceğiniz önerilerden çok da farklı şeyler söylemeyeceğimi hatırlatmak isterim. Vize süreçlerinizi mümkün olduğu kadar bireysel yürütmeniz sizi hem süreç hakkında bilgi sahibi yapacak hem de (eğer varsa) katılacağınız vize mülakatında rahat olmanızı sağlayacaktır. Organizasyon için [Priceline](https://priceline.com) kullanmanızı önerebilirim. Türk Havayolları alternatifi olarak bir veya birden fazla aktarma ile transatlantik uçuşlar düzenleyen şirketleri listeleme konusunda gerçekten iyi performans sergileyen bir sistemleri var. Sunduğu fiyatlar skyscanner üzerinden denk geleceğiniz sıradan fiyatlara göre daha uygun.
 
