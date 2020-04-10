@@ -8,3 +8,4 @@ timeToRead = 0
 title = "Seattle, Amerika Birleşik Devletleri 🇺🇸️"
 
 +++
+2018 Yaz aylarında yaşadığım yerden 10.000 Km uzaklaşmamdan bahsetmeden edemedim.
