@@ -8,13 +8,11 @@ timeToRead = 0
 title = "The End of \"Selections\""
 
 +++
-#### We live in a world of rejection letters, poor grades, disillusioning resumes and that cold silence after you hit send.
+### We live in a world of rejection letters, poor grades, disillusioning resumes and that cold silence after you hit send.
 
 But hey! Maybe an automated reply bot would catch your message to follow-up on you. Then proceed to send you the **latest updates** from the company/school/program you applied for. Who knows?
 
-It is pretty much evident that our world is a one piece of solid competition over scarce resources.
-
-It's simple economics at work that people and agencies as rational agencies behaves ina way that their expected outcomes of a said work should exceed the investments. Or at least meet in the middle. Suggesting otherwise would be a challenge.
+And the situation was projected to get [worse](https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen) year [after year](https://www.usnews.com/best-colleges/rankings). 
 
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
