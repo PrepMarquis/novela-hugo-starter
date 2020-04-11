@@ -14,6 +14,8 @@ But hey! Maybe an automated reply bot would catch your message to follow-up on y
 
 It is pretty much evident that our world is a one piece of solid competition over scarce resources.
 
+It's simple economics at work that people and agencies as rational agencies behaves ina way that their expected outcomes of a said work should exceed the investments. Or at least meet in the middle.
+
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
 Most importantly, we believe that in our day and age we should not seek for people who can deliver you knowledge at demand, But rather turn it into a system.
