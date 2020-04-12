@@ -12,7 +12,7 @@ title = "The End of \"Selections\""
 
 But hey! Maybe an automated reply bot would catch your message to follow-up on you. Then proceed to send you the **latest updates** from the company/school/program you applied for. Who knows?
 
-And the situation was projected to get [worse](https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen) year [after year](https://www.usnews.com/best-colleges/rankings). 
+And the situation was projected to get [worse](https://www.vox.com/recode/2019/12/12/20993665/artificial-intelligence-ai-job-screen) year [after year](https://www.usnews.com/best-colleges/rankings). There are more prospective college student every year around the globe, more college graduates, more job applicants, more Green Card applicants. More of everything in we can imagine to categorize.
 
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
