@@ -34,11 +34,17 @@ Do we really need to open a Google Forms to collect applicants for your universi
 
 Do you really need to get 30.000+ applications to only accept 25 of them so that your programs' selectiveness stands near the top. Hey congrats to you! I couldn't have thought of a better way to arrange this business since everything you do is just arrange some people in your inner cycle to come and present in a co-working and collectively circle-jerk about your selectivity.
 
-Do we need to 
+Do we need to pre-screen and elimination for best ideas to make a blog post about how to tackle the negative effects of climate change?
 
-#### How Covid-19 challenges the long-standing systems of elimination?
+The point is this: you would want to make the opportunities you are giving to other people to be as accessible as possible regardless of time, social network and cost constraints. If the work you are putting out is not tied to you being invested in a person or a person so much that you should pre-screen. Otherwise focus on creating accessible materials.
 
-#### Utopia
+##### Because
+
+People tend to forget, they miss deadlines.
+
+Some amazing people may not know about your application form about a close call get-together just because they never met you and never meant to be in the get-together in the first place. But they may see the materials you put out for open-access usage and who knows what your or your team's collective work can amplify!
+
+Even super-inclusive hyper-sensitive ones of us may miss little details here and there that may prevent people to join because of various reasons.
 
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
