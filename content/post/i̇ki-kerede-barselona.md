@@ -24,4 +24,4 @@ Yolculuğum 2019 Şubat ayında o zaman operasyonlarını 1.5 senedir yürütmek
 
 Yine üniversite sınavı nedeniyle Ashoka Türkiye'nin sosyal girişimcilik günü 2019 seanslarını kaçırdıktan sonra ertesi gün Sabiha Gökçen Havalimanından Barcelona'nın El Prat havalimanına inecek olan flypgs uçağında kendimi buldum.
 
-El Prat organizasyon olarak şaşırtıcı derecede Türkiye'de görebileceğiniz havalimanlarına benziyor. Ulaşımın ana araçları taksi, havabüs (Aerobus) ve metro (Aeroport T1 L9) 
+El Prat organizasyon olarak şaşırtıcı derecede Türkiye'de görebileceğiniz havalimanlarına benziyor. Ulaşımın ana araçları taksi, havabüs (Aerobus) ve metro (Aeroport T1 L9) Uber'in kullanılmadığını anımsıyorum. Genel olarak [cabify](https://cabify.com) tercih ediliyor.
