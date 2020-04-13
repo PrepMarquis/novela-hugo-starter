@@ -16,7 +16,9 @@ And the situation was projected to get [worse](https://www.vox.com/recode/2019/1
 
 #### Current situation
 
-In today's world whether you are a student, a prospective employee or just about anything that involves a process of selection and elimination. There would be [more people](https://www.theguardian.com/education/2020/apr/10/recruitment-is-on-hold-the-students-graduating-into-the-covid-19-recession) to compete with you. Also this competition will be carried on deeper waters than [any point](https://data.worldbank.org/indicator/se.ter.enrr) of the history. 
+In today's world whether you are a student, a prospective employee or just about anything that involves a process of selection and elimination. There would be [more people](https://www.theguardian.com/education/2020/apr/10/recruitment-is-on-hold-the-students-graduating-into-the-covid-19-recession) to compete with you. Also this competition will be carried on deeper waters than [any point](https://data.worldbank.org/indicator/se.ter.enrr) of the history. Because the enrollment rates on tertiary education plans continues to rise, as it is generally believed to be the way to get and hold onto a job that is not a dead-end to the holder.
+
+Similar to job market students on different parts of their educational careers often see challenges. For example US has seeing [unprecedented college admission rates](https://www.usnews.com/best-colleges/rankings/lowest-acceptance-rate) in the last 4-5 years. Brutal enterance exams such as [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination) in China and all the shallow and shady processes that comes with them like admission scandals, stolen tests, private tutors, donors vs equality of opportunity problem that would make you rethink the whole picture of higher education itself in the USA.
 
 #### Why this all had to happen?
 
