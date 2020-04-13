@@ -8,4 +8,4 @@ timeToRead = 0
 title = "Barselona, İspanya 🇪🇦️"
 
 +++
-#### Buralar Trakya mıydı yav?
+#### Apple Notes -> Yeni Not -> Barselona'ya Bir Daha Gel... -> Kaydet.
