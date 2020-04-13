@@ -24,7 +24,15 @@ Similar to job market students on different parts of their educational careers o
 
 For most of the time it's simple economics, it really is and for the best of it, it really should be! Every agent (Employer, school, agency, accelerator or fund) behaves rationally to make their best outcome on their lowest or moderate efforts. Suggesting otherwise wouldn't be only challenging to defend but also inefficient to develop solutions to combat their worst possible outcomes that we encounter on our daily lives.
 
-#### Outcomes
+Having said that I should point my argument on this: We became so invested around this process of eliminating that we have created systems around it. Systems that have no other forms without eliminations. And for a long time nobody, seriously stand up to call upon it.
+
+Even with or without the powers of Covid-19 the crushing experience of employee screening and college application filling is expected to continue. Because there will be efforts pointed directly at you when you applied for a job or entered a specific college. So I wouldn't expect this concepts to be changed overnight.
+
+##### But
+
+Do we really need to open a Google Forms to collect leads for your university's STEM project's fair? Really?
+
+Do you really need to get 30.000+ applications to only accept 25 of them so that your programs' selectiveness stands near the top. Hey congrats to you! I couldn't have thought of a better way to arrange this business since everything you do is just arrange some people in your inner cycle to come and present in a co-working and collectively circle-jerk about your selectivity.
 
 #### How Covid-19 challenges the long-standing systems of elimination?
 
