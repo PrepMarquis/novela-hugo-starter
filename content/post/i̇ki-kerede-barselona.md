@@ -14,7 +14,7 @@ Seçeneklerinizi tamamen ölçüp tartmadan karar vermeye zorlanmanız istenen d
 
 2019 Haziranında ve aynı yılın Kasım ayında farklı nedenlerle 2 kere bulunduğum Barselona bu probleme basit bir çözüm getirdi. Çözüm bağlılığı insani duygulara bağlayarak doğru hissettireni yapmak imiş. Ve en kötü karar kararsızlıktan her zaman daha iyi hissetiriyormuş. Sonuçta insan doğamızda acıdan kaçınarak iyi hissetme eğilimi var. Verdiğimiz kolay bağlılık kararlarına şaşmamak lazım!
 
-Bağlanma kararı gibi bu şehri neden sevdiğimi ben de rasyonel olarak açıklayamıyorum, aslına bakarsanız. Herhangi bir canlı, turistik Avrupa şehrine benziyor. Belki de yaşadığım deneyimler ve uyandırdığı hisler onu farklı kılmıştı benim içimde bilemiyorum.
+Bağlanma kararı gibi bu şehri neden sevdiğimi ben de rasyonel olarak açıklayamıyorum, aslına bakarsanız. Herhangi bir canlı, turistik Avrupa şehrine benziyor. Belki de yaşadığım deneyimler ve uyandırdığı hisler onu farklı kılmıştı benim içimde bilemiyorum. Tek bildiğim alışmak için kendimi zorlamadığım ilk yabancı atmosfer olmasıydı!
 
 2019 Haziran ayında ülkemizde lise çağının sonuna gelen ve yüksek öğretime devam etmek isteyen her genç insanın yaptığı gibi başıma, 9 aylık bir süre için konforlu bir çuval geçirmek zorunda kaldım. Lise sürecinde edindiğiniz akademik bilgilere ezberlenmesi ve kullanılmadan saklanması gereken menkul değerler muamelesi yapan bir eleme sınavı ile karşı karşıyayız ve bu sistem gençlik potansiyelimize sağladığı yararlardan fazlasını süreç kapsamında götürmekte. Elbette sistemin baştan aşağı yapılanması veya ortadan kalkması mümkün görünmüyor, ancak yeni paradigmalara ve sistemlere teknolojinin kurduğu katmanlar vasıtasıyla her zaman yer var.
 
