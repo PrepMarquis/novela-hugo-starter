@@ -28,7 +28,7 @@ Yine üniversite sınavı nedeniyle Ashoka Türkiye'nin sosyal girişimcilik gü
 
 El Prat organizasyon olarak şaşırtıcı derecede Türkiye'de görebileceğiniz havalimanlarına benziyor. Ulaşımın ana araçları taksi, havabüs (Aerobus) ve metro (Aeroport T1 L9) Uber'in kullanılmadığını anımsıyorum. Genel olarak [cabify](https://cabify.com) tercih ediliyor. Taksiler pazarlığa açık ancak Aerobus biletleme personeli dışında İngilizce iletişim kurmayı beklememelisiniz. Aerobus biletleri internet üzerinden veya nakit para ile otobüs girişinde ödenebiliyor. T2 (budget-airlines terminali i.e. flypgs) ve T1 (diğerleri) önünden kalkan bu otobüsler Katalonya meydanı gibi merkezi noktalardan yolcu alırlar ve indirirler. Metro kullamanız durumunda Avrupa'nın büyük çoğunluğunda geçerli zone sistemi ve kağıt biletler ile karşı karşıya kalırsınız. Turistik amaçlar ile ziyaret edenler için sınırsız biniş hakkı ve müzelere, otobüs turlarına öncelikli kabul gibi artıları olan [hola bcn](https://www.tmb.cat/en/barcelona-fares-metro-bus/tickets-visit-barcelona/barcelona-travel-card-hola-bcn) kartını veya günlük sınırsız 48 saat sınırsız gibi yine turizm odaklı standart toplu taşıma biletlerini tercih edebilirsiniz aksi taktirde 10 binişlik biletler almanız gerekir.
 
-Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedrali başta gelmektedir. Aynı zamanda ünlü mimar Gaudi, Kent çevresinde sayısız eser bırakmıştır Park Guell, Casa Mila ve Casa Battlo bunun en somut ve güzel örneklerindendir. Casa Battlo hazihazırda özel bir işletme tarafından kullanımakta olduğundan davetin belirli sınırlar çerçevesinde yürütüldüğünü düşünüyorum araştırmakta fayda var. Barcelonata plajına uğramayı da ayrıca ihmal etmeyin.
+Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedrali başta gelmektedir. Aynı zamanda ünlü mimar Gaudi, Kent çevresinde sayısız eser bırakmıştır Park Guell, Casa Mila, Gothic Quarter ve Casa Battlo bunun en somut ve güzel örneklerindendir. Casa Battlo hazihazırda özel bir işletme tarafından kullanımakta olduğundan davetin belirli sınırlar çerçevesinde yürütüldüğünü düşünüyorum araştırmakta fayda var. Barcelonata plajına uğramayı da ayrıca ihmal etmeyin. Ulaşım meselesi nadiren problem oluşturacaktır zira görülmesi gereken yerler çoğunlukta yürüme mesafesi kadar yakın ve birbirlerine kümelenmiş durumdalar.
 
 ![](/images/IMG_1777-500.jpg)
 
@@ -48,7 +48,7 @@ Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedra
 
 ![](/images/0819E487-81F9-4805-8615-2C5D17638C35-500.jpg)![](/images/IMG_1865-500.jpg)![](/images/IMG_1940-500.jpg)
 
-eee
+2019 Yılında Ashoka ağına katılan fellowların tanıtım konuşmalarını gerçekleştirdikleri, ASN ve diğer destekleyici örgütlerden katılımcıların co-creation modeli ile hazırlanmış bu açık toplantıya açıktan destek verdiği bu organizasyon Avrupa'da sosyal girişimcilik ekosistemini bir araya getiren en büyük etkinliklerden biri.
 
 **Görüşmek Üzere.**
 
