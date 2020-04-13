@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-10T16:40:43Z
-draft = true
 excerpt = "How can our overly \"competitive\" and \"holistic\" institutions handle the Covid-19 pandemic? And will they change the way they look at their prospects?"
 hero = "/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg"
 timeToRead = 0
