@@ -9,3 +9,5 @@ title = "Barselona, İspanya 🇪🇦️"
 
 +++
 #### Apple Notes -> Yeni Not -> Barselona'ya Bir Daha Gel -> Kaydet.
+
+Seçeneklerinizi tamamen ölçüp tartmadan karar vermeye zorlanmanız istenen durumlardan hep nefret etmişimdir.
