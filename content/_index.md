@@ -1,6 +1,7 @@
 ---
 hero:
-  heading: Yigit's blog, a train of thought living in the webspace.
+  heading: Hi, I am Yigit. I'm a student in Bilkent University. I design and analyze
+    systems.
   maxWidthPX: "652"
 
 ---
