@@ -47,7 +47,7 @@ Even super-inclusive hyper-sensitive ones of us may miss little details here and
 
 Yes, selectivity means something sometimes including everybods means losing touch with your community because you started to lack a common language. Then you shall compartmentalize! Keep your inner talk with insiders but keep sharing your wisdom with outher space. This is the way to convert or convince others to you have a strong message indeed. It's an another way to re-state your impact.
 
-Covid-19 showed us that 
+Covid-19 showed us that in challenging times as we are in right now. It is important to make grassroots changes on how we amplif our impact and to whom? In what clauses and pathways? Even though simple economics directs our way of moral and monetary investment on people and causes should be on economic equilibrillium. I doesn't necessarily mean you should always do a selection before you hand out the material. Rather look for an efficient point where you can get invested in selection and elimination at the lowest points and still allow others to make use of your knowledge, and network and other things. With or without knowing the other parties directly. You may never know exactly how people are prone to change and how their change periods may produce.
 
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
