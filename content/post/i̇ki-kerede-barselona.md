@@ -42,6 +42,8 @@ Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedra
 
 ![](/images/img-20190530-wa0011-500.jpg)![](/images/img-20190601-wa0011-500.jpg)![](/images/img-20190601-wa0023-500.jpg)![](/images/IMG_20190529_202342730_HDR-500.jpg)![](/images/IMG_20190530_114659982-500.jpg)![](/images/IMG_20190531_100353141-500.jpg)![](/images/IMG_20190531_104028212-500.jpg)![](/images/IMG_20190531_191455229-500.jpg)![](/images/IMG_20190602_104621394_HDR-500.jpg)![](/images/IMG_20190602_111226312-500.jpg)![](/images/IMG-20190529-WA0023-500.jpg)![](/images/IMG-20190530-WA0009-500.jpg)![](/images/IMG-20190530-WA0010-500.jpg)![](/images/IMG-20190530-WA0012-500.jpg)![](/images/IMG-20190530-WA0013-500.jpg)![](/images/IMG-20190530-WA0015-500.jpg)![](/images/IMG-20190530-WA0016-500.jpg)![](/images/IMG-20190530-WA0017-500.jpg)
 
+![](/images/img_20190601_192531257-500.jpg)![](/images/IMG-20190530-WA0018-500.jpg)![](/images/IMG-20190530-WA0019-500.jpg)![](/images/IMG-20190530-WA0020-500.jpg)![](/images/IMG-20190530-WA0027-500.jpg)![](/images/IMG-20190530-WA0031-500.jpg)![](/images/IMG-20190601-WA0005-500.jpg)![](/images/IMG-20190601-WA0008-500.jpg)![](/images/IMG-20190601-WA0009-500.jpg)![](/images/IMG-20190601-WA0012-500.jpg)![](/images/IMG-20190601-WA0013-500.jpg)![](/images/IMG-20190601-WA0014-500.jpg)![](/images/IMG-20190601-WA0016-500.jpg)![](/images/IMG-20190601-WA0017-500.jpg)![](/images/IMG-20190601-WA0018-500.jpg)![](/images/IMG-20190601-WA0019-500.jpg)![](/images/IMG-20190601-WA0020-500.jpg)![](/images/IMG-20190601-WA0022-500.jpg)![](/images/IMG-20190601-WA0025-500.jpg)![](/images/IMG-20190602-WA0005-500.jpg)
+
 eee
 
 **Görüşmek Üzere.**
