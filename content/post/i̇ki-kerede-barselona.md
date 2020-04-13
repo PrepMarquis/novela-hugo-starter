@@ -44,6 +44,10 @@ Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedra
 
 ![](/images/img_20190601_192531257-500.jpg)![](/images/IMG-20190530-WA0018-500.jpg)![](/images/IMG-20190530-WA0019-500.jpg)![](/images/IMG-20190530-WA0020-500.jpg)![](/images/IMG-20190530-WA0027-500.jpg)![](/images/IMG-20190530-WA0031-500.jpg)![](/images/IMG-20190601-WA0005-500.jpg)![](/images/IMG-20190601-WA0008-500.jpg)![](/images/IMG-20190601-WA0009-500.jpg)![](/images/IMG-20190601-WA0012-500.jpg)![](/images/IMG-20190601-WA0013-500.jpg)![](/images/IMG-20190601-WA0014-500.jpg)![](/images/IMG-20190601-WA0016-500.jpg)![](/images/IMG-20190601-WA0017-500.jpg)![](/images/IMG-20190601-WA0018-500.jpg)![](/images/IMG-20190601-WA0019-500.jpg)![](/images/IMG-20190601-WA0020-500.jpg)![](/images/IMG-20190601-WA0022-500.jpg)![](/images/IMG-20190601-WA0025-500.jpg)![](/images/IMG-20190602-WA0005-500.jpg)
 
+**Kasım ayında katıldığım Ashoka European Changemakers Summit.**
+
+![](/images/0819E487-81F9-4805-8615-2C5D17638C35-500.jpg)![](/images/IMG_1865-500.jpg)![](/images/IMG_1940-500.jpg)![](/images/IMG_1955-500.jpg)
+
 eee
 
 **Görüşmek Üzere.**
