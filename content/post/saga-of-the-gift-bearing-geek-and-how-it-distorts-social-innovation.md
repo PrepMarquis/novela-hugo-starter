@@ -8,7 +8,7 @@ timeToRead = 0
 title = "Saga of The Gift-Bearing Geek and How It Distorts Social Innovation 👨‍💻️"
 
 +++
-#### Magic formula is simple they suggest. Find an area for tech to distrupt such as e-books. Leverage it with cheap barebone devices and distribute them in upscale efforts = Success.
+#### Magic formula is simple they suggest. Find an area for tech to distrupt, such as e-books. Leverage it with cheap barebone devices and distribute them in upscale efforts = Success.
 
 ![](/images/3wepx8.jpg)
 
