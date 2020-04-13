@@ -46,7 +46,7 @@ Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedra
 
 **Kasım ayında katıldığım Ashoka European Changemakers Summit.**
 
-![](/images/0819E487-81F9-4805-8615-2C5D17638C35-500.jpg)![](/images/IMG_1865-500.jpg)![](/images/IMG_1940-500.jpg)![](/images/IMG_1955-500.jpg)
+![](/images/0819E487-81F9-4805-8615-2C5D17638C35-500.jpg)![](/images/IMG_1865-500.jpg)![](/images/IMG_1940-500.jpg)
 
 eee
 
