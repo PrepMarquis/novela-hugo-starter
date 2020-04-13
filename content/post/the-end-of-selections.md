@@ -46,7 +46,7 @@ Some amazing people may not know about your application form about a close call 
 
 Even super-inclusive hyper-sensitive ones of us may miss little details here and there that may prevent people to join because of various reasons.
 
-Yes, selectivity means something sometimes including everybods means losing touch with your community because you started to lack a common language. Then you shall compartmentalize! Keep your inner talk with insiders but keep sharing your wisdom with outher space. This is the way to convert or convince others to you have a strong message indeed. It's an another way to state your impact.
+Yes, selectivity means something sometimes including everybods means losing touch with your community because you started to lack a common language. Then you shall compartmentalize! Keep your inner talk with insiders but keep sharing your wisdom with outher space. This is the way to convert or convince others to you have a strong message indeed. It's an another way to re-state your impact.
 
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
