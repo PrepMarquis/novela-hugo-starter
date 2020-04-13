@@ -38,6 +38,10 @@ Kesinlikle görülmesi gereken yerler arasında elbette Sagrada Famillia Katedra
 
 ![](/images/IMG_1830-500.jpg)![](/images/IMG_1852-500.jpg)![](/images/IMG_20190602_122155090-500.jpg)![](/images/IMG-20190602-WA0022-500.jpg)
 
+Ashoka ChangemakerXChange zirvesinden fotoğraflar.
+
+![](/images/img-20190530-wa0011-500.jpg)![](/images/img-20190601-wa0011-500.jpg)![](/images/img-20190601-wa0023-500.jpg)![](/images/IMG_20190529_202342730_HDR-500.jpg)![](/images/IMG_20190530_114659982-500.jpg)![](/images/IMG_20190531_100353141-500.jpg)![](/images/IMG_20190531_104028212-500.jpg)![](/images/IMG_20190531_191455229-500.jpg)![](/images/IMG_20190602_104621394_HDR-500.jpg)![](/images/IMG_20190602_111226312-500.jpg)
+
 eee
 
 **Görüşmek Üzere.**
