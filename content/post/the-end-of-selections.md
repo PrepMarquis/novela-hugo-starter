@@ -22,6 +22,8 @@ Similar to job market students on different parts of their educational careers o
 
 #### Why this all had to happen?
 
+For most of the time it's simple economics, it really is and for the best of it, it really should be! Every agent (Employer, school, agency, accelerator or fund) behaves rationally to make their best outcome on their lowest or moderate efforts. Suggesting otherwise wouldn't be only challenging to defend but also inefficient to develop solutions to combat their worst possible outcomes that we encounter on our daily lives.
+
 #### Outcomes
 
 #### How Covid-19 challenges the long-standing systems of elimination?
