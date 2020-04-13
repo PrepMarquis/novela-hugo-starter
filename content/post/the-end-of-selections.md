@@ -30,9 +30,11 @@ Even with or without the powers of Covid-19 the crushing experience of employee 
 
 ##### But
 
-Do we really need to open a Google Forms to collect leads for your university's STEM project's fair? Really?
+Do we really need to open a Google Forms to collect applicants for your university's STEM project's fair?
 
 Do you really need to get 30.000+ applications to only accept 25 of them so that your programs' selectiveness stands near the top. Hey congrats to you! I couldn't have thought of a better way to arrange this business since everything you do is just arrange some people in your inner cycle to come and present in a co-working and collectively circle-jerk about your selectivity.
+
+Do we need to 
 
 #### How Covid-19 challenges the long-standing systems of elimination?
 
