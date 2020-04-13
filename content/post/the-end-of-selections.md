@@ -16,6 +16,8 @@ And the situation was projected to get [worse](https://www.vox.com/recode/2019/1
 
 #### Current situation
 
+In today's world whether you are a student, a prospective employee or just about anything that involves a process of selection and elimination. There would be [more people](https://www.theguardian.com/education/2020/apr/10/recruitment-is-on-hold-the-students-graduating-into-the-covid-19-recession) to compete with you. Also this competition will be carried on deeper waters than [any point](https://data.worldbank.org/indicator/se.ter.enrr) of the history. 
+
 #### Why this all had to happen?
 
 #### Outcomes
