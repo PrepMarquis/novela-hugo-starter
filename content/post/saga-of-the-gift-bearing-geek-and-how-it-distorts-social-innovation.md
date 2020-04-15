@@ -12,4 +12,4 @@ title = "Saga of The Gift-Bearing Geek and How It Distorts Social Innovation ðŸ‘
 
 ![](/images/3wepx8.jpg)
 
-As meme man pointed it out many of these projects aims to bring equality of opportunity or some sort to impoverished or disadvantaged.
+As meme man pointed it out many of these projects aims to bring equality of opportunity or some sort to impoverished or disadvantaged. It's the modern education technologist's promise to deliver and scale up-to-date and useful pieces of information to any parts of the world. 
