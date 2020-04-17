@@ -12,4 +12,6 @@ Yaşadığımız yılı neredeyse tamamen etkisi altına alan Covid-19 salgını
 
 Merhaba, Ben Yiğit Aşkan Bilkent Üniversitesinde eğitimimin ilk yılındayım. 2016 yılından beri çeşitli alanlarda ve platformlarda girişimcilik ile uğraşıyorum. Özellikle sosyal problemleri yeni teknolojiler ile harmanlayarak problemin bütün paydaşları için faydalı çözümler getiren projelerin üretim süreçlerini incelemeyi ve bu tarz projeleri kendim geliştirmekten de zevk alırım.
 
-Covid-19'un gündeme gelmesiyle beraber Covid-19 sonrası sosyal ve iş hayatı üzerine kafa yormaya başladım, uzaktan çalışma ve eğitimin inanılmaz bir hızla toplumların farkı katmanlarına yayılması, gerçekten salgın sonrası bizleri tamamen farklı bir dünya beklediğini gösteriyordu. 
+Covid-19'un gündeme gelmesiyle beraber Covid-19 sonrası sosyal ve iş hayatı üzerine kafa yormaya başladım, uzaktan çalışma ve eğitimin inanılmaz bir hızla toplumların farkı katmanlarına yayılması, gerçekten salgın sonrası bizleri tamamen farklı bir dünya beklediğini gösteriyordu.
+
+Üretken Akademi'nin programı teknik veya proje geliştirme konusunda bilgi sahibi olmama rağmen bana fikirden girişime giden özelleştirilmiş bir patika göstererek bu yolda kısa sürede başarıya ulaşmamı sağladılar. Öncelikle projemin Covid-19 çözümlerinden hangi alt başlığa odaklandığını belirlemek için internet sitesindeki başlıklara göz attım
