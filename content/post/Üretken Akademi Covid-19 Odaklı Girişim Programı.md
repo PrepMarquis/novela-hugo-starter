@@ -23,3 +23,5 @@ Uzaktan çalışma teknolojilerinin sanal gerçeklik ile birleştirilerek çalı
 ![](/images/Screen Shot 2020-04-17 at 15.06.24.png)
 
 Ana sayfadaki 8 ana başlığın altında daha spesifik başlıklar mevcut. Fark edebileceğiniz gibi bu adım bana projemin ayrıntılarını daha net bir şekilde belirleyerek sürece devam etmem konusunda yardımcı oldu. Bu adımda projemi uzaktan çalışma teknolojileri alanına getirmeye karar vererek, fikirlerimi daha belirgin hale getirdim.
+
+Başvurumu yaptıktan sonra 
