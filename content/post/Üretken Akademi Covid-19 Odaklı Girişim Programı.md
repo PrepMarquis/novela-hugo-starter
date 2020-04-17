@@ -32,4 +32,4 @@ Eğitimin ilk 3 aşaması ham proje fikrimi işlememde büyük yardımda bulundu
 
 Dijital girişimcilikte en önemli ve en zorlayıcı adımlardan biri olarak görülen marka oluşturma süreci bu programda şaşırtıcı derecede kolay geçti. İnternet sitenizi, markanızın temel taşlarından logonuz vb ihtiyaçlar hızlı hareket edebilmeniz için otomatik araçlarla ve temalarla oluşturuluyor. Katılımcılara hızlı ve kendini ispatlamış hazır tasarım araçlarını kullanmalarını önererek fikre ve uygulamaya odaklanmanızı sağlayan bir sistem ile karşı karşıyayız :)
 
-İlerleyen adımlarda marka kimliğinizi müşteri kitlenize doğrudan ulaşarak test etmeniz isteniyor. Bu süreçte beni en çok zorlayan aynı zamanda en çok geliştiren adım bu adımdı.
+İlerleyen adımlarda marka kimliğinizi müşteri kitlenize doğrudan ulaşarak test etmeniz isteniyor. Bu süreçte beni en çok zorlayan aynı zamanda en çok geliştiren adım bu adımdı. Daha 48 saat önce bir fikirden öteye geçemeyen OdakVR şu anda beni ekosistemin en güçlü üyeleri ile fikir alışverişi yapacak hale geldi. Bunu düşünmek kadar projenin geleceğini hayal etmek de bir o kadar heyecan verici.
