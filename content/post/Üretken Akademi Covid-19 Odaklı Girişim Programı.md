@@ -27,3 +27,5 @@ Ana sayfadaki 8 ana başlığın altında daha spesifik başlıklar mevcut. Fark
 Başvurumu yaptıktan sonra [uretkenakademi.com/covid.html](https://uretkenakademi.com/covid.html) adresindeki programa yönlendirildim. **7 aşamadan oluşan program 24 saat kadar kısa bir sürede tamamlanabiliyor.** 7 adımın her birinde tamamlamanız gereken bir eğitim ardından gelen bir ödev bulunuyor.
 
 ![](/images/Screen Shot 2020-04-17 at 15.15.23.png)
+
+Eğitimin ilk 3 aşaması ham proje fikrimi işlememde büyük yardımda bulundu. OdakVR'ın odaklanmak istediği problemleri belirleyip  
