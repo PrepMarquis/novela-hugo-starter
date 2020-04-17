@@ -17,3 +17,5 @@ Covid-19'un gündeme gelmesiyle beraber Covid-19 sonrası sosyal ve iş hayatı 
 Üretken Akademi'nin programı teknik veya proje geliştirme konusunda bilgi sahibi olmama rağmen bana fikirden girişime giden özelleştirilmiş bir patika göstererek bu yolda kısa sürede başarıya ulaşmamı sağladılar. Öncelikle projemin Covid-19 çözümlerinden hangi alt başlığa odaklandığını belirlemek için internet sitesindeki başlıklara göz attım.
 
 ![](/images/Screen Shot 2020-04-17 at 15.01.53.png)
+
+Uzaktan çalışma teknolojilerinin sanal gerçeklik ile birleştirilerek çalışan eğitimleri ve iş mülakatları geliştirilmesini sağlayan projem OdakVR ile "Geleceğin İş Dünyası" programına başvuruda bulunmaya karar verdim.
