@@ -23,7 +23,7 @@ Uzaktan çalışma teknolojilerinin sanal gerçeklik ile birleştirilerek çalı
 
 Ana sayfadaki 8 ana başlığın altında daha spesifik başlıklar mevcut. Fark edebileceğiniz gibi bu adım bana projemin ayrıntılarını daha net bir şekilde belirleyerek sürece devam etmem konusunda yardımcı oldu. Bu adımda projemi uzaktan çalışma teknolojileri alanına getirmeye karar vererek, fikirlerimi daha belirgin hale getirdim.
 
-**7 aşamadan oluşan program 24 saat kadar kısa bir sürede tamamlanabiliyor.** 7 adımın her birinde tamamlamanız gereken bir eğitim ardından gelen bir ödev bulunuyor.
+Başvurunuzun ardından, seçilirseniz 7 aşamalı programa yönlendiriliyorsunuz. **7 aşamadan oluşan program 24 saat kadar kısa bir sürede tamamlanabiliyor.** 7 adımın her birinde tamamlamanız gereken bir eğitim ardından gelen bir ödev bulunuyor.
 
 ![](/images/Screen Shot 2020-04-17 at 15.15.23.png)
 
