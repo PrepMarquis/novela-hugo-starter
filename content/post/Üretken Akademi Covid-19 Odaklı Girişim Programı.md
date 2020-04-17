@@ -14,4 +14,6 @@ Merhaba, Ben Yiğit Aşkan Bilkent Üniversitesinde eğitimimin ilk yılındayı
 
 Covid-19'un gündeme gelmesiyle beraber Covid-19 sonrası sosyal ve iş hayatı üzerine kafa yormaya başladım, uzaktan çalışma ve eğitimin inanılmaz bir hızla toplumların farkı katmanlarına yayılması, gerçekten salgın sonrası bizleri tamamen farklı bir dünya beklediğini gösteriyordu.
 
-Üretken Akademi'nin programı teknik veya proje geliştirme konusunda bilgi sahibi olmama rağmen bana fikirden girişime giden özelleştirilmiş bir patika göstererek bu yolda kısa sürede başarıya ulaşmamı sağladılar. Öncelikle projemin Covid-19 çözümlerinden hangi alt başlığa odaklandığını belirlemek için internet sitesindeki başlıklara göz attım
+Üretken Akademi'nin programı teknik veya proje geliştirme konusunda bilgi sahibi olmama rağmen bana fikirden girişime giden özelleştirilmiş bir patika göstererek bu yolda kısa sürede başarıya ulaşmamı sağladılar. Öncelikle projemin Covid-19 çözümlerinden hangi alt başlığa odaklandığını belirlemek için internet sitesindeki başlıklara göz attım.
+
+![](/images/Screen Shot 2020-04-17 at 15.01.53.png)
