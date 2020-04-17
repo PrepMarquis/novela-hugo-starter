@@ -24,4 +24,4 @@ Uzaktan çalışma teknolojilerinin sanal gerçeklik ile birleştirilerek çalı
 
 Ana sayfadaki 8 ana başlığın altında daha spesifik başlıklar mevcut. Fark edebileceğiniz gibi bu adım bana projemin ayrıntılarını daha net bir şekilde belirleyerek sürece devam etmem konusunda yardımcı oldu. Bu adımda projemi uzaktan çalışma teknolojileri alanına getirmeye karar vererek, fikirlerimi daha belirgin hale getirdim.
 
-Başvurumu yaptıktan sonra [uretkenakademi.com/covid.html](https://uretkenakademi.com/covid.html) adresindeki programa yönlendirildim.
+Başvurumu yaptıktan sonra [uretkenakademi.com/covid.html](https://uretkenakademi.com/covid.html) adresindeki programa yönlendirildim. **7 aşamadan oluşan program 24 saat kadar kısa bir sürede tamamlanabiliyor.**
