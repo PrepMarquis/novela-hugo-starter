@@ -16,4 +16,4 @@ As meme man pointed it out many of these projects aims to bring equality of oppo
 
 The whole quarantine business have led me to consume all pieces in my reading list and my 'bookshelf' on storytel, so I wandered through this year's [Ashoka Fellow's reading list](https://www.ashoka.org/en/story/introducing-ashoka-fellows%E2%80%99-bookshelf-reading-list-changemakers) and found this masterpiece "**Geek Heresy**" by Kentaro Toyama recommended by Digital Green's founder [Rikin Gandhi](https://www.digitalgreen.org/team/).
 
-We'd like to think positively about technology's involvement in social problems
+We'd like to think positively about technology's involvement in social problems. There is a plentitude of state-sponsored programs for tech ownership such as India's Freedom 251 (evidently it was called a disaster) and in Turkey there was FATIH
