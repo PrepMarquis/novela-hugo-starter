@@ -19,4 +19,6 @@ We'd like to think positively about technology's involvement in social problems.
 
 Yet the newer forms are failing precisely at the same weak spots where older ways of education also failed: Scaling the distribution of quality content at anywhere and anytime conveniently while making sure that we have better ways to measure success and aptitude. Newer tech just performs better when there is a developed understanding and infrastructure for modern education. Otherwise it is bad as throwing money out, like unaccountably... Out.
 
-This is where the practice of social innovation should step in. Pinpointing the real causes of ineffective digital education in different scenarios **is the real changemaking**.
+This is where the practice of social innovation should step in. Pinpointing the real causes of ineffective digital education in different scenarios **is the real changemaking**. Anyone who promises to use their tech understanding for social good should consider taking a look at to problems' of their own audiences at a deeper level.
+
+There is little to none social good proposing a nationwide enrollment for Apple k-12 Everyone Can Code program while let's say 1/3 of students find the curricula "pointless" or towns have food or job security issues that introduces a tunnel vision for students. I don't need to underline the priority tasks in this kind of situations to secure an enriching learning platform. We'd need a deeper understanding before we actually unfold the iPads.
