@@ -5,6 +5,6 @@ draft = true
 excerpt = ""
 hero = ""
 timeToRead = 0
-title = "Your Next Tasks Are Going To Be Productive"
+title = "Your Next Task Is Going To Be Productive"
 
 +++
