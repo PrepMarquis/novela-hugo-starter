@@ -8,3 +8,4 @@ timeToRead = 0
 title = "Your Next Task Is Going To Make Total Sense"
 
 +++
+#### Is it odd that I thought of writing this piece while leading an organized cheating syndicate at University of Zoom that everyone goes to nowadays?
