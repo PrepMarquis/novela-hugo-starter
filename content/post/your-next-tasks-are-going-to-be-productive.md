@@ -9,3 +9,9 @@ title = "Your Next Task Is Going To Make Total Sense"
 
 +++
 #### Is it odd that I thought of writing this piece while leading an organized cheating syndicate at University of Zoom that everyone goes to nowadays?
+
+Aside from me talking about cheating it was a moment of salvation, forget about remote working or distance learning I want my work to bear meanings after this outbreak.
+
+![](/images/EH4UTwv.png)
+
+Hear me out for a moment
