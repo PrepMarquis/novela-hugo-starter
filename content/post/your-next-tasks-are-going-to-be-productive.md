@@ -15,3 +15,5 @@ Aside from me talking about cheating it was a moment of salvation, forget about 
 ![](/images/EH4UTwv.png)
 
 Have you ever examined your academic tasks? I did sometimes and some other times I only took them with face value.
+
+Long before my ramblings about how in a thousand different ways that education systems sucks. 
