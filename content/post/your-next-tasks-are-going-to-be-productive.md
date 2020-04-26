@@ -14,4 +14,4 @@ Aside from me talking about cheating it was a moment of salvation, forget about 
 
 ![](/images/EH4UTwv.png)
 
-Hear me out for a moment
+Have you ever examined your academic tasks? 
