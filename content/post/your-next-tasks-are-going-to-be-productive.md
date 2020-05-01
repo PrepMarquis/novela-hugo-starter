@@ -17,3 +17,5 @@ Aside from me talking about cheating it was a moment of salvation, forget about 
 Have you ever examined your academic tasks? I did sometimes and some other times I only took them with face value.
 
 Long before my ramblings about how in a thousand different ways that education systems sucks. Scholar [Ivan Illıch](https://www.britannica.com/topic/Deschooling-Society) and a couple of others wrote about this so that any visionary PhD can go out of their way in class and give talks about how we prioritise memorization how school system didn't really changed much despite all the shiny new tech
+
+Take one of my economics courses as examples 
