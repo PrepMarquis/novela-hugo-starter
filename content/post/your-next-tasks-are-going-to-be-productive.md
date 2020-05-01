@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-24T15:57:15Z
-draft = true
 excerpt = "Covid-19 probably not going to eliminate classic schooling altogether but it holds the power to convert your everyday tasks into something that makes sense"
 hero = "/images/kelly-sikkema--1_RZL8BGBM-unsplash.jpg"
 timeToRead = 0
