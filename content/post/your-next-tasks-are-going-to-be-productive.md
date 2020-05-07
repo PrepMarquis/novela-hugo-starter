@@ -22,4 +22,4 @@ Take one of my economics courses as examples the focus is on the 'facts' there i
 
 Lets rewrite the tract in the light of covid-19 with coronavirus facts are easier to be found, easier to be summarized and easier to present as it is. This is not an open book exam type of situation mind you you can't examine students
 
-All that matters in biological and sociological evolution is your capacity to process meaningful information. 
+All that matters in biological and sociological evolution is your capacity to process meaningful information. That was the most precise thing that humans had 
