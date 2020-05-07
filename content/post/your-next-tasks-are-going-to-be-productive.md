@@ -24,4 +24,8 @@ Lets rewrite the tract in the light of covid-19 with coronavirus facts are easie
 
 All that matters in biological and sociological evolution is your capacity to process meaningful information. That was the most precise thing that humans had in terms of firm organizational skills which makes sense considering the size and physical capabilities of a single human rarely does app up to something in nature. However humans found the light in keeping together.
 
-When you battle with an appearent lack of sleep and motivation, although you still go to the first versions of mass schools in a smokey British town circa the industrial revolution. Or aiming to crush soviet competition with trying to nurture the best minds possible on STEM fields around Cold War memorisation would have been made total sense. Because the **knowledge** itself was scarce and important  
+When you battle with an appearent lack of sleep and motivation, although you still go to the first versions of mass schools in a smokey British town circa the industrial revolution. Or aiming to crush soviet competition with trying to nurture the best minds possible on STEM fields around Cold War memorisation would have been made total sense. Because the **knowledge** itself was scarce and important.
+
+Is it so nowadays though? Or we are just sticking to testing knowledge because no other ways has been tested or has been tested and practiced rather lousily? Like taking students to do more and more homeworks.
+
+ 
