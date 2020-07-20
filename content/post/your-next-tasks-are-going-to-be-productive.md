@@ -27,8 +27,8 @@ When you battle with an appearent lack of sleep and motivation, although you sti
 
 Is it so nowadays though? Or we are just sticking to testing knowledge because no other ways has been tested or has been tested and practiced rather lousily? Like taking students to do more and more homeworks.
 
- Nowadays knowledge is really far from being scarce but we mostly find it disorganized, polarized and monetized. Knowing pre-loaded set of facts rarely contributes something meaningful above the ceilings of undergrad classes.
+Nowadays knowledge is really far from being scarce but we mostly find it disorganized, polarized and monetized. Knowing pre-loaded set of facts rarely contributes something meaningful above the ceilings of undergrad classes.
 
 Can we keep a system based on fact memorization after Covid? We really shouldn't! The struggles of academia to mass-test undergrads is a relic of other interconnected systems such as academic reputation and alumni employability which has nothing to do with the core part of teaching and cultivating the outcomes.
 
-Let this be a initiator to convert ourself to skill based testing.
+**Let this be a initiator to convert our organizations to skill based testing. Better, discuss if it is required at all.**
