@@ -30,6 +30,8 @@ Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar iç
 
 Peki sorun ne?
 
+İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur diye düşünüyorum.
+
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
 
 Bunun bir adı var,
