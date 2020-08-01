@@ -31,3 +31,7 @@ Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar iç
 Peki sorun ne?
 
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
+
+Bunun bir adı var,
+
+### **yürü-git-çe**
