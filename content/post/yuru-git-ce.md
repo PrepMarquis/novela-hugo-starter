@@ -26,7 +26,7 @@ Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve pro
 
 Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
 
-Doğrudan, mesafeli, ast üst ilişkisi barındıran ve ekonomik olarak faydalı bir iletişim şekli.
+Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar için ekonomik olarak faydalı bir iletişim şekli.
 
 Peki sorun ne?
 
