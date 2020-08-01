@@ -8,3 +8,8 @@ timeToRead = 0
 title = "yürü-git-çe"
 
 +++
+Hayvanlar aleminin en büyük ve canlı sosyal kelebeği olmak modern insanlar için ne anlama gelmektedir?
+
+Bilimsel dille ifade edilmemiş bu soruya tatmin edici nitelikle onlarca farklı yanıt verilebilir. Buna rağmen bu yazı özellikle iş ve günlük yaşamda, etrafımızdan rüzgar gibi geçen geçtikten sonra ardında belli belirsiz bir zihinsel huzursuzluk bırakan yüzünü ele almak üzere kurgulandı.
+
+* **Samimiyetsizliği kolayca fark edebilmek.**
