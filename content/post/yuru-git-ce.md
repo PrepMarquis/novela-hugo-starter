@@ -24,6 +24,10 @@ Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi
 
 Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran şu parçaya bir bakalım.
 
-Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, 
+Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
+
+Doğrudan, mesafeli, ast üst ilişkisi barındıran ve ekonomik olarak faydalı bir iletişim şekli.
+
+Peki sorun ne?
 
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
