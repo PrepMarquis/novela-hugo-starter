@@ -20,6 +20,10 @@ Peki günümüzde bu etkiyi hangi amaçlarla kullanıyoruz? Kişisel gözlemim b
 
 2010'lar ve sonrasında (daha erken örnekleri kaçırmadıysam.) İngilizce ağırlıklı terim ve ifadelerin iş dünyası ve günlük yaşamda daha sık tercih edilmesiyle alakalı bir çok eleştiri bulmak mümkün. Hatta konunun televizyon skeçlerine ve sosyal medyaya taşınması ile birlikte "Havalı olmak için konuşmasına İngilizce kelime sıkıştıran tip" ortaya çıktı. Bu tiplerin konuştuğu Türkçenin plaza Türkçesi olarak isimlendirilmesi ise dildeki yozlaşmanın iş hayatındaki ana amiral gemisi olarak belirlenmesinde büyük rol oynadı ancak yine hızlı giderek bazı önemli noktaları görmezden geldik.
 
-Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi dilin işgal edilmesi gibi bir durum kişisel görüşüme göre plaza Türkçesinde söz konusu değildir. Lisans düzeyinde eğitim veren kurumlarda git gide daha fazla yaygınlaşan hatta genelgeçer hale gelen İngilizce eğitim ve plaza tanımı gereği mesleki İngilizce kullanımı gerektirebilen 
+Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi dilin işgal edilmesi gibi bir durum kişisel görüşüme göre plaza Türkçesinde söz konusu değildir. Lisans düzeyinde eğitim veren kurumlarda git gide daha fazla yaygınlaşan hatta genelgeçer hale gelen İngilizce eğitim ve plaza çalışmala ortamlarının düzenli olarak mesleki İngilizce kullanımı gerektirebilen yerler olmasından ve en önemlisi de bu ve benzeri ortamlarda zaman geçiren kişilerin günlük bilgi ve eğlencelerini benzer kaynaklardan aldığını unutmamak gerekiyor. Dil her şeyden önce bir kastır ve plaza Türkçesi konuşan "tipler" belirli durumlarda kas değiştirmeye mecbur kalırlar
+
+Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran şu parçaya bir bakalım.
+
+Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, 
 
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
