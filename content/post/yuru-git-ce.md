@@ -22,7 +22,7 @@ Peki günümüzde bu etkiyi hangi amaçlarla kullanıyoruz? Kişisel gözlemim b
 
 Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi dilin işgal edilmesi gibi bir durum kişisel görüşüme göre plaza Türkçesinde söz konusu değildir. Lisans düzeyinde eğitim veren kurumlarda git gide daha fazla yaygınlaşan hatta genelgeçer hale gelen İngilizce eğitim ve plaza çalışmala ortamlarının düzenli olarak mesleki İngilizce kullanımı gerektirebilen yerler olmasından ve en önemlisi de bu ve benzeri ortamlarda zaman geçiren kişilerin günlük bilgi ve eğlencelerini benzer kaynaklardan aldığını unutmamak gerekiyor. Dil her şeyden önce bir kastır ve plaza Türkçesi konuşan "tipler" belirli durumlarda kas değiştirmeye mecbur kalırlar özellikle de Türkçede karşılığı bulunmayan terim ve ifadeler için. Peki Türkçede karşılığı bulunan ifadelerin özellikle yabancı karşılıkları ile değiştirilmesi? Dilin bir kas olduğunu kabul ettiğimiz sürece burada da bir problem yoktur, alışkanlık ve kolaylık akış yönünü belirlemektedir.
 
-Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran
+Peki göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran kullanımlara ne demeli?
 
 Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
 
