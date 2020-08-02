@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-24T21:29:44Z
-draft = true
 excerpt = "Plaza Türkçesi kabına sığmadığında dilden fazlasını kirletebilir mi?"
 hero = "/images/hunters-race-mybhn8kaaec-unsplash.jpg"
 timeToRead = 0
@@ -24,15 +23,17 @@ Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi
 
 Peki göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran kullanımlara ne demeli?
 
+"Evet hanımefendi tarafıma 3 aydır email yoluyla yazılı dönüş yapılmasını bekliyorum, bu konuda hakkımı yasal kanallarla arayacağımdan emin olabilirsiniz."
+
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
 
-Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
+Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile. Çalışmamakta ve açık, net yazılı emirlere direnmekte ısrar eden bir bilgisayara yaklaşım dili gibi. Zaten bu tarz Türkçenin mekanik olduğunu belirtmeye gerek görmüyorum bile. Minimim kişisel iletişim, gerekli olduğu anlarda bile hattın diğer ucundakinin neye benzediği önemli değil ucundan kenarından kurtaran azıcık bir nezaket ile bir başkasına mesafeni koru demenin başka bir yolu.
 
 Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar için ekonomik olarak faydalı bir iletişim şekli.
 
 Sorun nerede?
 
-İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur
+İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur? Dikkatli bakın LinkedIn doğru iletişim dilinin bu olduğuna inanan yeni mezun gençlerle dolup taşıyor.
 
 Bunun bir adı var,
 
