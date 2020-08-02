@@ -38,3 +38,5 @@ Sorun nerede?
 Bunun bir adı var,
 
 ### **yürü-git-çe**
+
+yürü-git-çe dilini gündeme getirmeye ne dersiniz?
