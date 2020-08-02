@@ -24,6 +24,8 @@ Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi
 
 Peki göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran kullanımlara ne demeli?
 
+Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
+
 Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
 
 Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar için ekonomik olarak faydalı bir iletişim şekli.
@@ -31,8 +33,6 @@ Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar iç
 Sorun nerede?
 
 İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur
-
-Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
 
 Bunun bir adı var,
 
