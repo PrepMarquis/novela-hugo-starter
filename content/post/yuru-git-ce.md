@@ -22,15 +22,15 @@ Peki günümüzde bu etkiyi hangi amaçlarla kullanıyoruz? Kişisel gözlemim b
 
 Plaza Türkçesinin bilinçli bir hasar aktivitesi olduğuna inanmadığım gibi dilin işgal edilmesi gibi bir durum kişisel görüşüme göre plaza Türkçesinde söz konusu değildir. Lisans düzeyinde eğitim veren kurumlarda git gide daha fazla yaygınlaşan hatta genelgeçer hale gelen İngilizce eğitim ve plaza çalışmala ortamlarının düzenli olarak mesleki İngilizce kullanımı gerektirebilen yerler olmasından ve en önemlisi de bu ve benzeri ortamlarda zaman geçiren kişilerin günlük bilgi ve eğlencelerini benzer kaynaklardan aldığını unutmamak gerekiyor. Dil her şeyden önce bir kastır ve plaza Türkçesi konuşan "tipler" belirli durumlarda kas değiştirmeye mecbur kalırlar özellikle de Türkçede karşılığı bulunmayan terim ve ifadeler için. Peki Türkçede karşılığı bulunan ifadelerin özellikle yabancı karşılıkları ile değiştirilmesi? Dilin bir kas olduğunu kabul ettiğimiz sürece burada da bir problem yoktur, alışkanlık ve kolaylık akış yönünü belirlemektedir.
 
-Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran 
+Göze batacak hiçbir yabancı kelime barındırmamasına rağmen nezaket ve profesyonellik görüntüsü altında emredici, soğuk ve mesafeli duran
 
 Nedense bir astınıza iş yaptırmaya çalışırken kullanacağınız bir dile benziyor, veya bir iptal işleminin 3 adım sürmesinden kaynaklanan kafa karışıklığınızı yansıttığınız çağrı merkezi çalışanının kullanması gereken dile.
 
 Doğrudan, mesafeli, ast üst ilişkisi barındıran ve kurum ve kuruluşlar için ekonomik olarak faydalı bir iletişim şekli.
 
-Peki sorun ne?
+Sorun nerede?
 
-İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur 
+İş hayatına yeni adım atan gençlerin bu dili nezaket kuralları çerçevesinde yer edinmiş bir norm olarak görüp benimsemesi ne kadar doğrudur
 
 Büyük ihtimalle okuyucuların büyük bir kısmı haftada en az bir kere "dokümanı inceleyerek en kısa sürede dönüş sağlayacaklarını" bildiriyor. Kredi kartının iptali için bir aydır dönüş sağlanmasını bekleyenlere ne demeli? Talebinin en kısa sürede incelenmesini bekleyenler de var.
 
