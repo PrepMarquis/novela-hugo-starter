@@ -2,9 +2,9 @@
 authors = []
 date = 2020-09-05T05:32:04Z
 draft = true
-excerpt = "Kamp ateşinin etrafında internete girenlerin hastalığı"
+excerpt = "Ölçmenin, anlamanın önüne geçerek değişimin ön koşulu olduğu bir dünyada özgür iradenin yeri nedir?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
-title = "Mim Virüsü"
+title = "İçe Doğru Yolculukların Çağı"
 
 +++
