@@ -8,3 +8,6 @@ timeToRead = 0
 title = "İçe Doğru Yolculukların Çağı"
 
 +++
+#### **Ne arzu edersiniz?**
+
+Hellraiser filminin açılış sahnesinde, egzantirik bir satıcıdan 
