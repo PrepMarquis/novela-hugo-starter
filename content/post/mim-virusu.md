@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-09-05T05:32:04Z
-draft = true
 excerpt = "What good can people derive from a public space, that has became all about themselves?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
@@ -52,7 +51,7 @@ As I claimed that internet or social media is not the medium for organized thoug
 
 Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharp edges, nothing else is considered. Yet that how most of my generation derives most of their public knowledge. Wojaks doesn't paint the whole picture nor make it interesting only thing that arises from overly generalized views of society and memes is discontent and disconnection.
 
-Algorithmic realities in social media and meme culture takes millions of people in to drive them further with their own biases and interests under the pretense of them interacting with the content they really desired and cared about, or the descriptions of wojak memes really represented people in the streets every day not that we are finding funny ways to box them in consistently.
+**Algorithmic realities in social media and meme culture takes millions of people in to drive them further with their own biases and interests under the pretense of them interacting with the content they really desired and cared about, or the descriptions of wojak memes really represented people in the streets every day not that we are finding funny ways to box them in consistently.**
 
 Predatory data collection worries a lot of people, not just about what big corporations might do with your personal data today, but most people worry their data might help build a all wise and knowing skynet of sorts. What if half of the people focused on the right direction? Direction that throws constant gloom, self-depreciation, hatred, segregation, doubts and performance concerns. When algorithms and super ELIZA clones can tweak your views about society and life in general, really do they need any more data to achieve skynet?
 
