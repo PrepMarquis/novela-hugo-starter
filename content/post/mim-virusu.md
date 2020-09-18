@@ -44,10 +44,16 @@ What Facebook and other social media did for a worse internet is they built a su
 
 In a digital combination of public and private spaces, if every statement and every bit of knowledge supported the current thoughts and standpoints you had how would this be helpful for a more connected and collaborative society? Business wise, its makes more sense to hook up every platformer with shiny bright notification sounds and bell icons then sell for the audiences' direct attention to marketers.
 
-ELIZA had a way to persuade the conversation in a way that is convenient for the algorithm,  modern social media applications do worse by feeding you what is alredy determined as interesting or worth it and keeping a regular dose of the same copied content until all around you can be described as your and your fellow's interests.
+ELIZA had a way to persuade the conversation in a way that is convenient for the algorithm,  modern social media applications do worse by feeding you what is alredy determined as interesting or worth it and keeping a regular dose of the same copied content until all around you can be described as your and your fellow's interests. Any point of interest would be signalling your own biases, point of views and tastes.
 
 As I claimed that internet or social media is not the medium for organized thought and anything beyond communicating informative pieces and making informed purchases or searches is ineffective at best. Meme culture, with its special side of self-hatred comedy contributes to the ineffective and destructive cycle of how we process information about the world and other people in it.
 
 ![](/images/wojak.jpg)
 
-Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharp edges, nothing else is considered. Yet that how most of my generation derives most of their public knowlede.
+Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharp edges, nothing else is considered. Yet that how most of my generation derives most of their public knowledge. Wojaks doesn't paint the whole picture nor make it interesting only thing that arises from overly generalized views of society and memes is discontent and disconnection.
+
+Algorithmic realities in social media and meme culture takes millions of people in to drive them further with their own biases and interests under the pretense of them interacting with the content they really desired and cared about, or the descriptions of wojak memes really represented people in the streets every day not that we are finding funny ways to box them in consistently.
+
+Predatory data collection worries a lot of people, not just about what big corporations might do with your personal data today, but most people worry their data might help build a all wise and knowing skynet of sorts. What if half of the people focused on the right direction? Direction that throws constant gloom, self-depreciation, hatred, segregation, doubts and performance concerns. When algorithms and super ELIZA clones can tweak your views about society and life in general, really do they need any more data to achieve skynet?
+
+In 2020 I recommend digital minimalism practices by Cal Newport to everyone how is adamant to reclaim their psyche.
