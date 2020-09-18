@@ -22,7 +22,7 @@ Bu, büyük ihtimalle bulabileceğim en eski ve saf örneklerden biri değil. Yi
 
 ![](/images/talarico-brazil-pic3.png)
 
-Milyonları barındıran medya devleriyle isimsiz blogların, doğru bilginin 
+Milyonları barındıran medya devleriyle isimsiz blogların her birinin kendi doğrularını agresif pazarlama ve kuru gürültü ile paketlediği bir metropolden söz ediyoruz.
 
 Belki de Twitter'dan bir şeylerin değişmemesine üzülmek saçmadır.
 
