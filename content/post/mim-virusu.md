@@ -26,4 +26,4 @@ You may use a styling here and there but the focus is to piggyback on the distri
 
 Yet the history of cyberbullying, astroturfing, inceldom, high speed internet pornography addiction, internet hate groups are old as the oldest piece of forum software that is available. Whatever happened? Probably it isn't about corporate takeover of the internet in early 2000's or startup culture influx or even Facebook isn't the culprit they are means to extend the damage that has been already dealt to the very foundations of human interaction with the web.
 
-When we tried to substitute human interaction upon a foundation which designed to distribute content, and in general the extent of possibilities are really narrow when it comes to distribution of substitute human interaction, whole thing did a 180 and that wasn't necessarily a good thing.
+**When we tried to substitute human interaction upon a foundation which designed to distribute content, and in general the extent of possibilities are really narrow when it comes to distribution of substitute human interaction, whole thing did a 180 and that wasn't necessarily a good thing.**
