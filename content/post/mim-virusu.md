@@ -36,4 +36,4 @@ Before normies knew to equate internet with social media there was a forum and a
 
 In the 1987 film Hellraiser, a strange salesman starts a pitch by saying what is your pleasure to the main character Frank who would buy a puzzle in a form similar to a rubiks cube. The thing is cube represents a journey inward to his personality as he delved into the puzzle, demons came and tortured him, soon after he turned out to be so obssesed about the puzzle his personality and social material would move to extremes.
 
-This journey inward represent everything that is wrong with today's internet at its core.
+This journey inward represent everything that is wrong with today's internet at its core. ELIZA didn't had an idea about the person behind the keyboard so it just regurgitated information back. Regardless, people bought the connection between. 
