@@ -8,3 +8,4 @@ timeToRead = 0
 title = "The internet is broken because of you"
 
 +++
+There is a breakthrough in the field of NLP. Despite of its familliarity with the subject the name ELIZA rarely gets mentioned in video essays or in any for of media tasked to explain how to internet we experience today came to be.
