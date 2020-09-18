@@ -10,4 +10,4 @@ title = "Uygulamalı Memetics"
 +++
 #### **Ne arzu edersiniz?**
 
-Hellraiser filminin açılış sahnesinde, egzantirik bir satıcıdan 
+Hellraiser filminin açılış sahnesinde, egzantirik satıcıdan büyülü bir küp satın alan ana karaktere yöneltilen ilk soru budur. Karakterin fark edeceği ilk gerçek, bu küpün çözüldüğü her adımda bireyin en derin arzularını gün yüzüne çıkararan bir oyun olarak kurgulanmasıydı.
