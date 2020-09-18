@@ -14,4 +14,8 @@ Hellraiser filminin açılış sahnesinde, egzantirik satıcıdan büyülü bir 
 
 ###### Internet, aynı soruyu 4.8 milyar insana tekrar tekrar sormaktadır.
 
-Soğuk savaşın, nükleer yokoluş teorilerinin ağın dağıtık mimarisine, teknikteki patlamaların da basit ve açık erişim temelli yapısına katkıda bulunduğu genel kullanıma açık internetin 
+Soğuk savaşın, nükleer yokoluş teorilerinin ağın dağıtık mimarisine, teknikteki patlamaların da basit ve açık erişim temelli yapısına katkıda bulunduğu genel kullanıma açık internet, bir üniversite kampüsünden farksızdı. Okulumun 1998 senesindeki internet sayfasını örnek verebilirim.
+
+![](/images/https-web-archive-org-web-19980127035000-http-www-bilkent-edu.png)
+
+Bu, büyük ihtimalle bulabileceğim en eski ve saf örneklerden biri değil. Yine de webin ilk adımla
