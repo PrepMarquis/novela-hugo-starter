@@ -34,4 +34,4 @@ Supposed problems like monetization, paywalls, ad networks, overengineering, lac
 
 Before normies knew to equate internet with social media there was a forum and a board culture (still present) where you confront with bunch of anon people behind arbitrary names discussing about topics that are remotely or directly about your and others reality. Most of the hateful or violet communities that lived in the fringes of the net that has been recently caught up in media attention (ex. alt-right in the US.) had their only chances for survival in forum and board culture.
 
-Somehow, thousands of people 
+In the 1987 film Hellraiser, a strange salesman starts a pitch by saying what is your pleasure to the main character Frank who would buy a puzzle in a form similar to a rubiks cube. The thing is cube represents a journey inward to his personality 
