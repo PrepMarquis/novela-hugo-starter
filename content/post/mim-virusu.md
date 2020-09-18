@@ -19,3 +19,7 @@ Before everything there was the possibility of nuclear mass destruction this mad
 But the early models offered easy, unrestricted access to simply designed distributed fronts, like university pages etc. If you know basic html css you can easily guess the sites in the old web was complex enough to be described as a canvas painting. You laid out the components in html and painted them in css that was all, superficially. Me? sadly I wasn't alive to document those times. I was more like a adobe flash era kid although we can always go back to simpler times. Just take a look at my schools' 1998 internet page. Only some years after the internet access started in Turkey.
 
 ![](/images/https-web-archive-org-web-19980127035000-http-www-bilkent-edu.png)
+
+Current website is not restrictive or malfunctioning of course, this version had a broader focus on accesbility (refer to [motherfuckingwebsite.com](motherfuckingwebsite.com "motherfuckingwebsite.com") to understand this statement better if you haven't.) and overall the goal was to present information or anything **as is.**
+
+You may use a styling here and there but the focus is to piggyback on the distribution power of the web to get a presention of some information out there.
