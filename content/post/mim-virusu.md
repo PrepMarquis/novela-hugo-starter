@@ -5,7 +5,7 @@ draft = true
 excerpt = "Ölçmenin, anlamanın önüne geçerek değişimin ön koşulu olduğu bir dünyada özgür iradenin yeri nedir?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
-title = "İçe Doğru Yolculukların Çağı"
+title = "Uygulamalı Memetics"
 
 +++
 #### **Ne arzu edersiniz?**
