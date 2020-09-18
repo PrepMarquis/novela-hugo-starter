@@ -5,7 +5,7 @@ draft = true
 excerpt = "What good can people derive from a public space, that has became all about themselves?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
-title = "The internet is broken because of you"
+title = "The internet is broken because of us"
 
 +++
 There is a breakthrough in the field of NLP. Despite of its familliarity with the subject the name ELIZA rarely gets mentioned in video essays or in any for of media tasked to explain how to internet we experience today came to be.
@@ -14,4 +14,4 @@ Invented as a pattern-maching chatterbox, ELIZA had no sense of the words it reg
 
 Oddly, as people interacted with ELIZA they reported a sense of attachment. Something that most of the gamers and devout anime fans have at least experienced one time. Attachment to some sorts of beings that are unfit to socially reciprocate like a video game character you choose to save from death rather than taking an achievement or a parasocial relationship many people establish with the streamer on twitch or imaginary partner on onlyfans thinking that spending funny money on internet based personas may really made them acquainted of sorts? Internet has loads of this especially due to covid-19. Although this aspect and underlying factors may have already become the main force of destruction of the best parts of the internet and people needlessly suffer because of it.
 
-Before everything there was the possibility of nuclear mass destruction this made powerful millitaries to consider a distributed network of processing power
+Before everything there was the possibility of nuclear mass destruction this made powerful millitaries to consider a distributed network of processing power. Booming tech scene introduced terminal and personal computers to universities and big corporations
