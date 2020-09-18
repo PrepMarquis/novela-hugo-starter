@@ -2,13 +2,13 @@
 authors = []
 date = 2020-09-05T05:32:04Z
 draft = true
-excerpt = "Ölçmenin, anlamanın önüne geçerek değişimin ön koşulu olduğu bir dünyada özgür iradenin yeri nedir?"
+excerpt = "What good can people derive from a public space, that is became all about themselves?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
-title = "Uygulamalı Memetics"
+title = "Internet is broken because of you"
 
 +++
-### **Ne arzu edersiniz?**
+### **What's you pleasure?**
 
 Hellraiser filminin açılış sahnesinde, egzantirik satıcıdan büyülü bir küp satın alan ana karaktere yöneltilen ilk soru budur. Frank'in fark edeceği ilk gerçek, bu küpün çözüldüğü her adımda bireyin en derin arzularını gün yüzüne çıkararan bir bulmaca olarak kurgulanmasıydı. Frank küp bulmaca ile saplantılı ilişkisini sürdürdükçe materyal dünyadan uzaklaşarak duygusal sayı doğrusunda ekstremlere kaymaya başlar.
 
@@ -23,6 +23,8 @@ Bu, büyük ihtimalle bulabileceğim en eski ve saf örneklerden biri değil. Yi
 ![](/images/talarico-brazil-pic3.png)
 
 Milyonları barındıran medya devleriyle isimsiz blogların her birinin kendi doğrularını agresif pazarlama ve kuru gürültü ile paketlediği bir metropolden söz ediyoruz.
+
+Erken aşama yapay zeka çalışmaları arasında bu alanla doğrudan alakası olmamasına 
 
 Belki de Twitter'dan bir şeylerin değişmemesine üzülmek saçmadır.
 
