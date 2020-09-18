@@ -44,4 +44,4 @@ What Facebook and other social media did for a worse internet is they built a su
 
 In a digital combination of public and private spaces, if every statement and every bit of knowledge supported the current thoughts and standpoints you had how would this be helpful for a more connected and collaborative society? Business wise, its makes more sense to hook up every platformer with shiny bright notification sounds and bell icons then sell for the audiences' direct attention to marketers.
 
-As I claimed that internet or social media is not the medium for organized thought and anything beyond communicating informative pieces and making informed purchases or searches is ineffective at best for us humans. Meme culture 
+As I claimed that internet or social media is not the medium for organized thought and anything beyond communicating informative pieces and making informed purchases or searches is ineffective at best. Meme culture 
