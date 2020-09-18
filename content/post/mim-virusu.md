@@ -40,4 +40,4 @@ In the 1987 film Hellraiser, a strange salesman starts a pitch by saying what is
 
 This journey inward represent everything that is wrong with today's internet at its core. ELIZA didn't had an idea about the person behind the keyboard so it just regurgitated information back. Regardless, people bought make-believe connection between the algorithm and themselves.
 
-What Facebook and other social media did for a worse internet is they built a super ELIZA concept and put it in through use conceled from the unsuspecting public.
+What Facebook and other social media did for a worse internet is they built a super ELIZA concept and put it in through use conceled from the unsuspecting public. Even if ELIZA doesn't know sh*t about you the concept shows that if the topic is all about you, people are comfortable with going down the rabbit hole themselves. 
