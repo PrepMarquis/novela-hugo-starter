@@ -32,4 +32,6 @@ Whole point of this text is to argue that different platforms or increasing corp
 
 Supposed problems like monetization, paywalls, ad networks, overengineering, lack of service for smaller and impoverished areas and devices and popups are equally terrible occurences but they really come down for the businesses and internet economy to sort them out. They are problems with poor integration, delivery, audience and costs. They rarely cut deep in the flesh, most of the time purely a source of annoyance, that is all for now.
 
-Before normies knew to equate internet with social media there was a forum and a board culture (still present) where you confront with bunch of anon people behind arbitrary names discussing about topics that are remotely or directly about your and others reality. Most of the hateful or violet communities that lived in the fringes of the net that has been recently caught up in media attention (ex. alt-right in the US.) had their only chances for survival in forum and board culture. 
+Before normies knew to equate internet with social media there was a forum and a board culture (still present) where you confront with bunch of anon people behind arbitrary names discussing about topics that are remotely or directly about your and others reality. Most of the hateful or violet communities that lived in the fringes of the net that has been recently caught up in media attention (ex. alt-right in the US.) had their only chances for survival in forum and board culture.
+
+Somehow, thousands of people 
