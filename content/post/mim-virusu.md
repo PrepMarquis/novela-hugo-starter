@@ -16,4 +16,4 @@ Oddly, as people interacted with ELIZA they reported a sense of attachment. Some
 
 Before everything there was the possibility of nuclear mass destruction this made powerful millitaries to consider a distributed network of processing power. Booming tech scene introduced terminal and personal computers to universities and big corporations and suddenly the www was rolling.
 
-But the early models offered easy, unrestricted access to simply designed distributed fronts, like university pages etc.
+But the early models offered easy, unrestricted access to simply designed distributed fronts, like university pages etc. If you know basic html css you can easily guess the sites in the old web was complex enough to be described as a canvas painting. You laid out the components in html and painted them in css that was all, superficially.
