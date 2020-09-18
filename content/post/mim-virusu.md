@@ -13,3 +13,5 @@ title = "Uygulamalı Memetics"
 Hellraiser filminin açılış sahnesinde, egzantirik satıcıdan büyülü bir küp satın alan ana karaktere yöneltilen ilk soru budur. Frank'in fark edeceği ilk gerçek, bu küpün çözüldüğü her adımda bireyin en derin arzularını gün yüzüne çıkararan bir bulmaca olarak kurgulanmasıydı. Frank küp bulmaca ile saplantılı ilişkisini sürdürdükçe materyal dünyadan uzaklaşarak duygusal sayı doğrusunda ekstremlere kaymaya başlar.
 
 ###### Internet, aynı soruyu 4.8 milyar insana tekrar tekrar sormaktadır.
+
+Soğuk savaşın, nükleer yokoluş teorilerinin ağın dağıtık mimarisine, teknikteki patlamaların da basit ve açık erişim temelli yapısına katkıda bulunduğu genel kullanıma açık internetin 
