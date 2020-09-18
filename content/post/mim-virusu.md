@@ -44,8 +44,10 @@ What Facebook and other social media did for a worse internet is they built a su
 
 In a digital combination of public and private spaces, if every statement and every bit of knowledge supported the current thoughts and standpoints you had how would this be helpful for a more connected and collaborative society? Business wise, its makes more sense to hook up every platformer with shiny bright notification sounds and bell icons then sell for the audiences' direct attention to marketers.
 
+ELIZA had a way to persuade the conversation in a way that is convenient for the algorithm,  modern social media applications do worse by feeding you what is alredy determined as interesting or worth it and keeping a regular dose of the same copied content until all around you can be described as your and your fellow's interests.
+
 As I claimed that internet or social media is not the medium for organized thought and anything beyond communicating informative pieces and making informed purchases or searches is ineffective at best. Meme culture, with its special side of self-hatred comedy contributes to the ineffective and destructive cycle of how we process information about the world and other people in it.
 
 ![](/images/wojak.jpg)
 
-Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharped edges, nothing else is considered.
+Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharp edges, nothing else is considered.
