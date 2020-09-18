@@ -18,4 +18,4 @@ Soğuk savaşın, nükleer yokoluş teorilerinin ağın dağıtık mimarisine, t
 
 ![](/images/https-web-archive-org-web-19980127035000-http-www-bilkent-edu.png)
 
-Bu, büyük ihtimalle bulabileceğim en eski ve saf örneklerden biri değil. Yine de erken internetin prensipleri açıkça görülebiliyor: bilginin kolay okunabilir ve erişilebilir şekilde dağıtılması.
+Bu, büyük ihtimalle bulabileceğim en eski ve saf örneklerden biri değil. Yine de erken internetin prensipleri açıkça görülebiliyor: bilginin kolay okunabilir ve erişilebilir şekilde dağıtılması. 
