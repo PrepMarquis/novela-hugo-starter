@@ -28,7 +28,7 @@ Yet the history of cyberbullying, astroturfing, inceldom, high speed internet po
 
 **When we tried to substitute human interaction upon a foundation which designed to distribute content, and in general the extent of possibilities are really narrow when it comes to distribution of substitute human interaction, whole thing did a 180 and that wasn't necessarily a good thing.**
 
-Whole point of this text is to argue that different platforms or increasing corporate takeover is not the problem but the problem lies in the heart of supposed human interaction in www.  Web is only without flaws when we seek out simple and direct information such as searching for some wikipedia entry or when we make a direct transaction, fully informed.
+Whole point of this text is to argue that different platforms or increasing corporate takeover is not the problem but the problem lies in the heart of supposed human interaction in www.  Web is only without flaws when we seek out simple and direct information such as searching for some Wikipedia entry or when we make a direct transaction, fully informed.
 
 Supposed problems like monetization, paywalls, ad networks, overengineering, lack of service for smaller and impoverished areas and devices and popups are equally terrible occurences but they really come down for the businesses to sort them out. They are problems with delivery, audience and costs. They rarely cut deep in the flesh, most of the time purely a source of annoyance, that is all for now.
 
