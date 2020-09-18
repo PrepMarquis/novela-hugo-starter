@@ -24,4 +24,4 @@ Current website is not restrictive or malfunctioning of course, this version had
 
 You may use a styling here and there but the focus is to piggyback on the distribution power of the web to get a presention of some information out there. Anybody is welcome to contribute and backlinks are not something to be padded to get to the top of the search results. Rather, without them your site wouldn't function as intended.
 
-Yet the history of cyberbullying, astroturfing, inceldom, high speed internet pornography addiction, internet hate groups is old as the oldest piece of forum software that is available. Whatever happened? 
+Yet the history of cyberbullying, astroturfing, inceldom, high speed internet pornography addiction, internet hate groups are old as the oldest piece of forum software that is available. Whatever happened? Probably it isn't about corporate takeover of the internet in early 2000's or startup culture influx or even Facebook isn't the culprit
