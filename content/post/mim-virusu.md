@@ -37,7 +37,7 @@ So, Facebook can't be the only reason why internet has gone awry. Everytime some
 
 In the 1987 film Hellraiser, a strange salesman starts a pitch by saying what is your pleasure to the main character Frank who would buy a puzzle in a form similar to a rubiks cube. The thing is cube represents a journey inward to his personality as he delved into the puzzle, demons came and tortured him, soon after he turned out to be so obssesed about the puzzle his personality and social material would move to extremes.
 
-This journey inward represent everything that is wrong with today's internet at its core. ELIZA didn't had an idea about the person behind the keyboard so it just regurgitated information back. Regardless, people bought make-believe connection between the algorithm and themselves.
+**This journey inward represent everything that is wrong with today's internet at its core. ELIZA didn't had an idea about the person behind the keyboard so it just regurgitated information back. Regardless, people bought make-believe connection between the algorithm and themselves.**
 
 What Facebook and other social media did for a worse internet is they built a super ELIZA concept and put it in through use conceled from the unsuspecting public. Even if ELIZA doesn't know sh*t about you, the concept shows that if the topic is all about you, people are comfortable with going down the rabbit hole themselves. When a platform runs crawlers all around the web, controls single sign on modules in popular websites, aggregates data from 3rd parties, has ways to monetize its platform with ad revenue this version of modern ELIZA has to know just enough things about all of its users to keep them coming back.
 
