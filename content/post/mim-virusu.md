@@ -22,4 +22,6 @@ But the early models offered easy, unrestricted access to simply designed distri
 
 Current website is not restrictive or malfunctioning of course, this version had a broader focus on accesbility (refer to [motherfuckingwebsite.com](motherfuckingwebsite.com "motherfuckingwebsite.com") to understand this statement better if you haven't.) and overall the goal was to present information or anything **as is.**
 
-You may use a styling here and there but the focus is to piggyback on the distribution power of the web to get a presention of some information out there. Anybody is welcome to contribute and backlinks are not something to be paddled to get to the top of the search results. Rather, without them your site wouldn't function as intended.
+You may use a styling here and there but the focus is to piggyback on the distribution power of the web to get a presention of some information out there. Anybody is welcome to contribute and backlinks are not something to be padded to get to the top of the search results. Rather, without them your site wouldn't function as intended.
+
+Yet the history of cyberbullying, astroturfing, inceldom, high speed internet pornography addiction, internet hate groups is old as the oldest piece of forum software that is available. Whatever happened? 
