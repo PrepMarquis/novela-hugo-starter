@@ -26,4 +26,4 @@ Milyonları barındıran medya devleriyle isimsiz blogların, doğru bilginin
 
 Belki de Twitter'dan bir şeylerin değişmemesine üzülmek saçmadır.
 
-Zira değişim için yanlış yerdeyiz.
+Çünkü değişim için yanlış yerdeyiz.
