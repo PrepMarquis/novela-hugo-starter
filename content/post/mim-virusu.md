@@ -28,4 +28,6 @@ Yet the history of cyberbullying, astroturfing, inceldom, high speed internet po
 
 **When we tried to substitute human interaction upon a foundation which designed to distribute content, and in general the extent of possibilities are really narrow when it comes to distribution of substitute human interaction, whole thing did a 180 and that wasn't necessarily a good thing.**
 
-Before normies knew to equate internet with social media there was a forum and a board culture (still present) where you confront with bunch of anon people behind arbitrary names discussing about topics that are remotely or directly about your and others reality. Most of the hateful or violet communities that lived in the fringes of the net that has been recently caught up in media attention (ex. alt-right in the US.)had their only chances for survival in forum and board culture
+Before normies knew to equate internet with social media there was a forum and a board culture (still present) where you confront with bunch of anon people behind arbitrary names discussing about topics that are remotely or directly about your and others reality. Most of the hateful or violet communities that lived in the fringes of the net that has been recently caught up in media attention (ex. alt-right in the US.) had their only chances for survival in forum and board culture.
+
+Whole point of this text is to argue that different platforms or increasing corporate takeover is not the problem but the problem lies in the heart of supposed human interaction in www. 
