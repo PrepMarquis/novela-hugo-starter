@@ -48,4 +48,4 @@ As I claimed that internet or social media is not the medium for organized thoug
 
 ![](/images/wojak.jpg)
 
-Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharped edges, nothing else is considered.
+Among other Wojak memes are only one of them, they are oversimplified mirrors of everyday people handdrawn while looking at their sharped edges, nothing else is considered.
