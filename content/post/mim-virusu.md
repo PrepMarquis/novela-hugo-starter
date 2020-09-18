@@ -5,7 +5,7 @@ draft = true
 excerpt = "What good can people derive from a public space, that is became all about themselves?"
 hero = "/images/mika-baumeister-ozogez5vxeq-unsplash.jpg"
 timeToRead = 0
-title = "Internet is broken because of you"
+title = "The internet is broken because of you"
 
 +++
 ### **What's you pleasure?**
