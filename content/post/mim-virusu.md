@@ -11,3 +11,5 @@ title = "The internet is broken because of you"
 There is a breakthrough in the field of NLP. Despite of its familliarity with the subject the name ELIZA rarely gets mentioned in video essays or in any for of media tasked to explain how to internet we experience today came to be.
 
 Invented as a pattern-maching chatterbox, ELIZA had no sense of the words it regurgitated back to the people in the other side of the monitor, not it didn't understood any context. When equipped with its DOCTOR script it would conduct robotic theraphies in form of asking convenient questions to delve deeper. Doing it mainly by reversing the sentence structure and referring to keywords.
+
+Oddly, as people interacted with ELIZA they reported a sense of attachment. Something that most of the gamers and devout anime fans have at least experienced one time. Attachment to some sorts of beings that are unfit to socially reciprocate like a video game character you choose to save from death rather than taking an achievement or a parasocial relationship many people establish with the streamer on twitch or imaginary partner on onlyfans
