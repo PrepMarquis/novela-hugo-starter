@@ -10,4 +10,4 @@ title = "Kodla(ya)mayanlardan mısınız?"
 +++
 Bu işler nasıl olur biliyorsun, aklına parlak bir fikir gelir güvendiğin birkaç kişiyle paylaşırsın. Bazıları olumlu bazıları olumsuz konuşurken neredeyse hepsi istedikleri "o" özelliğin üretmeyi planladığın üründe olup olmadığını sorar. Yerel ve küresel internet araştırmaları ile fikrine pazarda gerçekten yer olup olmadığını sorgularsın. Belki aklına fikrini ve gelecek planlarını anlatan bir sunum hazırlamak gelir, yatırımcılardan potansiyel ekip arkadaşlarına o sunum email ekinde ileri geri gidip gelirken konunun bir yerde tıkandığını görmen pek zor değil.
 
-Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. 
+Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. Bir adım ileri giderek prototip aşamasına girişimin doğuş anı demek daha mantıklı bile olabilir. Yine de bu doğuşu oldukça zorlaştıran 
