@@ -17,3 +17,5 @@ Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. 
 2- Mucizevi ürün problemi
 
 3- Ekip içi uyumsuzluklar
+
+Konu dışına çıkmamak için bu yazıda mümkün oldukça 1. problemden bahsetmeye çalışacağım.
