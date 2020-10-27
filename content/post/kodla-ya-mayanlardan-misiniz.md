@@ -22,4 +22,4 @@ Dijital projeler hayal ederken aynı zamanda bu projeyi teknik olarak hayata ge�
 
 Kendi iş kollarında dijitalleşme ile çözülebilecek bir problem keşfeden herhangi biri 
 
-No-code hareketi ürün geliştirme aşamasındaki teknik yükün önceden hazırlanıp isteğe göre değiştirilerek kullanılan al
+No-code hareketi basitçe; ürünün geliştirilme aşamasındaki teknik yükün önceden hazırlanmış tasarım ve yazılım odaklı alt yapılara bırakılması şeklinde tanımlanabilir.
