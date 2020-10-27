@@ -18,4 +18,4 @@ Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. 
 
 3- Ekip içi uyumsuzluklar
 
-Dijital projeler hayal ederken aynı zamanda bu projeyi teknik olarak hayata geçirememek garip bir paradoks değil mi? 
+Dijital projeler hayal ederken aynı zamanda bu projeyi teknik olarak hayata geçirememek garip bir paradoks değil mi? Ne kadar garip olursa olsun bu durum hiç de az rastlanan bir şey değil. Hatta teknik olarak yeterli ekiplerin sayısının bu kategoriye göre çok daha düşük olduğunu gözlemleme fırsatım oldu.
