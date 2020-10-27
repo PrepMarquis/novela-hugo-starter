@@ -8,3 +8,4 @@ timeToRead = 0
 title = "Kodla(ya)mayanlardan mısınız?"
 
 +++
+Bu işler nasıl olur biliyorsun, aklına parlak bir fikir gelir güvendiğin birkaç kişiyle paylaşırsın. Bazıları olumlu bazıları olumsuz konuşurken neredeyse hepsi istedikleri "o" özelliğin üretmeyi planladığın üründe olup olmadığını sorar. Yerel ve küresel internet araştırmaları ile fikrine pazarda gerçekten yer olup olmadığını sorgularsın. Belki aklına fikrini ve gelecek planlarını anlatan bir sunum hazırlamak gelir, yatırımcılardan potansiyel ekip arkadaşlarına o sunum email ekinde ileri geri gidip gelirken konunun bir yerde tıkandığını görmen pek zor olmaz.
