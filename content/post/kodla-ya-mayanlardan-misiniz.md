@@ -26,3 +26,31 @@ Low-code ise daha çok yazılımcı odaklı çözümler sunmasına rağmen norma
 Bulunduğumuz durumu erken aşama için kodlama sonrası-dünya olarak tarif etmek isterdim. Seth Godin Photoshop'un çıkışını üretim meraklılarının başına gelebilecek en iyi şey olarak tanımlamıştı. Önceleri ekiplerin çizim masalarının başında saatler harcamasına neden olan deneme sürümleri Photoshop ile saatler içinde yapılır hale gelmişti böylece girişimciler piyasada daha çok deneme yanılma hakkına sahip oldular Sen, her hafta farklı bir konsept deneme şansın olsa ne yapardın? İlk sürümün için yazılımcı aramak zorunda bile değilsin.
 
 Halihazırda no-code ve low-code marketi sürükle-bırak ve obje manipülasyonu yoluyla özelleştirme sağlayan platformlardan oluşuyor. Bunların her birinin odağı farklı olsa da daha genel amaçlara hitap edenler ve fazla trafik alanlara yer vermeye çalışacağım. Bu aralar neredeyse her gün patlayıp yok olan bazen de pazarda yer bulan no-code ve low-code ürünler görüyorum, bunların patlamaları çoğunlukla producthunt.com üzerinde oluyor ilgililerine özellikle periyodik olarak takip etmelerini öneririm.
+
+Adalo
+
+Adalo'ya no-code isviçre çakısı demek gayet yerinde olur diye düşünüyorum.
+
+Bubble
+
+Webflow
+
+Memberstack
+
+Airtable
+
+Retool
+
+Notion
+
+Circle
+
+Low-code
+
+Integromat
+
+Zapier
+
+Zeplin
+
+Ürün yapmasak? Bu işin farklı boyutları da var mı?
