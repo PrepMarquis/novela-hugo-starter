@@ -13,6 +13,6 @@ title = "Kodla(ya)mayanlardan mısınız? (1)"
 
 Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. Bu iş tutar mı sorusu seni internet araştırmaları yapmaya, geri bildirimler almaya ve sunumlar hazırlamaya iter. Kısaca çizim masasındaki ekiplerden ekip kurmaya çalışanlar veya fikir yarışmalarına katılanlar girişimin prototipsiz ilerleyemeyeceğini fark edene kadar çeşitli yollar denerler. Zira günün sonunda ürünün veya hizmetin yaşayabilmesi için destekçi olmak isteyen her aşama öyle ya da böyle çalışan bir prototip istemektedir.
 
-Prototip yapmak, ekiplerin geçtiği önemli kırılma noktalarından biridir. Hatta yerel ekosistemimizde erken aşama girişimlerin başarısız olma nedenlerini analiz edebilme imkanımız olsaydı dağılan ekiplerin ardında sınırlı fon, zaman ve yetenekle çıkaramayacağı kadar kompleks fikirler bıraktığını veya yazılımcılara erişimleri olmadan teknik işler çıkarmak istediklerinde başarıız olduklarını kolayca gözlemleyebilirdik.
+Prototip yapmak, ekiplerin geçtiği önemli kırılma noktalarından biridir. Hatta yerel ekosistemimizde erken aşama girişimlerin başarısız olma nedenlerini analiz edebilme imkanımız olsaydı dağılan ekiplerin arkalarında sınırlı fon, zaman ve yetenekle çıkaramayacağı kadar kompleks fikirler bıraktıklarını veya yazılımcılara erişimleri olmadan teknik işler çıkarmak istediklerinde başarıız olduklarını kolayca gözlemleyebilirdik.
 
 No-code hareketi basitçe; ürünün geliştirilme aşamasındaki teknik yükün önceden hazırlanmış tasarım ve yazılım odaklı alt yapılara bırakılması şeklinde tanımlanabilir.
