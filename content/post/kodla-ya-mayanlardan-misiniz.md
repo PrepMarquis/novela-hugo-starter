@@ -15,6 +15,6 @@ Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. Bu
 
 Prototip yapmak, ekiplerin geçtiği önemli kırılma noktalarından biridir. Hatta yerel ekosistemimizde erken aşama girişimlerin başarısız olma nedenlerini analiz edebilme imkanımız olsaydı dağılan ekiplerin arkalarında sınırlı fon, zaman ve yetenekle çıkaramayacağı kadar kompleks fikirler bıraktıklarını veya yazılımcılara erişimleri olmadan teknik işler çıkarmak istediklerinde başarıız olduklarını kolayca gözlemleyebilirdik.
 
-Prototiplerin MVP merceğinden ele alınması gerektiğini lise seviyesindeki proje fuarlarında bile duymaya alışmışken yerel ekosistemimizde en çok yapılan hatalardan biri ürünün ilk versiyonunun hatta pazar uyumunu test etmek için çıkartılması gereken deneme sürümlerinin bile pazardaki doğrulanmış ve ölçeklenmiş büyük alternatifleri kadar gelişmiş inşa etmeye çalışmaktır.
+Prototiplerin MVP merceğinden ele alınması gerektiğini lise seviyesindeki proje fuarlarında bile duymaya alışmışken yerel ekosistemimizde en çok yapılan hatalardan biri ürünün ilk versiyonunun hatta pazar uyumunu test etmek için çıkartılması gereken deneme sürümlerinin bile pazardaki doğrulanmış ve ölçeklenmiş büyük alternatifleri kadar gelişmiş inşa etmeye çalışmaktır. Bu şekilde ilerleyenlerin envai çeşit web ve mobil geliştirici forumlarına fiyat sormak için girip hevesleri kırılmış olarak ayrılmaları çok daha olasıdır.
 
 No-code hareketi basitçe; ürünün geliştirilme aşamasındaki teknik yükün önceden hazırlanmış tasarım ve yazılım odaklı alt yapılara bırakılması şeklinde tanımlanabilir.
