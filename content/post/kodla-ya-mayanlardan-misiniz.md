@@ -56,7 +56,7 @@ Low-code
 
 Integromat
 
-Uygulama veya web sitenizle entegre çalışan 3. parti uygulamalardan veriler çekerek işlemler yapmanıza imkan sağlayan mantıksal operasyon platformu olarak özetlenebilir. Örneğin: internet sitesine giriş yaparak iletişim formunu dolduran kişinin e-mail adresini Google Sheets dosyasına kaydet -> önceden hazırlanan yanıt şablonunu Gsuite üzerinden e-mail adresine gönder -> kişiyi kurumsal iletişim listesine ekle vb betik işlemler yapılmasına imkan sağlayan bir platformdur. 
+Uygulama veya web sitenizle entegre çalışan 3. parti uygulamalardan veriler çekerek işlemler yapmanıza imkan sağlayan mantıksal operasyon platformu olarak özetlenebilir. Örneğin: internet sitesine giriş yaparak iletişim formunu dolduran kişinin e-mail adresini Google Sheets dosyasına kaydet -> önceden hazırlanan yanıt şablonunu Gsuite üzerinden e-mail adresine gönder -> kişiyi kurumsal iletişim listesine ekle vb işlemler yapılabilir 3. parti entegrasyonlarının sayısını sürekli artıran Integromat bu alanda Zapier'in gerisinde kalsa da Integromat özelleştirilmiş entegrasyonlara izin vererek kendi servislerinizi eklemenize imkan sağlamaktadır.
 
 Zapier
 
