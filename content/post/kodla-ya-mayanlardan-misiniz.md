@@ -36,6 +36,8 @@ Adalo'ya göre daha karmaşık bir arayüz sahip olsa da web alanında daha geni
 
 Webflow
 
+Kendinden önce gelen web geliştirme platformlarının üzerine güncel temalar, gelişmiş CMS özellikleri ve okunabilir/düzenlenebilir kod çıktısı getiren Webflow önceliği frontend olan no-code projelerine çok büyük katkısı olabiliyor.
+
 Memberstack
 
 Airtable
