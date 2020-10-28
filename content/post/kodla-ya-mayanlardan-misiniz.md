@@ -68,7 +68,7 @@ Integromat'ın operasyon başına daha maliyetli alternatifidir.
 
 Zeplin
 
-Arayüz tasarımı süreçlerini hızlandırmasıyla birlikte 
+Arayüz tasarımı süreçlerini hızlandırmasıyla birlikte Figma, Sketch ve XD çizimlerini doğrudan frontend koduna aktarması önemli özelliklerinden biridir.
 
 Ürün çıkarmasak? Bu işin farklı boyutları da var mı?
 
