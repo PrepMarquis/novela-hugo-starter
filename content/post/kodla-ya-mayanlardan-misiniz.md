@@ -60,3 +60,7 @@ Elbette! no-code ve low-code = ürün bilgeliği ürünün üretildiği platform
 Kuluçka merkezileri / hızlandırıcı programları için bu ne anlama geliyor?
 
 En kapsamlı no-code araçlarını [destekler](https://uretkenakademi.com/destekler.html) listenize ekleyin. Aktif yazılımcı arayışında olan girişimlerinize match ararken bir yandan no-code konularında eğitimler verin, sonuçlardan pişman olmayacaksınız no-code araçları bu tür ortaklıklara açık kuruluşlardır.
+
+Olumsuz yanları nelerdir?
+
+Kullandığınız platformlar genellikle aylık kullanım başına ücret almaktadır. Bu da verilerinizi ve prototipinizi mümkün oldukça içeride tutmak için gayret göstermelerine neden olmaktadır. İmkan ve fırsat bulduğunuzda açık web ve mobil teknolojilerine geçiş yapın ve kendi ekibiniz ile ilerlemeye başlayın.
