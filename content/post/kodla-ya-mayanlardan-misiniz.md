@@ -58,3 +58,5 @@ Zeplin
 Elbette! no-code ve low-code = ürün bilgeliği ürünün üretildiği platforma hakimseniz şirketler veya startuplar x işini otomatize etmek için in-house iş gücüne yazılım yaptırmak yerine sizin low-code platformda üreteceğiniz otomasyona para vermeyi tercih edebilir. [Olasılıklar sınırsız]().
 
 Kuluçka merkezileri / hızlandırıcı programları için bu ne anlama geliyor?
+
+En kapsamlı no-code araçlarını [destekler](https://uretkenakademi.com/destekler.html) listenize ekleyin. Aktif yazılımcı arayışında olan girişimlerinize bu konuda eğitimler verin, sonuçlardan pişman olmayacaksınız no-code araçları bu tür ortaklıklara açık kuruluşlardır.
