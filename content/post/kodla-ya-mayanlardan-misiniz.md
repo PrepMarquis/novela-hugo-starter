@@ -40,7 +40,11 @@ Airtable
 
 Retool
 
+Google Sheets
+
 Notion
+
+Basit bir not alma uygulaması olarak başlayıp sonradan uçtan uca bilgi yönetimi platformuna döüşen Notion şu an no-code projelerinde veritabanı olarak kullanılabilir.
 
 Circle
 
