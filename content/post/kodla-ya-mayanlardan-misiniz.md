@@ -42,6 +42,8 @@ Retool
 
 Google Sheets
 
+Google Drive ofis araçları arasında bulunan Sheets no-code uygulamalar için veritabanı olarak kullanımaktadır. Bunun haricinde Zapier gibi low-code araçlarla birleştirilerek 3. parti araçlardan çekilen verilerle dinamik arayüzlere dönüştürülebilir.
+
 Notion
 
 Basit bir not alma uygulaması olarak başlayıp sonradan uçtan uca bilgi yönetimi platformuna döüşen Notion şu an no-code projelerinde veritabanı olarak kullanılabilir.
