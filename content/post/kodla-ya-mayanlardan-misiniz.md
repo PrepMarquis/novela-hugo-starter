@@ -44,7 +44,7 @@ Notion
 
 Circle
 
-Yazılım bilginiz olmadan veya discord/slack gibi komunite platformlarını özelleştirmeye çalışmadan topluluk alanları kurmanızı sağlayan bir araçtır. Üretken Akademi'de aktif olarak kullanmaktayız topluluk.uretkenakademi.com adresinden inceleyebilirsiniz.
+Yazılım bilginiz olmadan veya discord/slack gibi komunite platformlarını özelleştirmeye çalışmadan topluluk alanları kurmanızı sağlayan bir araçtır. Üretken Akademi'de aktif olarak kullanmaktayız [topluluk.uretkenakademi.com](https://topluluk.uretkenakademi.com) adresinden inceleyebilirsiniz.
 
 Low-code
 
