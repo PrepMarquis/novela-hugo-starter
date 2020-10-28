@@ -86,3 +86,5 @@ En kapsamlı no-code araçlarını [destekler](https://uretkenakademi.com/destek
 Olumsuz yanları nelerdir?
 
 Kullandığınız platformlar genellikle aylık kullanım başına ücret almaktadır. Bu da verilerinizi ve prototipinizi mümkün oldukça içeride tutmak için gayret göstermelerine neden olmaktadır. İmkan ve fırsat bulduğunuzda açık web ve mobil teknolojilerine geçiş yapın ve kendi ekibiniz ile ilerlemeye başlayın.
+
+Dipnot: Girişim Fabrikasından Yücel Faruk Şahan tarafından paylaşılan no-code hakkında kapsamlı ve birçok açıdan ilk sayılabilecek Twitter gönderisine göz atmayı unutmayın. Bu yazıda kısıtlı zamandan dolayı görsel örneklere yer veremememe rağmen bu ekikliği bu yazıya yeni versiyon ekleyerek veya bir yazı dizisine dönüşmesini sağlayarak kapatmayı planlıyorum.
