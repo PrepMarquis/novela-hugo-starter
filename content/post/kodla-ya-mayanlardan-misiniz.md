@@ -15,4 +15,8 @@ Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. Bu
 
 Prototip yapmak, ekiplerin geçtiği önemli kırılma noktalarından biridir. Hatta yerel ekosistemimizde erken aşama girişimlerin başarısız olma nedenlerini analiz edebilme imkanımız olsaydı dağılan ekiplerin arkalarında sınırlı fon, zaman ve yetenekle çıkaramayacağı kadar kompleks fikirler bıraktıklarını veya yazılımcılara erişimleri olmadan teknik işler çıkarmak istediklerinde başarıız olduklarını kolayca gözlemleyebilirdik.
 
+Erken aşama girişimlerin başarısızlıklarından ve prototiplerden söz açmışken şu örneği vermemek olmaz
+
+![](/images/bizimisacil.png)
+
 No-code hareketi basitçe; ürünün geliştirilme aşamasındaki teknik yükün önceden hazırlanmış tasarım ve yazılım odaklı alt yapılara bırakılması şeklinde tanımlanabilir.
