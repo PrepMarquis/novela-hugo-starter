@@ -56,13 +56,15 @@ Low-code
 
 Integromat
 
+Uygulama veya web sitenizle entegre çalışan 3. parti uygulamalardan veriler çekerek işlemler yapmanıza imkan sağlayan mantıksal operasyon platformu olarak özetlenebilir. Örneğin: internet sitesine giriş yaparak iletişim formunu dolduran kişinin e-mail adresini Google Sheets dosyasına kaydet -> önceden hazırlanan yanıt şablonunu Gsuite üzerinden e-mail adresine gönder -> kişiyi kurumsal iletişim listesine ekle vb betik işlemler yapılmasına imkan sağlayan bir platformdur. 
+
 Zapier
 
 Integromat'ın operasyon başına daha maliyetli alternatifidir.
 
 Zeplin
 
-Contentful (Headless CMSs)
+Arayüz tasarımı süreçlerini hızlandırmasıyla birlikte 
 
 Ürün çıkarmasak? Bu işin farklı boyutları da var mı?
 
