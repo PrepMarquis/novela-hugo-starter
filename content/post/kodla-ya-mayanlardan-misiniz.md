@@ -11,7 +11,7 @@ title = "Kodla(ya)mayanlardan mısınız?"
 
 ##### Bu işler nasıl olur biliyorsun, 
 
-Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. 
+Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. Bu iş tutar mı sorusu seni internet araştırmaları yapmaya, geri bildirimler almaya ve sunumlar hazırlamaya iter.
 
 Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. Bir adım ileri giderek prototip aşamasına girişimin doğuş anı demek daha mantıklı bile olabilir. Yine de bu doğuşu oldukça zorlaştıran 3 faktörden bahsedebiliriz.
 
