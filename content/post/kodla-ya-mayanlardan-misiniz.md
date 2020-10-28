@@ -42,6 +42,8 @@ Airtable
 
 Retool
 
+Tek kullanımlık şirket içi araçların programlamasını kolaylaştıran bir no-code araçtır. Örneğin şube içi stok takibi hizmetini programlama bilginiz olmadan retool ile oluşturmanız mümkündür.
+
 Google Sheets
 
 Google Drive ofis araçları arasında bulunan Sheets no-code uygulamalar için veritabanı olarak kullanımaktadır. Bunun haricinde Zapier gibi low-code araçlarla birleştirilerek 3. parti araçlardan çekilen verilerle dinamik arayüzlere dönüştürülebilir.
