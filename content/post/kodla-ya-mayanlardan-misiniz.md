@@ -20,6 +20,6 @@ Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. 
 
 Dijital projeler hayal ederken aynı zamanda bu projeyi teknik olarak hayata geçirememek garip bir paradoks değil mi? Ne kadar garip olursa olsun bu durum hiç de az rastlanan bir şey değil. Hatta teknik olarak yeterli ekiplerin sayısının bu kategoriye göre çok daha düşük olduğunu gözlemleme fırsatım oldu.
 
-Kendi iş kollarında dijitalleşme ile çözülebilecek bir problem keşfeden herhangi biri 
+Kendi iş kollarında dijitalleşme ile çözülebilecek bir problem keşfeden herhangi biri
 
 No-code hareketi basitçe; ürünün geliştirilme aşamasındaki teknik yükün önceden hazırlanmış tasarım ve yazılım odaklı alt yapılara bırakılması şeklinde tanımlanabilir.
