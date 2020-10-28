@@ -13,7 +13,7 @@ title = "Kodla(ya)mayanlardan mısınız?"
 
 Aklına parlak bir fikir gelir, güvendiğin birkaç kişiyle paylaşırsın. Bu iş tutar mı sorusu seni internet araştırmaları yapmaya, geri bildirimler almaya ve sunumlar hazırlamaya iter. Kısaca çizim masasındaki ekiplerden ekip kurmaya çalışanlar veya fikir yarışmalarına katılanlar girişimin prototipsiz ilerleyemeyeceğini fark edene kadar çeşitli yollar denerler. Zira günün sonunda ürünün veya hizmetin yaşayabilmesi için destekçi olmak isteyen her aşama öyle ya da böyle çalışan bir prototip istemektedir.
 
-Prototip yapmak, bir ekibin geçtiği önemli kırılma noktalarından biridir. Bir adım ileri giderek prototip aşamasına girişimin doğuş anı demek daha mantıklı bile olabilir. Yine de bu doğuşu oldukça zorlaştıran 3 faktörden bahsedebiliriz.
+Prototip yapmak, ekiplerin geçtiği önemli kırılma noktalarından biridir. 
 
 1- Kodlayamama problemi
 
