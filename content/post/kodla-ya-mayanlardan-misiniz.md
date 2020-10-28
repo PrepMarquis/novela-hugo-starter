@@ -53,4 +53,8 @@ Zapier
 
 Zeplin
 
-Ürün yapmasak? Bu işin farklı boyutları da var mı?
+Ürün çıkarmasak? Bu işin farklı boyutları da var mı?
+
+Elbette! no-code ve low-code = ürün bilgeliği ürünün üretildiği platforma hakimseniz 
+
+Kuluçka merkezileri / hızlandırıcı programları için bu ne anlama geliyor?
