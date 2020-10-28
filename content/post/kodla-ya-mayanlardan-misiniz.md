@@ -40,6 +40,8 @@ Kendinden önce gelen web geliştirme platformlarının üzerine güncel temalar
 
 Memberstack
 
+Yazılım bilgisi olmayan ekiplerin web platformlarını oluştururken karşılaştığı en büyük engellerden ikisi olan ödeme altyapısı ve üyelik platformu çözümlerini tek entegrasyonda birleştirmektedir.
+
 Airtable
 
 Bilgi yönetim bankası veya excel benzeri spreadsheet uygulaması olarak kullanılabildiği gibi no-code uygulamalarında veritabanı olarak kullanılmaktadır.
