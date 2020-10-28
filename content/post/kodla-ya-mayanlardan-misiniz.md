@@ -32,6 +32,8 @@ Adalo'ya no-code isviçre çakısı demek gayet yerinde olur diye düşünüyoru
 
 Bubble
 
+Adalo'ya göre daha karmaşık bir arayüz sahip olsa da web alanında daha geniş özelleştirme imkanı sağlayan sürükle-bırak geliştirme platformudur.
+
 Webflow
 
 Memberstack
