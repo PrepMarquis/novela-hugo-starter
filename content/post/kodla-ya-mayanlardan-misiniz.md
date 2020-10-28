@@ -51,6 +51,8 @@ Integromat
 
 Zapier
 
+Integromat'ın operasyon başına daha maliyetli alternatifidir. 
+
 Zeplin
 
 Ürün çıkarmasak? Bu işin farklı boyutları da var mı?
