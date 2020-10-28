@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-10-27T14:49:18Z
-draft = true
 excerpt = "Yazılım bilmeden MVP modeline uygun uygulama prototipleri nasıl yapılır?"
 hero = "/images/emile-perron-xrvdyzrgdw4-unsplash.jpg"
 timeToRead = 0
