@@ -42,6 +42,8 @@ Memberstack
 
 Airtable
 
+Bilgi yönetim bankası veya excel benzeri spreadsheet uygulaması olarak kullanılabildiği gibi no-code uygulamalarında veritabanı olarak kullanılmaktadır.
+
 Retool
 
 Tek kullanımlık şirket içi araçların programlamasını kolaylaştıran bir no-code araçtır. Örneğin şube içi stok takibi hizmetini programlama bilginiz olmadan retool ile oluşturmanız mümkündür.
