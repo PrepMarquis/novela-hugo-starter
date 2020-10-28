@@ -26,27 +26,27 @@ Bulunduğumuz durumu erken aşama için kodlama sonrası-dünya olarak tarif etm
 
 Halihazırda no-code ve low-code marketi sürükle-bırak ve obje manipülasyonu yoluyla özelleştirme sağlayan platformlardan oluşuyor. Bunların her birinin odağı farklı olsa da daha genel amaçlara hitap edenler ve fazla trafik alanlara yer vermeye çalışacağım. Bu aralar neredeyse her gün patlayıp yok olan bazen de pazarda yer bulan no-code ve low-code ürünler görüyorum, bunların patlamaları çoğunlukla [producthunt.com](https://producthunt.com) üzerinde oluyor ilgililerine özellikle periyodik olarak takip etmelerini öneririm.
 
-Adalo
+[Adalo](https://adalo.com)
 
 Adalo'ya no-code isviçre çakısı demek gayet yerinde olur diye düşünüyorum.
 
-Bubble
+[Bubble](https://bubble.io)
 
 Adalo'ya göre daha karmaşık bir arayüz sahip olsa da web alanında daha geniş özelleştirme imkanı sağlayan sürükle-bırak geliştirme platformudur.
 
-Webflow
+[Webflow](https://webflow.com)
 
 Kendinden önce gelen web geliştirme platformlarının üzerine güncel temalar, gelişmiş CMS özellikleri ve okunabilir/düzenlenebilir kod çıktısı getiren Webflow önceliği frontend olan no-code projelerine çok büyük katkısı olabiliyor.
 
-Memberstack
+[Memberstack](https://memberstack.com)
 
 Yazılım bilgisi olmayan ekiplerin web platformlarını oluştururken karşılaştığı en büyük engellerden ikisi olan ödeme altyapısı ve üyelik platformu çözümlerini tek entegrasyonda birleştirmektedir.
 
-Airtable
+[Airtable](https://airtable.com)
 
 Bilgi yönetim bankası veya excel benzeri spreadsheet uygulaması olarak kullanılabildiği gibi no-code uygulamalarında veritabanı olarak kullanılmaktadır.
 
-Retool
+[Retool](https://retool.io)
 
 Tek kullanımlık şirket içi araçların programlamasını kolaylaştıran bir no-code araçtır. Örneğin şube içi stok takibi hizmetini programlama bilginiz olmadan retool ile oluşturmanız mümkündür.
 
@@ -54,11 +54,11 @@ Google Sheets
 
 Google Drive ofis araçları arasında bulunan Sheets no-code uygulamalar için veritabanı olarak kullanımaktadır. Bunun haricinde Zapier gibi low-code araçlarla birleştirilerek 3. parti araçlardan çekilen verilerle dinamik arayüzlere dönüştürülebilir.
 
-Notion
+[Notion](https://notion.so)
 
 Basit bir not alma uygulaması olarak başlayıp sonradan uçtan uca bilgi yönetimi platformuna döüşen Notion şu an no-code projelerinde veritabanı olarak kullanılabilir.
 
-Circle
+[Circle](https://circle.so)
 
 Yazılım bilginiz olmadan veya discord/slack gibi komunite platformlarını özelleştirmeye çalışmadan topluluk alanları kurmanızı sağlayan bir araçtır. Üretken Akademi'de aktif olarak kullanmaktayız [topluluk.uretkenakademi.com](https://topluluk.uretkenakademi.com) adresinden inceleyebilirsiniz.
 
