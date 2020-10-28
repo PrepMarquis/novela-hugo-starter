@@ -64,15 +64,15 @@ Yazılım bilginiz olmadan veya discord/slack gibi komunite platformlarını öz
 
 Low-code
 
-Integromat
+[Integromat](https://integromat.com)
 
 Uygulama veya web sitenizle entegre çalışan 3. parti uygulamalardan veriler çekerek işlemler yapmanıza imkan sağlayan mantıksal operasyon platformu olarak özetlenebilir. Örneğin: internet sitesine giriş yaparak iletişim formunu dolduran kişinin e-mail adresini Google Sheets dosyasına kaydet -> önceden hazırlanan yanıt şablonunu Gsuite üzerinden e-mail adresine gönder -> kişiyi kurumsal iletişim listesine ekle vb işlemler yapılabilir 3. parti entegrasyonlarının sayısını sürekli artıran Integromat bu alanda Zapier'in gerisinde kalsa da Integromat özelleştirilmiş entegrasyonlara izin vererek kendi servislerinizi eklemenize imkan sağlamaktadır.
 
-Zapier
+[Zapier](https://zapier.com)
 
 Integromat'ın operasyon başına daha maliyetli alternatifidir.
 
-Zeplin
+[Zeplin](https://zeplin.io)
 
 Arayüz tasarımı süreçlerini hızlandırmasıyla birlikte Figma, Sketch ve XD çizimlerini doğrudan frontend koduna aktarması önemli özelliklerinden biridir.
 
