@@ -55,6 +55,6 @@ Zeplin
 
 Ürün çıkarmasak? Bu işin farklı boyutları da var mı?
 
-Elbette! no-code ve low-code = ürün bilgeliği ürünün üretildiği platforma hakimseniz 
+Elbette! no-code ve low-code = ürün bilgeliği ürünün üretildiği platforma hakimseniz şirketler veya startuplar x işini otomatize etmek için in-house iş gücüne yazılım yaptırmak yerine sizin low-code platformda üreteceğiniz otomasyona para vermeyi tercih edebilir.
 
 Kuluçka merkezileri / hızlandırıcı programları için bu ne anlama geliyor?
