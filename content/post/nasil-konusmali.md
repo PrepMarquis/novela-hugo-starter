@@ -10,4 +10,4 @@ title = "Nasıl Konuşmalı?"
 +++
 Kişisel gelişim ve farkındalık oluşumlarının yıllardır bıkmadan usanmadan okuyucu ve dinleyici kitlelerine verdiği basit bir öğüt var. Belki sizler de bu mecraların takipçileri olarak ilk bakışta anımsayacaksınız. Nefes alma reflekslerimizin doğuşta kusursuz ve sağlıklı olduğunu, sonradan kolaya kaçarak karın boşluğu yerine göğsü doldurarak nefes aldığımızdan bahsedip dururlar. Bu öğüt ister banal şirket içi eğitimlerin ister dostlar arasında yapılan sohbetin bir konusu olsun; bana hep **konuşma reflekslerimizi** hatırlatmıştır :)
 
-Kişiliğimi şekillendiren erken gençlik yıllarımda ara sıra topluluk önünde konuşma fırsatı yakaladım. 
+Kişiliğimi şekillendiren erken gençlik yıllarımda ara sıra topluluk önünde konuşma fırsatı yakaladım.
