@@ -16,7 +16,7 @@ Ne tesadüf! Yazıda işlemek istediğim konu tam da buydu. Kullanıcı deneyimi
 
 Nasıl
 
-Kullanıcıların, ziyaretçilerin çoğu sessiz kalmayı tercih eder. İletişime geçtiklerinde ise en sık sorulan soruların nasıl? ile sorulması düşündüğünüzden çok daha olasıdır. Nasıl yapacağım? Nasıl olacak? Nasıl işliyor/çalışıyor?
+Kullanıcıların, ziyaretçilerin çoğu sessiz kalmayı tercih eder. İletişime geçtiklerinde ise en sık sorulan soruların nasıl? ile sorulması düşündüğünüzden çok daha olasıdır. Nasıl yapacağım? Nasıl olacak? Nasıl işliyor/çalışıyor? Her fırsatta akış şemaları veya gelişmiş onboarding araçlarının kullanılmasını öneriyorum.
 
 Eksik soru, fazla yanıt
 
