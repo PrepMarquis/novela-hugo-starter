@@ -21,3 +21,5 @@ Objection yönetimi
 Muhabbet botu
 
 Social proof, reimagined.
+
+KISS
