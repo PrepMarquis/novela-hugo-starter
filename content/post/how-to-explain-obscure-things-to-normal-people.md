@@ -24,6 +24,8 @@ Nasıl faktöründe gözlemlediğim üzere, kişilerin kafalarındaki soru işar
 
 Objection yönetimi
 
+Ziyaretçilerin veya kullanıcıların ürününüzle alakalı yönetebileceğiniz veya üzerinde hiçbir kontrolünüzün olmadığı ön yargıları olacaktır.
+
 Muhabbet botu
 
 Social proof, reimagined.
