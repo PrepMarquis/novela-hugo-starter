@@ -20,6 +20,8 @@ Kullanıcıların, ziyaretçilerin çoğu sessiz kalmayı tercih eder. İletişi
 
 Eksik soru, fazla yanıt
 
+Nasıl faktöründe gözlemlediğim üzere, kişilerin kafalarındaki soru işaretleri hiçbir zaman başlı başına bir soru halinde gelmiyor. Kişi platformun neden yavaş yüklendiğini veya neden mobil uyumlu olmadığını kastetmek isterken site çalışmıyor ne yapacağım diyecektir. Bu bağlamda elinizden geldiğince direkt kullanıcı geri bildirimlerine güvenmekten kaçının.
+
 Objection yönetimi
 
 Muhabbet botu
