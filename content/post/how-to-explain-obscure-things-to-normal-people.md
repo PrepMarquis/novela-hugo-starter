@@ -8,3 +8,8 @@ timeToRead = 0
 title = "Zor yoldan öğrendiklerim - Landing page nasıl yapılmaz"
 
 +++
+Yazının başına oturmaya karar verdiğim saatte sosyal medyada şöyle bir yarı-motivasyonel mesaja rastladım:
+
+**Doğruyu yapmak neden yanlış olduğunu anlatmaktan daha kolaydır.**
+
+Ne tesadüf! Yazıda işlemek istediğim konu tam da buydu. 
