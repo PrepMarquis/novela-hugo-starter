@@ -12,4 +12,4 @@ Yazının başına oturmaya karar verdiğim saatte sosyal medyada şöyle bir ya
 
 **Doğruyu yapmak neden yanlış olduğunu anlatmaktan daha kolaydır.**
 
-Ne tesadüf! Yazıda işlemek istediğim konu tam da buydu. 
+Ne tesadüf! Yazıda işlemek istediğim konu tam da buydu. Kullanıcı deneyimi ve arayüz tasarımı gibi konulara kafam pek basmadığından, hatta basmak ne kelime herhangi bir sayfa kompozisyonunda 2 renk tonundan fazla kullanmam gerektiğinde estetik anlayışım birbirine girdiğinden bu yazıda şu araçları kullanarak şu şekilde landing page tasarlamalısın gibi iddialarım olmayacak. Yazıyı daha çok 2-3 yıldır aktif olarak Türk internet kullanıcısı ile sürekli karşılaşan, yerine göre eğitim vermek; yerine göre iterate etmek durumunda kalan birinin zor yoldan öğrendiği dersler olarak değerlendirdim.
