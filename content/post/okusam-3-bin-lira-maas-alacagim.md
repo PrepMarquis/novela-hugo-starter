@@ -18,6 +18,6 @@ Bana kulak vermeden önce, beni bu konuyu işlemeye ikna eden çalışmaları in
 
 [Yazı 2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
 
-Kökenimi inkar ederek bir şey kazanabileceğimi düşünmüyorum. Ben de orta direk hayalinin bir ürünüyüm.
+Kökenimi inkar ederek bir şey kazanabileceğimi düşünmüyorum. Ben de orta direk hayalinin bir ürünüyüm. İlk ve ortaöğretim hayatım 
 
 Sakin ol ve staj başvurunu yere bırak.
