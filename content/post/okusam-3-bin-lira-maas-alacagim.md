@@ -12,6 +12,8 @@ Bazı zamanlar gözümün önünde her gün olup biten olayları gerçekten fark
 
 Bu yazıyı okuyan ve 2000-2010 yılları arasına nostaljik bakabilen çoğu yaşıtımın da benim gibi düşündüğüne eminim.
 
+Bana kulak vermeden önce, beni bu konuyu işlemeye ikna eden çalışmaları incelemenizi öneririm. Zira yaptığım, zaten tanımlanmış bir probleme farklı bir kuşak penceresinden bakmaktan ibarettir.
+
 [Yazı 1](https://twitter.com/mrozansonmez/status/1354068332991885315)
 
 [Yazı 2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
