@@ -46,7 +46,7 @@ This is, entirely about them and their success.
 
 **You are not a non-profit**
 
-[This is from Simon Sinek actually.](https://www.youtube.com/watch?v=3kDZ8M8GX0Q)
+[This is from Simon Sinek actually.](https://www.youtube.com/watch?v=3kDZ8M8GX0Q) If you have structure that is similar to us please take his advice.
 
 **Do your own thing**
 
