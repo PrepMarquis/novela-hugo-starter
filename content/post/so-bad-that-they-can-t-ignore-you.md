@@ -34,7 +34,7 @@ Because this is a people's business. You cannot afford to be open to anyone. Thi
 
 **Partners are only meaningful if they are... well... "partners"**
 
-We have 180 of them. Though
+We have 180 of them. Though not everyone is a good fit and same thing occurs both ways. If you do not engage with them constructively in other words: if the relationship is somewhat of a zero-sum, then reconsider it.
 
 **Do not overpromise**
 
@@ -43,6 +43,8 @@ Really, do not do that. The primary drive that turns your business into somethin
 **It's about them**
 
 This is, entirely about them and their success.
+
+**You are not a non-profit**
 
 **Do your own thing**
 
