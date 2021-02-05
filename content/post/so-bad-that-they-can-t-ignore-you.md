@@ -14,22 +14,22 @@ Though those two can diverge in uncanny ways. When you overpromise, overexcite, 
 
 Purpose of this piece is to outline the missteps I personally took in my first year of running a startup program. I highly doubt that people would read this piece (or others in that regard) and find something influential in them
 
-This is a people's business
+**This is a people's business**
 
 I cannot stress this enough. We started not as a startup program but a series of programming sprints and ideathons. What came out of it was a catch-all startup program that was overpromising. A lot of people came to us asking questions 
 
-Hard to iterate
+**Hard to iterate**
 
-Avoid hunting with trolls
+**Avoid hunting with trolls**
 
-Partners are only meaningful if they are... well... **"partners"**
+**Partners are only meaningful if they are... well... "partners"**
 
 We have 180 of them. Though 
 
-Do not overpromise
+**Do not overpromise**
 
-It's about them
+**It's about them**
 
-Do your own thing
+**Do your own thing**
 
 You might have a leadership at the top. Bear with them at the minimum for your own sake. Most of the things I've done was unwarranted and they turned out to save the day. Follow the best practices, value experience, get good mentors and do your own thing.
