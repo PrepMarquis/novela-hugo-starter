@@ -34,7 +34,7 @@ Because this is a people's business. You cannot afford to be open to anyone. Thi
 
 **Partners are only meaningful if they are... well... "partners"**
 
-We have 180 of them. Though not everyone is a good fit and same thing occurs both ways. If you do not engage with them constructively in other words: if the relationship is somewhat of a zero-sum, then reconsider it.
+We have 180 of them. Though not everyone is a good fit and same thing occurs both ways. If you do not engage with them constructively in other words: if the relationship is somewhat of a zero-sum, that is you are being partners only because of a single give-something-get-something deal then, reconsider it.
 
 **Do not overpromise**
 
