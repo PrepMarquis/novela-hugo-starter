@@ -34,6 +34,8 @@ We have 180 of them. Though
 
 **It's about them**
 
+This is, entirely about them and their success.
+
 **Do your own thing**
 
 You might have a leadership at the top. Bear with them at the minimum for your own sake. Most of the things I've done was unwarranted and they turned out to save the day. Follow the best practices, value experience, get good mentors and do your own thing.
