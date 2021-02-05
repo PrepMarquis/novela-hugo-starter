@@ -20,9 +20,11 @@ I cannot stress this enough. We started not as a startup program but a series of
 
 When we promised to provide any ordinary joe with a self-proclaimed big idea with mentorship, connections, tech and access a lot has happened. Not necessarily for the better though, mostly people made demands about them and we tried to make stupid leeways without telling them to find someone or somewhere else. Even though, we cannot realistically fullfil that requests later on. Being the popular choice for a demographic and getting attention was a good thing at the start. Not anymore.
 
+It is important to recognize the core value presented at a startup program. Making people successful and ensuring growth. This generally has nothing to do with popularity and other connectors per se. You should not admit or flatter anyone to gain a follower or two, nor you should compromise this human aspect by ignoring or automating crucial processes of a program.
+
 **Hard to iterate**
 
-With every broken interaction, a mismanagement or communicative error you lose a boundary or trust. You can't just start from scratch and figure out the way to run your program along the way
+With every broken interaction, a mismanagement or communicative error you lose a boundary or trust. You can't just start from scratch and figure out the way to run your program along the way. Having a skeleton of a program does not cover even the basics. You should be mapping and figuring out key processes, application and lead management, stakeholder, beneficiary and investor relationships at the start before regretting about it later.
 
 **Avoid hunting with trolls**
 
