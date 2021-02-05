@@ -32,6 +32,8 @@ We have 180 of them. Though
 
 **Do not overpromise**
 
+Really, do not do that. The primary drive that turns your business into something that expels people more than you can deliver good results is this.
+
 **It's about them**
 
 This is, entirely about them and their success.
