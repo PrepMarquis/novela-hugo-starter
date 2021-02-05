@@ -18,7 +18,7 @@ Purpose of this piece is to outline the missteps and consequental lessons I pers
 
 I cannot stress this enough. We started not as a startup program but a series of programming sprints and ideathons. What came out of it was a catch-all startup program that was overpromising. A lot of people came to us asking questions at first, that seemed like a promising subject for us to pivot upon. We can potentially turn into a startup factory for early stages and for everyone. What we promised to provide was unmatched at those levels of pay and the fact that we did not require any skill at all quickly turned back on us. After that, I can only say that this is a business of ensuring other's success even at the expense of coming out as ordinary and meager at start.
 
-When we promised to provide any ordinary joe with a self-proclaimed big idea with mentorship, connections, tech and access a lot has happened. Not necessarily for the better though, 
+When we promised to provide any ordinary joe with a self-proclaimed big idea with mentorship, connections, tech and access a lot has happened. Not necessarily for the better though, mostly people made demands about them and we tried to make stupid leeways without telling them to find someone or somewhere else. Even though, we cannot realistically fullfil that requests later on. Being the popular choice for a demographic and getting attention was a good thing at the start. Not anymore.
 
 **Hard to iterate**
 
