@@ -8,3 +8,4 @@ timeToRead = 0
 title = "So Bad That They Can't Ignore You"
 
 +++
+For me there are two types of businesses. You either try to get people in, or you try to get them out.
