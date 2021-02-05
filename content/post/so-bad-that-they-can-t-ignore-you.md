@@ -22,6 +22,8 @@ I cannot stress this enough. We started not as a startup program but a series of
 
 **Avoid hunting with trolls**
 
+Because this is a people's business. You cannot afford to be open to anyone. This is a simple rule, really you can't effectively automate a startup program in its core. Define a type of people and pair them with your cause. Get a type of people and make them your people.
+
 **Partners are only meaningful if they are... well... "partners"**
 
 We have 180 of them. Though 
