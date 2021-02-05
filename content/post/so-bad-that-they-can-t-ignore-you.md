@@ -26,6 +26,8 @@ It is important to recognize the core value presented at a startup program. Maki
 
 With every broken interaction, a mismanagement or communicative error you lose a boundary or trust. You can't just start from scratch and figure out the way to run your program along the way. Having a skeleton of a program does not cover even the basics. You should be mapping and figuring out key processes, application and lead management, stakeholder, beneficiary and investor relationships at the start before regretting about it later.
 
+One you gave it a go it is extremely hard for people to start anew and trusting you to not to break things again at the same time.
+
 **Avoid hunting with trolls**
 
 Because this is a people's business. You cannot afford to be open to anyone. This is a simple rule, really you can't effectively automate a startup program in its core. Define a type of people and pair them with your cause. Get a type of people and make them your people.
