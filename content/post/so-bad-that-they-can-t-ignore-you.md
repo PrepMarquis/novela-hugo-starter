@@ -20,6 +20,8 @@ I cannot stress this enough. We started not as a startup program but a series of
 
 **Hard to iterate**
 
+With every broken interaction, a mismanagement or communicative error you lose a boundary or trust. You can't just start from scratch and figure out the way to run your program along the way
+
 **Avoid hunting with trolls**
 
 Because this is a people's business. You cannot afford to be open to anyone. This is a simple rule, really you can't effectively automate a startup program in its core. Define a type of people and pair them with your cause. Get a type of people and make them your people.
