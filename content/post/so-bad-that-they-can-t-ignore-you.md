@@ -46,6 +46,8 @@ This is, entirely about them and their success.
 
 **You are not a non-profit**
 
+[This is from Simon Sinek actually.](https://www.youtube.com/watch?v=3kDZ8M8GX0Q)
+
 **Do your own thing**
 
 You might have a leadership at the top. Bear with them at the minimum for your own sake. Most of the things I've done was unwarranted and they turned out to save the day. Follow the best practices, value experience, get good mentors and do your own thing.
