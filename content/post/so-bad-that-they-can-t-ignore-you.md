@@ -12,7 +12,7 @@ title = "So Bad That They Can't Ignore You"
 
 Though those two can diverge in uncanny ways. When you overpromise, overexcite, fiddle with new and unproven concepts and amp up your marketing more than your capacity to deliver something meaninful. You can, at least for a short period, make an internet business that tries to get people out. Why do they get people out? Because every other user increases their operational costs and asks unnecessary questions.
 
-Purpose of this piece is to outline the missteps I personally took in my first year of running a startup program. I highly doubt that people would read this piece (or others in that regard) and find something influential in them or anybody reads my blog at all. Nonetheless, let me start.
+Purpose of this piece is to outline the missteps and consequental lessons I personally took in my first year of running a startup program. I highly doubt that people would read this piece (or others in that regard) and find something influential in them or anybody reads my blog at all. Nonetheless, let me start.
 
 **This is a people's business**
 
