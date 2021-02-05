@@ -16,7 +16,7 @@ Purpose of this piece is to outline the missteps I personally took in my first y
 
 This is a people's business
 
-I cannot stress this enough. 
+I cannot stress this enough. We started not as a startup program but a series of programming sprints and ideathons. What came out of it was a catch-all startup program that was overpromising. A lot of people came to us asking questions 
 
 Hard to iterate
 
@@ -24,6 +24,12 @@ Avoid hunting with trolls
 
 Partners are only meaningful if they are... well... **"partners"**
 
+We have 180 of them. Though 
+
 Do not overpromise
 
 It's about them
+
+Do your own thing
+
+You might have a leadership at the top. Bear with them at the minimum for your own sake. Most of the things I've done was unwarranted and they turned out to save the day. Follow the best practices, value experience, get good mentors and do your own thing.
