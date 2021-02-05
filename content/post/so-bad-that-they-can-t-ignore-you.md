@@ -42,7 +42,7 @@ Really, do not do that. The primary drive that turns your business into somethin
 
 **It's about them**
 
-This is, entirely about them and their success.
+This is, entirely about them and their success. That is a good thing by the way.
 
 **You are not a non-profit**
 
