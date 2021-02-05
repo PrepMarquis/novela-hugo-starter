@@ -34,7 +34,7 @@ Because this is a people's business. You cannot afford to be open to anyone. Thi
 
 **Partners are only meaningful if they are... well... "partners"**
 
-We have 180 of them. Though not everyone is a good fit and same thing occurs both ways. If you do not engage with them constructively in other words: if the relationship is somewhat of a zero-sum, that is you are being partners only because of a single give-something-get-something deal then, reconsider it.
+We have 180 of them. Though not everyone is a good fit and same thing occurs both ways. If you do not engage with them constructively in other words: if the relationship is somewhat of a zero-sum, that is you are being partners only because of a single give-something-get-something deal then, reconsider it. Do not use partners to gain credibility or upsell yourself to others. People tend to judge you by your actions, if you cannot give the same performance like that shiny new partner of yours. You will probably regret that upsell.
 
 **Do not overpromise**
 
