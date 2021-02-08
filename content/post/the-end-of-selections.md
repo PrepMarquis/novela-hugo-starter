@@ -52,5 +52,3 @@ Covid-19 showed us that in challenging times as we are in right now. It is impor
 This is why we @ [uretkenakademi.com](https://uretkenakademi.com) were running a fully online incubator program for founders and entrepreneurs before it was cool! Being online helps you scale and distribute your impact at a percent of you would have beared in a full face2face setting.
 
 Most importantly, we believe that in our day and age we should not seek for people who can deliver you knowledge at demand, But rather turn it into a system. This is what the most influential people of our lives and our world (alike) did!
-
-**Yigit Askan - COO @** [**uretkenakademi.com**](https://uretkenakademi.com)
