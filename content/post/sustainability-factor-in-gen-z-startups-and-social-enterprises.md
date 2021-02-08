@@ -80,5 +80,3 @@ When you form a project entirely dependent on a shiny young leader you forbid pe
 Again take a look at formal essays on management and systemic design to craft a medium for self-discovery and fullfilment regardless of the focus and the radius of the work that you put in. It is always assuring that you make a positive impack both inwards and outwards.
 
 I hope this short essay would shed some light into those Z'er issues that we need to take action on as long as we'd want to stay as successful, impactful and resourceful founders and entrepreneurs.
-
-**Yigit Askan - 2020 - COO @ Uretken Akademi**
