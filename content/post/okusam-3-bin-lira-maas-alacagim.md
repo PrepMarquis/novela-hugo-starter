@@ -26,11 +26,18 @@ It wasn't for anyone or everyone, latter was catered towards an established base
 
 The new state didn't need a dream for everyone
 
-Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
+Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool*  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well** -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
+
+* * (reads whatever science or anatolian highscool is available to you.)
+* ** (reads the self proclaimed top 5 universities in Turkey, you know what I am talking about)
 
 That funnel is... well... kinda broken these days.
 
 If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right?
+
+Why the Z generation then... Unimpressed, unmotivated to work and changes jobs like underwear. Hear it from me.
+
+They scammed our parents too.
 
 For anyone still pursing this fruitless, lifeless, remorseful life path. A relic from 2000's. I can only hope that you can see the light at the end of the tunnel somewhere. Everybody is messing with you and you are still keen to attend another useless career fair, another certificate program that nobody cares.
 
