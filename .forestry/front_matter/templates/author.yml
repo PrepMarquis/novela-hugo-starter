@@ -47,5 +47,3 @@ fields:
   showOnly:
     field: featured
     value: true
-pages:
-- content/authors/yigit-askan.md
