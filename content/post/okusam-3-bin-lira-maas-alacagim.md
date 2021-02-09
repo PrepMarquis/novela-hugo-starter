@@ -20,6 +20,10 @@ Before you spend time on my take, please take a step back to look at two other w
 
 Once there was a notion of "American Dream" on the land of free anyone could make it. It had a nation building aspect whether you consider the conquering the west of the states for the first time or a 1950's home in the suburbs: a car, wife, kids, picket fences and drive-ins. All of these gave the middle class (or the rising middle class) a reason to strive for the whatever small scraps on the table after corporate and politics did their thing.
 
+A similar thing once presented itself. Let's call it "Turkish Dream" for similarity.
+
+It wasn't for anyone or everyone, latter was catered towards an established base of strivers: a so called middle class that obtained their status via education.
+
 Bütün bunları bir şaka veya uzak gelecekten gelen yankılar olarak değerlendirmek isteyenlere söyleyecek bir şeyim yok. Şimdiye kadar katlanmak zorunda kaldıklarınızı düşünün,
 
 Hey you!
