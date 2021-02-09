@@ -54,6 +54,8 @@ Everybody has their objections aboyut the generation Z. The best things are miss
 
 Every presentation I came across is heavily gamified to get into the minds of the so called attention seeking, mobile-first generation Z. They show you your career path as a ladder, time to get to each of them, benefits and pay attached. Whatever unimaginative, unorginal, though demanding that you have in store for us is not really important or makes sense anymore.
 
+It has come to a point that much of the standard 8-5 grinders does not really require a skillset aside from being a decent human being and operating a computer at a basic level and speaking plaza Turkish due constant practice. Keep marketing that shit like it is something special and we should be grateful for finding it. OK?
+
 ##### Do we have a future after all?
 
 So, you know people from certain backgrounds tend to collect and hoard value that is easier to carry and exchange. Those of whom generally are oppressed, displaced or not welcomed with a warm smile to feel comfortable for a big balls investment in the countries they live in. They never that that trust level (think of Nazi Germany)
