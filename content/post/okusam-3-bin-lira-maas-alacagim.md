@@ -24,6 +24,8 @@ A similar thing once presented itself. Let's call it "Turkish Dream" for similar
 
 It wasn't for anyone or everyone, latter was catered towards an established base of strivers: a so called middle class that obtained their status via education. You've got the internal migration surge at the 80's and beyond where the advent of the national university placement exam is. Acts as a "great equalizer" in a crowded country with limited resources to select the best version of middle class workers there is. Very similar to Chinese Gaoako and Indian JEE in that regard. Though a little bit different as ours is not entirely based on merit, can be on the exam day but not on the field itself.
 
+You don't need an exam or a promise for a middle of the road modern life for other classes or walks of life to strive for something or come to live in the city, they already done that.
+
 The new state didn't need a dream for everyone
 
 Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool *  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well ** -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
