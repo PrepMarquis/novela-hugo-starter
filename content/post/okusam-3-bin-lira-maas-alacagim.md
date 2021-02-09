@@ -18,7 +18,7 @@ Before you spend time on my take, please take a step back to look at two other w
 
 [2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
 
-2Once there was a notion of "American Dream" on the land of free anyone could make it. 
+Once there was a notion of "American Dream" on the land of free anyone could make it. 
 
 Bütün bunları bir şaka veya uzak gelecekten gelen yankılar olarak değerlendirmek isteyenlere söyleyecek bir şeyim yok. Şimdiye kadar katlanmak zorunda kaldıklarınızı düşünün,
 
