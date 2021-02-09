@@ -8,7 +8,7 @@ timeToRead = 0
 title = "Okusam 3 Bin Lira Maaş Alacağım"
 
 +++
-**I really wanted to write this in Turkish.** It is more appropriate for the context, really what hurts me more is to see my ability to write coherent pieces in Turkish has somewhat detoriated. 
+**I really wanted to write this in Turkish.** It is more appropriate for the context, really what hurts me more is to see my ability to write coherent pieces in Turkish has somewhat detoriated. Probaly due to practical usage I rarely ever use it to convey anything meaninful or throughly researched anymore.
 
 Gözümün önünde her gün olup biten olayları gerçekten fark etmem ve aksiyon almam için birilerinin çizdiği gelecek portresini görmem gerekir.
 
