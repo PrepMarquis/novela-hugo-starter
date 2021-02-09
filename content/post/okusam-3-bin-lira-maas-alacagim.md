@@ -38,7 +38,7 @@ To be honest, before the 80's social mobilty through education was a neat practi
 
 That funnel is... well... kinda broken these days. You cannot realistically expect the same economic or social results at the same or slightly higer amounts of work you've out into the system, everyday more would be required.
 
-If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right?
+If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right? It is so natural that managers that grew up with and profited from this funnel has right to complain about that.
 
 Why the Z generation then... Unimpressed, unmotivated to work and changes jobs like underwear. Hear it from me.
 
