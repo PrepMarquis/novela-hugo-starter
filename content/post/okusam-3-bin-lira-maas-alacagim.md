@@ -45,6 +45,8 @@ Can you expect otherwise when somebody hears nothing but selfishness, extra unpa
 
 At my university, we do these big name top shelf career fairs where we supposed to meet recruiters. What is surprising about that is interviews, job processes presented from every year that progresses are moving towards to becoming a total practical joke.
 
+Everybody has their objections aboyut the generation Z. The best things are missed so far. This is a generation of entrepreneurs, husters, social changers and [volunteers](https://www.forbes.com/sites/forbesnonprofitcouncil/2018/11/09/gen-z-what-you-need-to-know-about-the-newest-generation-of-donors-and-volunteers/?sh=62103bb92fd6). Who do not need  someone with authority-by-maturity to boss them around on something so unremarkable.
+
 ##### Do we have a future after all?
 
 So, you know people from certain backgrounds tend to collect and hoard value that is easier to carry and exchange. Those of whom generally are oppressed, displaced or not welcomed with a warm smile to feel comfortable for a big balls investment in the countries they live in. They never that that trust level (think of Nazi Germany)
