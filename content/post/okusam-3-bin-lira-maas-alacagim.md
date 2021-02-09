@@ -28,8 +28,9 @@ The new state didn't need a dream for everyone
 
 Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool*  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well** -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
 
-* * (reads whatever science or anatolian highscool is available to you.)
-* ** (reads the self proclaimed top 5 universities in Turkey, you know what I am talking about)
+\* (reads whatever science or anatolian highscool is available to you.)
+
+\** (reads the self proclaimed top 5 universities in Turkey, you know what I am talking about)
 
 That funnel is... well... kinda broken these days.
 
@@ -51,7 +52,7 @@ Everybody has their objections aboyut the generation Z. The best things are miss
 
 So, you know people from certain backgrounds tend to collect and hoard value that is easier to carry and exchange. Those of whom generally are oppressed, displaced or not welcomed with a warm smile to feel comfortable for a big balls investment in the countries they live in. They never that that trust level (think of Nazi Germany)
 
-It is really interesting to see a whole arsenal of top holdings and firms baffled on the sight of this realm. **People doesn't think they have a future for crying out loud.** Working for you or any of that kind is an investment, and what'd be the return? Oh yes, enough monthly income to rent a dungeon in big cities. What is it more you want? 
+It is really interesting to see a whole arsenal of top holdings and firms baffled on the sight of this realm. **People doesn't think they have a future for crying out loud.** Working for you or any of that kind is an investment, and what'd be the return? Oh yes, enough monthly income to rent a dungeon in big cities. What is it more you want?
 
 For anyone still pursing this fruitless, lifeless, remorseful life path. A relic from 2000's. I can only hope that you can see the light at the end of the tunnel somewhere. Everybody is messing with you and you are still keen to attend another useless career fair, another certificate program that nobody cares.
 
