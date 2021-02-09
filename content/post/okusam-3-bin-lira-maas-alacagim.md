@@ -12,9 +12,7 @@ title = "Okusam 3 Bin Lira Maaş Alacağım"
 
 Gözümün önünde her gün olup biten olayları gerçekten fark etmem ve aksiyon almam için birilerinin çizdiği gelecek portresini görmem gerekir.
 
-Bu yazıyı okuyan ve 2000-2010 dönemine nostaljik bakabilen çoğu yaşıtımın da benim gibi düşündüğüne eminim.
-
-Bana kulak vermeden önce, beni yazının başlığında gördüğünüz konuyu işlemeye ikna eden çalışmaları incelemenizi öneririm. Zira yaptığım, zaten tanımlanmış bir probleme farklı bir kuşak penceresinden bakmaktan ibarettir.
+Before you spend time on my take, please take a step back to look at two other wonderful writeups that encouraged me to produce mine. I just presented an established problem from my own POV, nothing more.
 
 [Yazı 1](https://twitter.com/mrozansonmez/status/1354068332991885315)
 
