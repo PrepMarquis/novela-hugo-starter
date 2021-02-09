@@ -30,7 +30,7 @@ Funnel was simple enough: start in a city -> get a good elementary education fro
 
 That funnel is... well... kinda broken these days.
 
-If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 - 4000₺ in the end. Because everybody is doing it. Right?
+If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right?
 
 For anyone still pursing this fruitless, lifeless, remorseful life path. A relic from 2000's. I can only hope that you can see the light at the end of the tunnel somewhere. Everybody is messing with you and you are still keen to attend another useless career fair, another certificate program that nobody cares.
 
