@@ -34,6 +34,8 @@ Funnel was simple enough: start in a city -> get a good elementary education fro
 
 \** (reads the self proclaimed top 5 universities in Turkey, you know what I am talking about)
 
+To be honest, before the 80's social mobilty through education was a neat practice, that was nothing new. Though  after the 80's and especially in the 2000's where a recovering economy with promising signs of development, social capital etc. middle class people could be afforded more compared to their families.
+
 That funnel is... well... kinda broken these days.
 
 If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right?
