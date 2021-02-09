@@ -39,6 +39,8 @@ Why the Z generation then... Unimpressed, unmotivated to work and changes jobs l
 
 ##### They scammed our parents too.
 
+Can you expect otherwise when somebody hears nothing but selfishness, extra unpaid and demanding work hours, unwilling neglect when their parents from private sector talks about their job. You bet.
+
 ##### The jobs are: unimaginative, repetitive and condescending.
 
 At my university, we do these big name top shelf career fairs where we supposed to meet recruiters. What is surprising about that is interviews, job processes presented from every year that progresses are moving towards to becoming a total practical joke.
