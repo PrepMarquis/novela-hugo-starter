@@ -26,7 +26,7 @@ It wasn't for anyone or everyone, latter was catered towards an established base
 
 The new state didn't need a dream for everyone
 
-Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool*  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well** -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
+Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool *  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well ** -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
 
 \* (reads whatever science or anatolian highscool is available to you.)
 
