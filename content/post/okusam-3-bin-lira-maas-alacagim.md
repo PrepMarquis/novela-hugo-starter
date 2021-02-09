@@ -41,6 +41,8 @@ Why the Z generation then... Unimpressed, unmotivated to work and changes jobs l
 
 ##### The jobs are: unimaginative, repetitive and condescending.
 
+##### Do we have a future after all?
+
 For anyone still pursing this fruitless, lifeless, remorseful life path. A relic from 2000's. I can only hope that you can see the light at the end of the tunnel somewhere. Everybody is messing with you and you are still keen to attend another useless career fair, another certificate program that nobody cares.
 
 Hey you!
