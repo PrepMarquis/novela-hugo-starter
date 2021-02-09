@@ -28,6 +28,10 @@ The new state didn't need a dream for everyone
 
 Funnel was simple enough: start in a city -> get a good elementary education from a gov school -> sit in highschool entrance exams -> get a good secondary education from a gov highscool  (get to know your fellow prospective middle classers as well) -> sit in university enterance exams and perform exceptionally well -> get a good job and a stable career where you can practive the lifestyle of Turkish white collar middle class.
 
+That funnel is... well... kinda broken these days.
+
+If I can be candid with you. I am the product of that belief system as well
+
 Bütün bunları bir şaka veya uzak gelecekten gelen yankılar olarak değerlendirmek isteyenlere söyleyecek bir şeyim yok. Şimdiye kadar katlanmak zorunda kaldıklarınızı düşünün,
 
 Hey you!
