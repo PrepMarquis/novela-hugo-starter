@@ -39,7 +39,7 @@ Why the Z generation then... Unimpressed, unmotivated to work and changes jobs l
 
 ##### They scammed our parents too.
 
-Can you expect otherwise when somebody hears nothing but selfishness, extra unpaid and demanding work hours, unwilling neglect when their parents from private sector talks about their job. You bet.
+Can you expect otherwise when somebody hears nothing but selfishness, extra unpaid and demanding work hours, unwilling neglect when their parents from private sector talks about their job? You bet.
 
 ##### The jobs are: unimaginative, repetitive and condescending.
 
