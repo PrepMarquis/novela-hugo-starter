@@ -18,10 +18,6 @@ Before you spend time on my take, please take a step back to look at two other w
 
 [Yazı 2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
 
-Z kuşağı, 2000'lerle birlikte
-
-Kökenimi inkar ederek bir şey kazanabileceğimi düşünmüyorum. Ben de orta direk hayalinin bir ürünüyüm. İlk ve ortaöğretim hayatım
-
 Bütün bunları bir şaka veya uzak gelecekten gelen yankılar olarak değerlendirmek isteyenlere söyleyecek bir şeyim yok. Şimdiye kadar katlanmak zorunda kaldıklarınızı düşünün,
 
 Hey sen!
