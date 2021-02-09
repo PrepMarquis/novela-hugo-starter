@@ -3,7 +3,7 @@ authors = []
 date = 2021-01-30T13:38:55Z
 excerpt = "2000'lerin orta direk rüyasından uyanma zamanı gelmedi mi?"
 hero = "/images/bantersnaps-9o8ydygtt64-unsplash.jpg"
-timeToRead = 0
+timeToRead = 7
 title = "Okusam 3 Bin Lira Maaş Alacağım"
 
 +++
@@ -49,7 +49,7 @@ Can you expect otherwise when somebody hears nothing but selfishness, extra unpa
 
 At my university, we do these big name top shelf career fairs where we supposed to meet recruiters. What is surprising about that is interviews, job processes presented from every year that progresses are moving towards to becoming a total practical joke.
 
-Everybody has their objections aboyut the generation Z. The best things are missed so far. This is a generation of entrepreneurs, husters, social changers and [volunteers](https://www.forbes.com/sites/forbesnonprofitcouncil/2018/11/09/gen-z-what-you-need-to-know-about-the-newest-generation-of-donors-and-volunteers/?sh=62103bb92fd6). Who do not need  someone with authority-by-maturity to boss them around on something so unremarkable. Please ask yourself, for the last 3-4 years did you appreciate youth taking part in political, social or economic matters? Leading them? Should we thing again how we approach them in the work setting? Even f*king [plants](https://www.theguardian.com/food/2021/feb/03/spams-new-frontier-now-even-spinach-can-send-emails) can send emails now.
+Everybody has their objections about the generation Z. The best things are missed so far. This is a generation of entrepreneurs, husters, social changers and [volunteers](https://www.forbes.com/sites/forbesnonprofitcouncil/2018/11/09/gen-z-what-you-need-to-know-about-the-newest-generation-of-donors-and-volunteers/?sh=62103bb92fd6). Who do not need  someone with authority-by-maturity to boss them around on something so unremarkable. Please ask yourself, for the last 3-4 years did you appreciate youth taking part in political, social or economic matters? Leading them? Should we thing again how we approach them in the work setting? Even f*king [plants](https://www.theguardian.com/food/2021/feb/03/spams-new-frontier-now-even-spinach-can-send-emails) can send emails now.
 
 Every presentation I came across is heavily gamified to get into the minds of the so called attention seeking, mobile-first generation Z. They show you your career path as a ladder, time to get to each of them, benefits and pay attached. Whatever unimaginative, unorginal, though demanding that you have in store for us is not really important or makes sense anymore.
 
