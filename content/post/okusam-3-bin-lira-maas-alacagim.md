@@ -10,7 +10,7 @@ title = "Okusam 3 Bin Lira Maaş Alacağım"
 +++
 **I really wanted to write this in Turkish.** Before everything it is more appropriate for the context, really what hurts me more is to see my ability to write coherent pieces in Turkish has somewhat detoriated. Probaly due to practical usage of it. I rarely ever use it to convey anything meaninful or throughly researched anymore.
 
-Gözümün önünde her gün olup biten olayları gerçekten fark etmem ve aksiyon almam için birilerinin çizdiği gelecek portresini görmem gerekir.
+Though what I have a hard time with is to see everyday things, when mounted on top of one another, creating bigger problems and distrupting systems in the process. I generally have to have an outsider paint me a picture to understand.
 
 Before you spend time on my take, please take a step back to look at two other wonderful writeups that encouraged me to produce mine. I just presented an established problem from my own POV, nothing more.
 
