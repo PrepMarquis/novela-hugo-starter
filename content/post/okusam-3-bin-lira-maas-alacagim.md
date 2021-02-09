@@ -14,11 +14,11 @@ Gözümün önünde her gün olup biten olayları gerçekten fark etmem ve aksiy
 
 Before you spend time on my take, please take a step back to look at two other wonderful writeups that encouraged me to produce mine. I just presented an established problem from my own POV, nothing more.
 
-[Yazı 1](https://twitter.com/mrozansonmez/status/1354068332991885315)
+[1](https://twitter.com/mrozansonmez/status/1354068332991885315)
 
-[Yazı 2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
+[2](https://www.paraanaliz.com/2020/ekonomi/kerim-rota-yazdi-baris-ve-sinemin-orta-direk-olma-hayali-50957/)
 
-Once there was a notion of "American Dream" on the land of free anyone could make it. 
+2Once there was a notion of "American Dream" on the land of free anyone could make it. 
 
 Bütün bunları bir şaka veya uzak gelecekten gelen yankılar olarak değerlendirmek isteyenlere söyleyecek bir şeyim yok. Şimdiye kadar katlanmak zorunda kaldıklarınızı düşünün,
 
