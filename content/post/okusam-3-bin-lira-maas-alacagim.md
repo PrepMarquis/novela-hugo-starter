@@ -34,7 +34,7 @@ Funnel was simple enough: start in a city -> get a good elementary education fro
 
 \** (reads the self proclaimed top 5 universities in Turkey, you know what I am talking about)
 
-To be honest, before the 80's social mobilty through education was a neat practice, that was nothing new. Though  after the 80's and especially in the 2000's where a recovering economy with promising signs of development, social capital etc. middle class people could be afforded more compared to their families.
+To be honest, before the 80's social mobilty through education was a neat practice, that was nothing new. Though  after the 80's and especially in the 2000's where a recovering economy with promising signs of development, social capital etc. middle class people could be afforded more compared to their families. You could expect to have a house, a car or two, send your kids to private institutions and have money on the side. That was the dream after all.
 
 That funnel is... well... kinda broken these days.
 
