@@ -22,7 +22,7 @@ Once there was a notion of "American Dream" on the land of free: anyone could ma
 
 A similar thing once presented itself. Let's call it "Turkish Dream" for similarity.
 
-It wasn't for anyone or everyone, latter was catered towards an established base of strivers: a so called middle class that obtained their status via education.
+It wasn't for anyone or everyone, latter was catered towards an established base of strivers: a so called middle class that obtained their status via education. You've got the internal migration surge at the 80's and beyond where the advent of the national university placement exam is. Acts as a "great equalizer" in a crowded country with limited resources to select the best version of middle class workers there is. Very similar to Chinese Gaoako and Indian JEE in that regard. Though a little bit different as ours is not entirely based on merit, can be on the exam day but not on the field itself.
 
 The new state didn't need a dream for everyone
 
