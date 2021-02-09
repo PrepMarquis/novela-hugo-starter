@@ -49,7 +49,7 @@ At my university, we do these big name top shelf career fairs where we supposed 
 
 So, you know people from certain backgrounds tend to collect and hoard value that is easier to carry and exchange. Those of whom generally are oppressed, displaced or not welcomed with a warm smile to feel comfortable for a big balls investment in the countries they live in. They never that that trust level (think of Nazi Germany)
 
-It is really interesting to see a whole arsenal of top holdings and firms baffled on the sight of this realm. **People doesn't think they have a future for crying out loud.** Working for you or any of that kind is an investment, and what'd be the return? Oh yes, enough monhly income to rent a dungeon in big cities. What is it more you want? 
+It is really interesting to see a whole arsenal of top holdings and firms baffled on the sight of this realm. **People doesn't think they have a future for crying out loud.** Working for you or any of that kind is an investment, and what'd be the return? Oh yes, enough monthly income to rent a dungeon in big cities. What is it more you want? 
 
 For anyone still pursing this fruitless, lifeless, remorseful life path. A relic from 2000's. I can only hope that you can see the light at the end of the tunnel somewhere. Everybody is messing with you and you are still keen to attend another useless career fair, another certificate program that nobody cares.
 
