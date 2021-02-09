@@ -36,7 +36,7 @@ Funnel was simple enough: start in a city -> get a good elementary education fro
 
 To be honest, before the 80's social mobilty through education was a neat practice, that was nothing new. Though  after the 80's and especially in the 2000's where a recovering economy with promising signs of development, social capital etc. middle class people could be afforded more compared to their families. You could expect to have a house, a car or two, send your kids to private institutions and have money on the side. That was the dream after all.
 
-That funnel is... well... kinda broken these days.
+That funnel is... well... kinda broken these days. You cannot realistically expect the same economic or social results at the same or slightly higer amounts of work you've out into the system, everyday more would be required.
 
 If I can be candid with you. I am the product of that belief system as well everything I did, ganied as a skill paraded as my success was about that thing, that notion about filling up my resume with random garbage just to get in a 8to5 job with 4000₺ attached in the end. Because everybody is doing it. Right?
 
