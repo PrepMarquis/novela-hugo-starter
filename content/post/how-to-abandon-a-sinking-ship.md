@@ -9,3 +9,5 @@ title = "How to abandon a sinking ship?"
 
 +++
 I am not really comfortable with goodbyes, if I seriously spent time with someone or someTHING, chances are I've put an amount of effort more than required and that is usually the thing that sets me to pack my things.
+
+As a Turkish gen-z (however I don't fit in this category, socioeconomically) my life has been full of these so called sinking ships.
