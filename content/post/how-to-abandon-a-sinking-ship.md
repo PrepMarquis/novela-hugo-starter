@@ -8,6 +8,6 @@ timeToRead = 0
 title = "How to abandon a sinking ship?"
 
 +++
-I am not really comfortable with goodbyes, if I seriously spent time with someone or someTHING, chances are I've put an amount of effort more than required and that is usually the thing that sets me to pack my things.
+Life has subtle ways to make you think about your character that you wouldn't do otherwise, normally.
 
-As a Turkish gen-z (however I don't fit in this category, socioeconomically) my life has been full of these so called sinking ships.
+Being in quarantine for a straight year feels like this period, at least for me, is not really much about growth but to fix deeply rooted habits and perceptions that I picked up around early teens and carried forward, replacing them with better ones.
