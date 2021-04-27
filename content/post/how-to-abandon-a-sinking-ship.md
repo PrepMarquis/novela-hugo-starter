@@ -15,3 +15,10 @@ I like a certain American tradition, they make teenagers to work at service leve
 Hoops I've jumped through so far taught me to appreciate opportunity, embrace and grow towards it. Though there is no solid education to spot false-opportunity especially when you are young, clueless in a similarly clueless and hopeless job market.
 
 I did my service at a non-profit I helped founding. (ironic!) late it was, but I have learned to spot red flags and this is a post to remind me of them everywhere I go from now.
+
+* There are no clear goals
+* Organization resist to form any structure
+* Job descriptions are not clear
+* They fail to recognize key employees
+* They do not suit your work style
+* 
