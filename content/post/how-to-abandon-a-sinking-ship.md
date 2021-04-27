@@ -21,4 +21,5 @@ Hoops I've jumped through so far taught me to appreciate opportunity, embrace an
 * Job descriptions are not clear
 * They fail to recognize key employees
 * They do not suit your work style
-* 
+
+  This, I don't have a solid theory to quote. Though thorugh exprience I certainly came to believe everyone has some sort of work style that can be categorized generally made up  by what communication means to a person.
