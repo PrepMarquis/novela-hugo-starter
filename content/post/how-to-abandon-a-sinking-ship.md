@@ -23,11 +23,22 @@ I think especially under the influence of COVID many people compared to before t
 I learned to spot and turn down half-opportunities the hard way and this blog post is entirely about them. If you are on a search to find your next volunteering activity, bootstraped activism scheme or a company to join to please consider appearent red flags early in your enrollment to avoid so called zero-sum-games and no-growth zones.
 
 * There are no clear goals
+
+This is often seen in newly formed, however ambitious activist groups without the sense of emergency (e.g. activisim in areas other than what public sees as emergencies such as climate etc. There are rarely any public rallies to support access to digital literacy.) since there is no visibility from media or mass activism surrounding the issue, activists generally try to find ways to champion those causes around their means. This might result them having no big purpose or clear agenda at all.
+
 * Organization resist to form any structure
+
+The thing about hip workplaces the person you are supposed to report to can change anytime for any reason and for no reason. Maybe there is comfort hearing the phrase "we are family" over and over again but after some time and experience it spells out added stress for everybody involved.
+
 * Job descriptions are not clear
-* They fail to recognize key employees
 
+When going to campuses or part-time jobs, clubs are not options people tend to look for online communities to continue socializing. Though there has been a surge of blurred lines around what should be a professional occupation and where volunteer work starts and ends. Often there are organizations to delegate arbitrary tasks on entry-level jobs seekers totally unpaid, referring growth-potential and experience. Of course those never result in a good leverage for both parties and a key contributor to my zero-sum-game reference since attendees to those schemes never gain anything meaninful other than shooting blank e-mails and attending some trainings without long term contribution to their employable hard-skills.
 
+There are also organizations who want to desperately bootstrap but lack the funds to hire experts. So they delegate what they have to a large number of people.
+
+When you constantly told to improvise, come up with solutions for everything and anything that means you are not spending time honing a particular skill that might help you in the long run.
+
+* No respect for personal boundaries
 * They claim to collaborate or partner with so called big names to amaze people
 
 
