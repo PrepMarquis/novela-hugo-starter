@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-03-17T07:39:13Z
-draft = true
 excerpt = "A hard skill that I should have learned some time ago"
 hero = "/images/insung-yoon-fbjfheuc608-unsplash.jpg"
 timeToRead = 0
@@ -38,10 +37,12 @@ There are also organizations who want to desperately bootstrap but lack the fund
 
 When you constantly told to improvise, come up with solutions for everything and anything that means you are not spending time honing a particular skill that might help you in the long run.
 
-* No respect for personal boundaries
 * They claim to collaborate or partner with so called big names to amaze people
 
+When you can't buy anyone's time with real money you tend to look for alternatives. In today's hyper-inflated job market that means luring inexperienced ones with the promise of working with big-names. Worst case is when they use those to signal their authenticity or prowess as brand or org. Those are most suitable cases for backfiring.
 
 * They do not suit your work style
 
   This, I don't have a solid theory to quote. Though thorugh exprience I certainly came to believe everyone has some sort of work style that can be categorized generally made up  by what communication means to a person.
+
+  For me, if you are not simply selling items from AliExpress you should recognize that the job you do has some elements of people. I value culture and brevity and chances are you have your values as well. You need to seek that out in an organization you work or volunteer for. As an example, if you value open communication as a person in an organization with passive aggressive forms of communication, mood shifts you might want to consider your alternatives.
