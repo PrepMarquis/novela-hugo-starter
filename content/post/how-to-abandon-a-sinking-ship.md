@@ -14,7 +14,7 @@ Hoops I've jumped through so far taught me to appreciate opportunity, embrace an
 
 I like a certain American tradition, they make teenagers to work at service level jobs to make them learn about life and make a few bucks on the side. We don't have that in my country though it would be better if we did. Until you get a service level job and exchange with people who are not your friends or family nor equals, you understand that you wouldn't want to be known and approached by anyone and everyone. You better find your tribe from the crowd and stick to them.
 
-I did my service at a non-profit I helped founding. (ironic!) late it was, but I have learned to spot red flags and this is a post to remind me of them everywhere I go from now.
+I did my service at a non-profit I helped founding. (ironic!) late it was, but I have learned to spot red flags and this is a post to remind me of them everywhere I go from now. However under well intentions I started working at the non-profit, my main goal was to fin my "tribe" amongst the crowd and create opportunities for them.
 
 * There are no clear goals
 * Organization resist to form any structure
