@@ -26,6 +26,11 @@ I learned to spot and turn down half-opportunities the hard way and this blog po
 * Organization resist to form any structure
 * Job descriptions are not clear
 * They fail to recognize key employees
+
+
+* They claim to collaborate or partner with so called big names to amaze people
+
+
 * They do not suit your work style
 
   This, I don't have a solid theory to quote. Though thorugh exprience I certainly came to believe everyone has some sort of work style that can be categorized generally made up  by what communication means to a person.
