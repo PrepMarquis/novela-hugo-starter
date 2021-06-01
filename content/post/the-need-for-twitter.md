@@ -7,7 +7,6 @@ timeToRead = 1
 title = "The Need for Twitter"
 
 +++
-
 ##### Now I understand how can someone need Twitter at all.
 
 Simple, same thing I'm doing here. Just a little smaller in size.
