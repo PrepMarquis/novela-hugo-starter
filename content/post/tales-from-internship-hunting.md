@@ -42,6 +42,8 @@ My support goes out to you if your only choice is to find work in this condition
 
 **University > work**
 
+Don't do internship more that it contributes to you or just to fill in the blanks in your CV. More time you dump on pointless internships will hurt you in the long run because of the valuable study and personal development time you've lost in the process.
+
 **Irrelevant = nonexistent**
 
 **Don't be hard on yourself**
