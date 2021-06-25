@@ -8,3 +8,4 @@ timeToRead = 0
 title = "Tales From Internship Hunting"
 
 +++
+Hey, are you a web developer? Fine, please make sure to add an "apply with LinkedIn" or import your CV selection whenever you decide to create yet another job portal.
