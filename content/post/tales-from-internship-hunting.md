@@ -26,7 +26,7 @@ Companies do that all the time. They get CVs, feed them into ATS algorithms, rev
 
 **Know when it pays to be genuine**
 
-Yep! be yourself! Well, not everytime. 
+Yep! just be yourself in job interviews! Well, not everytime. 
 
 **Case of nepotism**
 
