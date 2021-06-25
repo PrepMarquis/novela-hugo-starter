@@ -34,6 +34,12 @@ So, dress for the job you want not the one you have. In some cases your attitude
 
 I don't know about other countries, but if you share the same country as me (or same region) don't get upset when you are turned away. It might be just good old nepotism.
 
+People would openly ask you if you have any relatives working in that company. References are a way to conduct nepotism. You will be easily hired being a relative of a relative.
+
+If you are struggling due to this, narrow down your search and focus on building a personal brand as much as possible to get a few personal connections. You probably won't get any luck with shotgunning.
+
+My support goes out to you if your only choice is to find work in this conditions.
+
 **University > work**
 
 **Irrelevant = nonexistent**
