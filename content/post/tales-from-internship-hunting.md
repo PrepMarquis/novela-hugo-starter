@@ -24,4 +24,6 @@ Unless you are working in retail, or your career resembles a retail item (fast c
 
 **Case of nepotism**
 
+**University > work**
+
 **Don't be hard on yourself**
