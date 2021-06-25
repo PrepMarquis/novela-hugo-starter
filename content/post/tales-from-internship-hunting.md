@@ -26,10 +26,14 @@ Companies do that all the time. They get CVs, feed them into ATS algorithms, rev
 
 **Know when it pays to be genuine**
 
-Yep! just be yourself in job interviews! Well, not everytime. 
+Yep! just be yourself in job interviews! Well, not everytime. You see in 2019 and a small portion of 2020. I've always got similar results in personality tests, formal and informal, following that year where I got my first real responsibility of being a lead PM at a project; the way I approach jobs and people suddenly started to change, nowadays that tests gives out marginally different results that my 2019 version might not even believe.
+
+So, dress for the job you want not the one you have. In some cases your attitude and personality can heavilty effect the outcomes (e.g. sales) that case reflecting your before-self 100% might not be the best strategy to win what is at stake. That is not to say to veil your true personality of course, but think about every early job and internship offer as a way to mold yourself a more complete set. Being open to opportunities and connecting bits of your true self to what the job requires is key.
 
 **Case of nepotism**
 
 **University > work**
+
+**Irrelevant = nonexistent**
 
 **Don't be hard on yourself**
