@@ -16,7 +16,9 @@ If you are like me, studying for a degree that is without relevant experience, w
 
 Unless you are working in retail, or your career resembles a retail item (fast consumption, much needed, versatile, almost universal etc.) you, reaching out to a complete stranger - hiring manager- **won't initiate a conversation by itself**. You are at face value just another task to be dealt with.
 
-A plethora of reasons might have led to them not considering you; generally entry-low level applications are ghosted when there is no fit. This inevitably leads to you doubting your talent and fit factor in workplace.
+A plethora of reasons might have led to them not considering you; generally entry-low level applications are ghosted when there is no fit. This inevitably leads to you doubting your talent and fit factor in workplace. They obviously don't have to time to tell anyone reasons.
+
+Following-up helps in two ways. 1. You can get valuable feedback to improve your application, your presentation for the next time. 2. You will be sure of your talent and develop a more healthy way to approach the problem.
 
 **Don't juggle responsibilities**
 
