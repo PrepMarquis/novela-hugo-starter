@@ -46,4 +46,8 @@ Don't do internship more that it contributes to you or just to fill in the blank
 
 **Irrelevant = nonexistent**
 
+They rarely tell this to anyone. But as far as my experience goes. Most of the openings only look for candidates with relevant job / internship experience. So any type of experience or even closer ones won't count.
+
 **Don't be hard on yourself**
+
+I've been rejected for the dumbest reasons you can imagine. Chances are you have or will be too. If you haven't given up on trying something new everytime you've let down. You are still progressing.
