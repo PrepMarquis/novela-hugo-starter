@@ -32,6 +32,8 @@ So, dress for the job you want not the one you have. In some cases your attitude
 
 **Case of nepotism**
 
+I don't know about other countries, but if you share the same country as me (or same region) don't get upset when you are turned away. It might be just good old nepotism.
+
 **University > work**
 
 **Irrelevant = nonexistent**
