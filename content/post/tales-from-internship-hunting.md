@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-06-24T10:37:42Z
-draft = true
 excerpt = "Nobody deserved to go through this"
 hero = "/images/campaign-creators-qci_mzvodou-unsplash.jpg"
 timeToRead = 0
@@ -27,6 +26,8 @@ It's tempting to get more than you can handle to boost your profile. Although ha
 Look at it this way,
 
 How many people you know wants to learn another language? Think about the percent who will actually commit to learn? What will be the final percent who will successful?
+
+Internships are not performance heavy pursuits, you don't have to treat the experience as your only source of personal validation.
 
 **Automate**
 
