@@ -31,7 +31,7 @@ Internships are not performance heavy pursuits, you don't have to treat the expe
 
 **Automate**
 
-Companies do that all the time. They get CVs, feed them into ATS algorithms, review and send out results, conduct interviews. More or less all automated. So why don't you? Grab a copy of airtable's [job huting templates](https://airtable.com/templates/education/expvtfBrVBr0jxcwE/student-job-search), sign up for [startup.jobs](https://startup.jobs)'s email alerts etc. This will save you a lot of time and makes sure that you don't allow opportunities to fall down in cracks.
+Companies do that all the time. They get CVs, feed them into ATS algorithms, review and send out results, conduct interviews. More or less all automated. So why don't you? Grab a copy of airtable's [job hunting templates](https://airtable.com/templates/education/expvtfBrVBr0jxcwE/student-job-search), sign up for [startup.jobs](https://startup.jobs)'s email alerts etc. This will save you a lot of time and makes sure that you don't allow opportunities to fall down in cracks.
 
 **Know when it pays to be genuine**
 
