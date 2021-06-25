@@ -22,6 +22,12 @@ Following-up helps in two ways. 1. You can get valuable feedback to improve your
 
 **Don't juggle responsibilities**
 
+It's tempting to get more than you can handle to boost your profile. Although having shiny brand names with you does not do much anymore.
+
+Look at it this way,
+
+How many people you know wants to learn another language? Think about the percent who will actually commit to learn? What will be the final percent who will successful?
+
 **Automate**
 
 Companies do that all the time. They get CVs, feed them into ATS algorithms, review and send out results, conduct interviews. More or less all automated. So why don't you? Grab a copy of airtable's [job huting templates](https://airtable.com/templates/education/expvtfBrVBr0jxcwE/student-job-search), sign up for [startup.jobs](https://startup.jobs)'s email alerts etc. This will save you a lot of time and makes sure that you don't allow opportunities to fall down in cracks.
